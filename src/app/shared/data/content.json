@@ -353,25 +353,31 @@
         "main-title":"ساندوتشات على الفحم",
         "category": "cat-1",
         "image": "assets/images/projects/square/pic4.jpg",
-        "title": "ساندوتش كفتة كباب لحم مع بطاطس",
-        "title2": "Beef Kofta Kebab Sandwich with Fries",
-        "subtitle": "1,400"
+        "title": "ساندوتش كفتة كباب لحم",
+        "subTitle":"مع بطاطس",
+        "title2": "Beef Kofta Kebab Sandwich",
+        "subTitle2":"with Fries",
+        "price": "1,400"
       },
       {
         "main-title":"ساندوتشات على الفحم",
         "category": "cat-1",
         "image": "assets/images/projects/square/pic2.jpg",
-        "title": "ساندوتش كباب لحم مع بطاطس",
-        "title2": "Beef Kebab Sandwich with Fries",
-        "subtitle": "1,400"
+        "title": "ساندوتش كباب لحم",
+        "subTitle":"مع بطاطس",
+        "title2": "Beef Kebab Sandwich",
+        "subTitle2":"with Fries",
+        "price": "1,400"
       },
       {
         "main-title":"ساندوتشات على الفحم",
         "category": "cat-1",
         "image": "assets/images/projects/square/pic3.jpg",
-        "title": "ساندوتش شيش طاووق مع بطاطس",
-        "title2": "Shish Tawook Sandwich with Fries",
-        "subtitle": "1,300"
+        "title": "ساندوتش شيش طاووق",
+        "subTitle":"مع بطاطس",
+        "title2": "Shish Tawook Sandwich",
+        "subTitle2":"with Fries",
+        "price": "1,300"
       },
       {
         "main-title":"ساندوتشات على الفحم",
@@ -379,7 +385,7 @@
         "image": "assets/images/projects/square/pic5.jpg",
         "title": "ساندوتش كبدة اسكندراني",
         "title2": "Alexandrian Liver Sandwich",
-        "subtitle": "0,500"
+        "price": "0,500"
       },
       {
         "main-title":"ساندوتشات على الفحم",
@@ -387,7 +393,15 @@
         "image": "assets/images/projects/square/pic7.jpg",
         "title": "حواوشي",
         "title2": "Egyptian Hawawshi",
-        "subtitle": "1,000"
+        "price": "1,000"
+      },
+      {
+        "main-title":"الإفطار",
+        "category": "cat-2",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "3 حبة فلافل",
+        "title2": "3 Falafel pieces",
+        "price": "0,100"
       },
       {
         "main-title":"الإفطار",
@@ -395,7 +409,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "ساندوتش فلافل",
         "title2": "Falafel Sandwich",
-        "subtitle": "0,400"
+        "price": "0,400"
       },
       {
         "main-title":"الإفطار",
@@ -403,7 +417,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "ساندوتش فلافل (مكس)",
         "title2": "Falafel Sandwich (Mix)",
-        "subtitle": "0,500"
+        "price": "0,500"
       },
       {
         "main-title":"الإفطار",
@@ -411,7 +425,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "ساندوتش فول بالزبدة",
         "title2": "Butter Fava Bean Sandwich",
-        "subtitle": "0,300"
+        "price": "0,300"
       },
       {
         "main-title":"الإفطار",
@@ -419,7 +433,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "ساندوتش فول بالبيض",
         "title2": "Fava Bean and Egg Sandwich",
-        "subtitle": "0,500"
+        "price": "0,500"
       },
       {
         "main-title":"الإفطار",
@@ -427,7 +441,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "ساندوتش بيض",
         "title2": "Egg Sandwich",
-        "subtitle": "0,400"
+        "price": "0,400"
       },
       {
         "main-title":"الإفطار",
@@ -435,143 +449,177 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "ساندوتش بطاطس",
         "title2": "French Fries Sandwich",
-        "subtitle": "0,500"
+        "price": "0,500"
       },
       {
         "main-title":"المشويات",
         "category": "cat-3",
         "image": "assets/images/projects/square/pic6.jpg",
-        "title": "طبق رسين ضاني (مع ارز + بطاطس + خبز + طحينة)",
-        "title2": "Lamb Head Plate (Served with rice, potatoes, fresh bread, and tahini sauce)",
-        "subtitle": "4,000"
+        "title": "طبق ريش ضاني",
+        "subTitle":"مع ارز + بطاطس + خبز + طحينة",
+        "title2": "Lamb Chops Platter",
+        "subTitle2":"Served with rice, potatoes, fresh bread, and tahini sauce",
+        "price": "4,000"
       },
       {
         "main-title":"المشويات",
         "category": "cat-3",
         "image": "assets/images/projects/square/pic6.jpg",
-        "title": "طبق تكة كباب لحم ضاني (مع ارز + بطاطس + خبز + طحينة)",
-        "title2": "Lamb Tikka Kebab Plate (Served with rice, potatoes, fresh bread, and tahini sauce)",
-        "subtitle": "3,000"
+        "title": "طبق تكة كباب لحم ضاني",
+        "subTitle":"مع ارز + بطاطس + خبز + طحينة",
+        "title2": "Lamb Tikka Kebab Plate",
+        "subTitle2":"Served with rice, potatoes, fresh bread, and tahini sauce",
+        "price": "3,000"
       },
       {
         "main-title":"المشويات",
         "category": "cat-3",
         "image": "assets/images/projects/square/pic6.jpg",
-        "title": "طبق كفتة مفرومة (كباب) (مع ارز + بطاطس + خبز + طحينة)",
-        "title2": "Minced Kefta (Kebab) Plate (Served with rice, potatoes, fresh bread, and tahini sauce)",
-        "subtitle": "2,000"
+        "title": "طبق كفتة مفرومة (كباب)",
+        "subTitle":"مع ارز + بطاطس + خبز + طحينة",
+        "title2": "Minced Kefta (Kebab) Plate",
+        "subTitle2":"Served with rice, potatoes, fresh bread, and tahini sauce",
+        "price": "2,000"
       },
       {
         "main-title":"المشويات",
         "category": "cat-3",
         "image": "assets/images/projects/square/pic6.jpg",
-        "title": "طبق شيش طاووق (مع ارز + بطاطس + تومية)",
-        "title2": "Shish Tawook Plate (Served with rice, potatoes, and garlic sauce)",
-        "subtitle": "2,400"
+        "title": "طبق شيش طاووق",
+        "subTitle":"مع ارز + بطاطس + تومية",
+        "title2": "Shish Tawook Plate",
+        "subTitle2":"Served with rice, potatoes, and garlic sauce",
+        "price": "2,400"
       },
       {
         "main-title":"المشويات",
         "category": "cat-3",
         "image": "assets/images/projects/square/pic6.jpg",
-        "title": "نصف دجاج بالعظم (مع ارز + سلطة بلدي)",
-        "title2": "Half Chicken with Bone (Served with rice and Egyptian salad)",
-        "subtitle": "1,800"
+        "title": "نصف دجاج بالعظم",
+        "subTitle":"مع ارز + سلطة بلدي",
+        "title2": "Half Chicken with Bone",
+        "subTitle2":"Served with rice and Egyptian salad",
+        "price": "1,800"
       },
       {
         "main-title":"المشويات",
         "category": "cat-3",
         "image": "assets/images/projects/square/pic6.jpg",
-        "title": "نصف دجاج محسب (مع ارز + سلطة بلدي)",
-        "title2": "Spiced Half Chicken (Served with rice and Egyptian salad)",
-        "subtitle": "1,900"
+        "title": "نصف دجاج محسب",
+        "subTitle":"مع ارز + سلطة بلدي",
+        "title2": "Spiced Half Chicken",
+        "subTitle2":"Served with rice and Egyptian salad",
+        "price": "1,900"
       },
       {
         "main-title":"المشويات",
         "category": "cat-3",
         "image": "assets/images/projects/square/pic6.jpg",
-        "title": "نصف وجبة دجاج (مع ارز + سلطة بلدي + مخلل)",
-        "title2": "Half Chicken Meal (Served with rice, Egyptian salad, and pickles)",
-        "subtitle": "1,500"
+        "title": "ربع وجبة دجاج",
+        "subTitle":"مع ارز + سلطة بلدي + مخلل",
+        "title2": "Half Chicken Meal",
+        "subTitle2":"Served with rice, Egyptian salad, and pickles",
+        "price": "1,500"
       },
       {
         "main-title":"المشويات",
         "category": "cat-3",
         "image": "assets/images/projects/square/pic6.jpg",
-        "title": "وجبة صدور مشوية على الفحم (مع ارز + سلطة بلدي + مخلل)",
-        "title2": "Charcoal-Grilled Chicken Breast Meal (Served with rice, Egyptian salad, and pickles)",
-        "subtitle": "1,800"
+        "title": "وجبة صدور مشوية على الفحم",
+        "subTitle":"مع ارز + سلطة بلدي + مخلل",
+        "title2": "Charcoal-Grilled Chicken Breast Meal",
+        "subTitle2":"Served with rice, Egyptian salad, and pickles",
+        "price": "1,800"
       },
       {
         "main-title":"الطواجن",
         "category": "cat-4",
         "image": "assets/images/projects/square/pic6.jpg",
-        "title": "طاجن ملوخية بالفراخ محمرة (مع أرز بشعرية + سلطة + مخلل)",
-        "title2": "Molokhia with Fried Chicken (Served with rice with vermicelli, salad, and pickles)",
-        "subtitle": "1,800"
+        "title": "طاجن ملوخية بالفراخ محمرة",
+        "subTitle":"مع أرز بشعرية + سلطة + مخلل",
+        "title2": "Molokhia with Fried Chicken",
+        "subTitle2":"Served with rice with vermicelli, salad, and pickles",
+        "price": "1,800"
       },
       {
         "main-title":"الطواجن",
         "category": "cat-4",
         "image": "assets/images/projects/square/pic6.jpg",
-        "title": "طاجن بطاطس بالحمة (مع أرز بشعرية + سلطة + مخلل)",
+        "title": "طاجن بطاطس بالحمة",
+        "subTitle":"مع أرز بشعرية + سلطة + مخلل",
         "title2": "Potato & Beef Tagine",
-        "subtitle": "2,500"
+        "subTitle2":"Served with rice with vermicelli, salad, and pickles",
+        "price": "2,500"
       },
       {
         "main-title":"الطواجن",
         "category": "cat-4",
         "image": "assets/images/projects/square/pic6.jpg",
-        "title": "طاجن فتة بالموزة ضاني (مع أرز بشعرية + سلطة + مخلل)",
-        "title2": "Lamb Shank Fattah Tagine (Served with rice with vermicelli, salad, and pickles)",
-        "subtitle": "3,500"
+        "title": "طاجن فتة بالموزة ضاني",
+        "subTitle":"مع أرز بشعرية + سلطة + مخلل",
+        "title2": "Lamb Shank Fattah Tagine",
+        "subTitle2":"Served with rice with vermicelli, salad, and pickles",
+        "price": "3,500"
       },
       {
         "main-title":"الطواجن",
         "category": "cat-4",
         "image": "assets/images/projects/square/pic6.jpg",
-        "title": "طاجن فتة بالحمة المحمرة (مع أرز بشعرية + سلطة + مخلل)",
+        "title": "طاجن فتة بالحمة المحمرة",
+        "subTitle":"مع أرز بشعرية + سلطة + مخلل",
         "title2": "Fried Beef Fattah Tagine",
-        "subtitle": "2,500"
+        "subTitle2":"Served with rice with vermicelli, salad, and pickles",
+        "price": "2,500"
       },
       {
         "main-title":"الطواجن",
         "category": "cat-4",
         "image": "assets/images/projects/square/pic6.jpg",
-        "title": "طاجن لحمة (مع أرز بسمتي + سلطة + مخلل)",
-        "title2": "Beef Tagine (Served with basmati rice, salad, and pickles.)",
-        "subtitle": "2,000"
+        "title": "طاجن لحمة",
+        "subTitle":"مع أرز بسمتي + سلطة + مخلل",
+        "title2": "Beef Tagine",
+        "subTitle2":"Served with basmati rice, salad, and pickles",
+        "price": "2,000"
       },
       {
         "main-title":"الطواجن",
         "category": "cat-4",
         "image": "assets/images/projects/square/pic6.jpg",
-        "title": "طاجن بامية (مع أرز)",
-        "title2": "Okra Tagine (Served with rice)",
-        "subtitle": "1,400"
+        "title": "طاجن بامية",
+        "subTitle":"مع أرز",
+        "title2": "Okra Tagine",
+        "subTitle2":"Served with rice",
+        "price": "1,400"
       },
       {
         "main-title":"الطواجن",
         "category": "cat-4",
         "image": "assets/images/projects/square/pic6.jpg",
-        "title": "طاجن ملوخية (مع أرز)",
+        "title": "طاجن ملوخية",
+        "subTitle":"مع أرز",
         "title2": "Molokhia Tagine",
-        "subtitle": "1,400"
+        "subTitle2":"Served with rice",
+        "price": "1,400"
       },
       {
         "main-title":"الطواجن",
         "category": "cat-4",
         "image": "assets/images/projects/square/pic6.jpg",
-        "title": "فتة سادة (مع أرز)",
+        "title": "فتة سادة",
+        "subTitle":"مع أرز",
         "title2": "Plain Fattah (Served with rice)",
-        "subtitle": "1,000"
+        "subTitle2":"Served with rice",
+        "price": "1,000"
       },
       {
         "main-title":"الطواجن",
         "category": "cat-4",
         "image": "assets/images/projects/square/pic6.jpg",
-        "title": "طاجن بطاطس (مع أرز)",
-        "title2": "Potato Tagine (Served with rice)",
-        "subtitle": "1,400"
+        "title": "طاجن بطاطس",
+        "subTitle":"مع أرز",
+        "title2": "Potato Tagine",
+        "subTitle2":"Served with rice",
+        "price": "1,400"
       },
       {
         "main-title":"الطواجن",
@@ -579,7 +627,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "طاجن بامية",
         "title2": "Okra Tagine",
-        "subtitle": "0,900"
+        "price": "0,900"
       },
       {
         "main-title":"الطواجن",
@@ -587,7 +635,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "طاجن ملوخية",
         "title2": "Molokhia Tagine",
-        "subtitle": "0,900"
+        "price": "0,900"
       },
       {
         "main-title":"الطواجن",
@@ -595,7 +643,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "طاجن بطاطس",
         "title2": "Potato Tagine",
-        "subtitle": "0,900"
+        "price": "0,900"
       },
       {
         "main-title":"الإضافات",
@@ -603,7 +651,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "تومية",
         "title2": "Toum",
-        "subtitle": "0,00"
+        "price": "0,00"
       },
       {
         "main-title":"الإضافات",
@@ -611,7 +659,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "طحينة",
         "title2": "Tahini",
-        "subtitle": "0,00"
+        "price": "0,00"
       },
       {
         "main-title":"الإضافات",
@@ -619,7 +667,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "باب غنوج",
         "title2": "Baba Ghanoush",
-        "subtitle": "0,00"
+        "price": "0,00"
       },
       {
         "main-title":"الإضافات",
@@ -627,7 +675,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "زبادي",
         "title2": "Yogurt",
-        "subtitle": "0,00"
+        "price": "0,00"
       },
       {
         "main-title":"الإضافات",
@@ -635,7 +683,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "أرز بشعرية مصري",
         "title2": "Egyptian Rice with Vermicelli",
-        "subtitle": "0,00"
+        "price": "0,800"
       },
       {
         "main-title":"الإضافات",
@@ -643,7 +691,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "أرز أبيض مصري",
         "title2": "Egyptian White Rice",
-        "subtitle": "0,00"
+        "price": "0,800"
       },
       {
         "main-title":"الإضافات",
@@ -651,7 +699,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "أرز بسمتي خلطة مصري",
         "title2": "Egyptian Basmati Rice Pilaf",
-        "subtitle": "0,00"
+        "price": "0,800"
       },
       {
         "main-title":"الإضافات",
@@ -659,7 +707,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "مياة",
         "title2": "Water",
-        "subtitle": "0,00"
+        "price": "0,00"
       },
       {
         "main-title":"الإضافات",
@@ -667,7 +715,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "بيبسي",
         "title2": "Pepsi",
-        "subtitle": "0,00"
+        "price": "0,00"
       },
       {
         "main-title":"الشاورما",
@@ -675,7 +723,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "شاورما دجاج",
         "title2": "Chicken Shawarma",
-        "subtitle": "0,500"
+        "price": "0,500"
       },
       {
         "main-title":"الشاورما",
@@ -683,7 +731,15 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "سندوتش صاج دجاج",
         "title2": "Chicken Saj Sandwich",
-        "subtitle": "1,100"
+        "price": "1,100"
+      },
+      {
+        "main-title":"الشاورما",
+        "category": "cat-6",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "فتة شاورما فراخ",
+        "title2": "Chicken Shawarma Fatteh",
+        "price": "1,500"
       },
       {
         "main-title":"الشاورما",
@@ -691,7 +747,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "وجبة شاورما عربي دجاج",
         "title2": "Arabic Chicken Shawarma Meal",
-        "subtitle": "1,500"
+        "price": "1,500"
       },
       {
         "main-title":"الشاورما",
@@ -699,7 +755,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "صحن شاورما دجاج",
         "title2": "Chicken Shawarma Plate",
-        "subtitle": "1,800"
+        "price": "1,800"
       }
     ],
     "team": [

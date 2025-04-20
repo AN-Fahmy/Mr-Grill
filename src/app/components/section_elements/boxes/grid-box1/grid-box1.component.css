@@ -6,13 +6,36 @@
 h4{
     font-size: 14px;
     color: #fff;
+    margin-bottom: 0;
+}
+span{
+  color: #ffffffc4;
+  font-size: 12px;
+  font-weight: 300;
+  font-style: italic;
 }
 p{
     margin: 0;
     color: #fff;
 }
 .hover-shadow{
-    background-color: #000000a1;
-    padding: 10px;
-    border-radius: 30px;
+  background: linear-gradient(to right,#000, #c830305d);
+  padding: 10px 20px;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 2px;
+  border-top-left-radius: 2px;
+  transition: all .3s;
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  -ms-transition: all .3s;
+  -o-transition: all .3s;
+}
+.hover-shadow:hover{
+  box-shadow: 0 0 10px 5px #c830305d;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
 }

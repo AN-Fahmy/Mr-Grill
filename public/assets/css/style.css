@@ -2,34 +2,34 @@
 ==========================
 Template: 7xtheme - Construction & Architecture Template
 Author: 7xtheme team
-Version: 1.0  
+Version: 1.0
 ==========================
 */
 
 
 /*____GENERAL____
 ===============================
-		|____HEADING & TITLE____	
-		|____TEXT & PARAGRAPH____	
-		|____TEXT ALIGN____		
-		|____TEXT VERTICLE ALIGN____	
-		|____TEXT NO LINE BRACK____		
-		|____TEXT TRANSFORM____		
-		|____TEXT SIZE____	
+		|____HEADING & TITLE____
+		|____TEXT & PARAGRAPH____
+		|____TEXT ALIGN____
+		|____TEXT VERTICLE ALIGN____
+		|____TEXT NO LINE BRACK____
+		|____TEXT TRANSFORM____
+		|____TEXT SIZE____
 		|____TEXT BOLD____*/
 
 
 /*=======================================
-  || CSS TABLE CONTENT ||  
+  || CSS TABLE CONTENT ||
 =======================================
 
-/*____GENERAL 
+/*____GENERAL
 =======================================
 
-/*____HEADING & TITLE 
+/*____HEADING & TITLE
 =======================================
 
-/*____TEXT & PARAGRAPH 
+/*____TEXT & PARAGRAPH
 =======================================
 
 	|____text align
@@ -39,7 +39,7 @@ Version: 1.0
 	|____text size
 	|____text bold
 
-/*____LISTING STYLES 
+/*____LISTING STYLES
 ======================================
 
 	|____listing before icon color css
@@ -69,11 +69,11 @@ Version: 1.0
 ======================================
 
 	|____position
-		|____relative		
-		|____absolute		
-		|____ static	
+		|____relative
+		|____absolute
+		|____ static
 	|____z-index
-	
+
 
 /*____COLOR
 ======================================
@@ -81,7 +81,7 @@ Version: 1.0
 	|____text
 	|____background color
 	|____background image
-	
+
 
 /*____OVERLAY ( transparient box style  )
 ======================================
@@ -89,7 +89,7 @@ Version: 1.0
 	|____use for box
 	|____left right part css
 
-/*____ BOXES CSS 
+/*____ BOXES CSS
 ======================================
 
 	|____box content
@@ -104,7 +104,7 @@ Version: 1.0
 	|____for images
 
 
-/*____IMAGES OVERLAY EFFECTS (overly animation on images)  
+/*____IMAGES OVERLAY EFFECTS (overly animation on images)
 ======================================
 
 	|____effect 1
@@ -112,95 +112,95 @@ Version: 1.0
 		|____Gradient-white
 	-------------------------------------
 
-/*____shortcodeS 
+/*____shortcodeS
 ======================================
 
-	|____Buttons 
-	------------------------------------- 
-		|____theme default button 		
-		|____button text uppercase		
-		|____button size 		
-		|____button rounded		
-		|____white 		
-		|____black 		
-		|____Gray 		
-		|____pink 		
-		|____Blue		
-		|____Green		
-		|____Orange		
-		|____Red 		
-		|____Brown 
-		|____Yellow 
-		|____purple 
-		|____Graphical 
-		|____Outline 
-		|____Outline white  
-		|____Outline black 
-		|____Outline gray 
-		|____Outline pink 
-		|____Outline blue 
-		|____Outline green 
-		|____Outline orange 
-		|____Outline red 
-		|____Outline brown 
-		|____Outline yellow 
-		|____Outline purple 
-		|____Outline hover 
-		|____button text link 
-		|____text link white 
-		|____text link black 
-		|____text link Gray 
-		|____text link pink 
-		|____text link Blue 
-		|____text link Green 
-		|____text link Orange 
-		|____text link Red 
-		|____text link Brown 
-		|____text link Yellow 
-		|____text link purple 
-		|____app strore 
-		|____filter buttons css 
-		|____Masonry filter alignment [Left-Right-Center] 
-		|____Masonry filter link style 
-		|____Masonry filter button style 
-		|____Masonry filter button outline style 
-		
-		
-	|____Title separators 
+	|____Buttons
 	-------------------------------------
-		|____Separator defualt		
-		|____Separator liner		
-		|____Separator square		
+		|____theme default button
+		|____button text uppercase
+		|____button size
+		|____button rounded
+		|____white
+		|____black
+		|____Gray
+		|____pink
+		|____Blue
+		|____Green
+		|____Orange
+		|____Red
+		|____Brown
+		|____Yellow
+		|____purple
+		|____Graphical
+		|____Outline
+		|____Outline white
+		|____Outline black
+		|____Outline gray
+		|____Outline pink
+		|____Outline blue
+		|____Outline green
+		|____Outline orange
+		|____Outline red
+		|____Outline brown
+		|____Outline yellow
+		|____Outline purple
+		|____Outline hover
+		|____button text link
+		|____text link white
+		|____text link black
+		|____text link Gray
+		|____text link pink
+		|____text link Blue
+		|____text link Green
+		|____text link Orange
+		|____text link Red
+		|____text link Brown
+		|____text link Yellow
+		|____text link purple
+		|____app strore
+		|____filter buttons css
+		|____Masonry filter alignment [Left-Right-Center]
+		|____Masonry filter link style
+		|____Masonry filter button style
+		|____Masonry filter button outline style
+
+
+	|____Title separators
+	-------------------------------------
+		|____Separator defualt
+		|____Separator liner
+		|____Separator square
 		|____Separator icon
-		
-	|____Deviders 
-	|____TABS 
+
+	|____Deviders
+	|____TABS
 	-------------------------------------
-		|____tabs style 1 [ default ] 		
-		|____tabs nav center 		
-		|____tabs bg  [ tabs background ] 		
-		|____tabs bg  [ tabs background ]		
-		|____tabs bg & top border  [ tabs background & top border in active ]		
-		|____tabs style 2 [ content with border outer ]		
-		|____tabs style 3  [ left-nav ] 		
-		|____tabs style 4  [ left-nav & content with border ] 		
-		|____tabs style 5  [ right-nav ] 		
+		|____tabs style 1 [ default ]
+		|____tabs nav center
+		|____tabs bg  [ tabs background ]
+		|____tabs bg  [ tabs background ]
+		|____tabs bg & top border  [ tabs background & top border in active ]
+		|____tabs style 2 [ content with border outer ]
+		|____tabs style 3  [ left-nav ]
+		|____tabs style 4  [ left-nav & content with border ]
+		|____tabs style 5  [ right-nav ]
 		|____tabs style 6  [ right-nav & content with border ]
-		
-		
-	|____Accordians 
+
+
+	|____Accordians
 	-------------------------------------
 	Accodian open close indicator css
-		|____Accordion defult		
-		|____Accordion outline		
-		|____Accordion bg gray		
-		|____Accordion bg primary		
+		|____Accordion defult
+		|____Accordion outline
+		|____Accordion bg gray
+		|____Accordion bg primary
 		|____Accordion bg dark
-		
-	|____Carousals 
+
+	|____Carousals
 	|____Client carousal 1
-	
-	|____Testimonials 
+
+	|____Testimonials
 	-------------------------------------
 		|____testimonial with background image
 		|____testimonial 6
@@ -209,79 +209,79 @@ Version: 1.0
 	-------------------------------------
 		|____Pricing table
 		|____pricing table style 2
-		
-	|____Alert box 
-	|____Image effects 
+
+	|____Alert box
+	|____Image effects
 	-------------------------------------
-		|____image-opacity 
-		|____image-zoom 
-		|____image-zoom-slow 
-		|____image-shrink 
-		|____image-side-pan 
-		|____image-vertical-pan 
-		|____image-fade-in 
-		|____image-fade-out 
-		|____image-rotate 
-		|____image-sepia 
-		|____image-blurr 
-		|____image-blurr-invert 
-		|____image off color 
-		|____image on color 
-		
-	|____ Modal pop 
-	|____ Social icons 
+		|____image-opacity
+		|____image-zoom
+		|____image-zoom-slow
+		|____image-shrink
+		|____image-side-pan
+		|____image-vertical-pan
+		|____image-fade-in
+		|____image-fade-out
+		|____image-rotate
+		|____image-sepia
+		|____image-blurr
+		|____image-blurr-invert
+		|____image off color
+		|____image on color
+
+	|____ Modal pop
+	|____ Social icons
 	-------------------------------------
-		|____social icon default 
-		|____social icon with border 
-		|____social icon dark 
-		|____social share icon style 1 
-		
-	|____ Breadcrumb 
+		|____social icon default
+		|____social icon with border
+		|____social icon dark
+		|____social share icon style 1
+
+	|____ Breadcrumb
 	-------------------------------------
 		|____breadcrumb-row-1
-		|____Breadcrumb-1 
-		
-	|____Google map 
-	|____Countdown clock 
-	|____Form elements 
-	
-	-------------------------------------  
-		|____input group 
-		|____ radio & checkbox 
-		|____Browse Button css   
-		|____validation symbol 
-		|____error for select box 
-		|____ succes for select box 
-		|____ textarea 
-		
+		|____Breadcrumb-1
+
+	|____Google map
+	|____Countdown clock
+	|____Form elements
+
+	-------------------------------------
+		|____input group
+		|____ radio & checkbox
+		|____Browse Button css
+		|____validation symbol
+		|____error for select box
+		|____ succes for select box
+		|____ textarea
+
 			|____resize-vertical
 			|____resize-horizontal
 			|____resize-none
-			
-	|____ Loading 
-	-------------------------------------  
+
+	|____ Loading
+	-------------------------------------
 		|____ loading - 1
 		|____loading - 2
-		
-	|____Widgets 
-	------------------------------------- 
-		|____widget listing		
-		|____widget search custom		
-		|____widget search wp-default		
-		|____widget recent-posts		
-		|____widget tags-list		
-		|____widget gallery		
-		|____widget client slider 
-		
-	|____Table 
-	|____Video 
+
+	|____Widgets
 	-------------------------------------
-	
-/*____WP DEFAULT  
+		|____widget listing
+		|____widget search custom
+		|____widget search wp-default
+		|____widget recent-posts
+		|____widget tags-list
+		|____widget gallery
+		|____widget client slider
+
+	|____Table
+	|____Video
+	-------------------------------------
+
+/*____WP DEFAULT
 ======================================
 
-/*____BLOG  
-====================================== 
+/*____BLOG
+======================================
 
 	-------------------------------------
 	|____if no image with blog post
@@ -302,16 +302,16 @@ Version: 1.0
 /*____LOGO ( company identify  symbol )
 ======================================
 
-	|____logo for header 
-	|____when header is sticky 
-	
+	|____logo for header
+	|____when header is sticky
+
 /*____MAIN BAR ( place logo & main-navigation )
 ======================================
 
 	main bar with box view
 	|____Top Part Search Bar
 
-/*____NAVIGATIONS 
+/*____NAVIGATIONS
 ======================================
 
 	|____mena-menu
@@ -324,13 +324,13 @@ Version: 1.0
 /*____BANNER
 ======================================
 
-	|____inner page banner 
+	|____inner page banner
 	-------------------------------------
 
 /*____SLIDER
 ======================================
 
-	|____ owl slider 
+	|____ owl slider
 	-------------------------------------
 		|____next pre btn
 		|____owl dots button
@@ -345,19 +345,19 @@ Version: 1.0
 		|____owl slider button
 		|____owl dots nav position
 
-/*____ PAGINATION 
+/*____ PAGINATION
 ======================================
 
-	|____pagination style-1 
+	|____pagination style-1
 
-/*____FOOTER 
+/*____FOOTER
 ======================================
 
 	|____ footer fixed on bottom css
 	-------------------------------------
 		|____footer fixed with fullscreen view
 		|____footer fixed with boxed view
-		
+
 	|____widget Getintuch
 	|____scroll top btn css
 	-------------------------------------
@@ -365,14 +365,14 @@ Version: 1.0
 /*____PAGE-CONTENT
 ======================================
 
-	|____Section Head Part 
-	|____Section Content Part 
+	|____Section Head Part
+	|____Section Content Part
 	-------------------------------------
 
 /*____ AFTER-LOGIN-CONTENT
 ======================================
 
-	|____ Contact us page 
+	|____ Contact us page
 	-------------------------------------
 
 /*____THEMEFOREST REQUIRED CLASSES
@@ -387,29 +387,29 @@ Version: 1.0
 /*____SHOP & PRODUCT DETAIL (Woocommerce)
 ======================================
 
-	|____Product Box 
+	|____Product Box
 	-------------------------------------
 
-/*____content show on image box () 
+/*____content show on image box ()
 ======================================
 
- 	|____info box show 
+ 	|____info box show
 
-/*____Customize  Grouping css 
+/*____Customize  Grouping css
 ======================================
 
-	|____set-radius 
-	|____transition 
-	|____float-clearfix 
+	|____set-radius
+	|____transition
+	|____float-clearfix
 	-------------------------------------
 
-/*____Inner pages 
+/*____Inner pages
 ======================================
 	|____Out Team
 	-------------------------------------
 		|____Out Team six
 	|____product block
-	------------------------------------- 
+	-------------------------------------
 /*____Background Effects
 ======================================
 
@@ -451,7 +451,7 @@ Version: 1.0
 */
 
 
-/*____GENERAL 
+/*____GENERAL
 ======================================*/
 @import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@100..900&family=Lexend+Deca:wght@100..900&display=swap');
 html{
@@ -466,7 +466,7 @@ body {
 	padding: 0;
 	margin: 0;
 	overflow-x: hidden;
-	
+
 }
 
 a {
@@ -597,7 +597,7 @@ table {
 }
 
 
-/*____HEADING & TITLE 
+/*____HEADING & TITLE
 ======================================*/
 
 h1,
@@ -692,7 +692,7 @@ h6 {
 }
 
 
-/*____TEXT & PARAGRAPH 
+/*____TEXT & PARAGRAPH
 ======================================*/
 
 p {
@@ -964,7 +964,7 @@ strong {
 }
 
 
-/*____LISTING STYLES 
+/*____LISTING STYLES
 ======================================*/
 
 dl,
@@ -1100,7 +1100,7 @@ dl dd {
 -------------------------------------*/
 
 ul.primary li:before {
-	color: #ffbc13;
+	color: #C83130;
 }
 
 ul.secondry li:before {
@@ -2699,7 +2699,7 @@ ol.list-num-count.list-outline-none>li:before {
 }
 
 
-/*____BOXES CSS 
+/*____BOXES CSS
 ======================================*/
 
 .rounded-bx,
@@ -2862,7 +2862,7 @@ ol.list-num-count.list-outline-none>li:before {
 }
 
 .bdr-primary {
-	border-color: #ffbc13;
+	border-color: #C83130;
 }
 
 .bdr-gray {
@@ -3365,7 +3365,7 @@ ol.list-num-count.list-outline-none>li:before {
 }
 
 
-/*____IMAGES OVERLAY EFFECTS (overly animation on images)  
+/*____IMAGES OVERLAY EFFECTS (overly animation on images)
 ======================================*/
 
 .mt-img-overlay1,
@@ -3471,7 +3471,7 @@ ol.list-num-count.list-outline-none>li:before {
 .mt-img-overlay7:hover:before,
 .mt-img-overlay7:hover:after,
 .mt-box:hover .mt-img-overlay7:before,
-.mt-box:hover .mt-img-overlay7:after { 
+.mt-box:hover .mt-img-overlay7:after {
 	width:50%;
 }
 
@@ -3513,12 +3513,12 @@ ol.list-num-count.list-outline-none>li:before {
 }
 
 
-/*____shortcodeS 
+/*____shortcodeS
 ======================================*/
 
 
 /*-------------------------------------
-	Buttons 
+	Buttons
 --------------------------------------- */
 
 
@@ -3931,8 +3931,8 @@ ol.list-num-count.list-outline-none>li:before {
 /* Outline yellow */
 
 .site-button.outline.yellow {
-	color: #ffbc13;
-	border-color: #ffbc13;
+	color: #C83130;
+	border-color: #C83130;
 }
 
 
@@ -3980,7 +3980,7 @@ position:relative;
 animation:linear infinite alternate;
 animation-name: run;
 animation-duration: 1s;
-}  
+}
 
 @-webkit-keyframes run {
     0% { left: 0;}
@@ -4249,7 +4249,7 @@ animation-duration: 1s;
 .masonry-filter.link-style.has-bg>li:hover a,
 .masonry-filter.link-style.has-bg>li:active a,
 .masonry-filter.link-style.has-bg>li:focus a {
-	color: #FFBC13;
+	color: #C83130;
 }
 
 
@@ -4424,7 +4424,7 @@ animation-duration: 1s;
 
 
 /*-------------------------------------
-	Title separators 
+	Title separators
 -------------------------------------*/
 .mt-separator-outer {	overflow:hidden;}
 /*Separator defualt*/
@@ -4450,7 +4450,7 @@ animation-duration: 1s;
 
 
 
-.mt-separator{	
+.mt-separator{
 	display:inline-block;
 	margin-top:0px;
   font-family: "Alexandria", sans-serif;
@@ -4458,7 +4458,7 @@ animation-duration: 1s;
 	font-weight:500;
 	font-size:18px;
 	margin-bottom:30px;
-	
+
 	-webkit-transition: all 0.5s linear;
 	-moz-transition: all 0.5s linear;
 	-ms-transition: all 0.5s linear;
@@ -4482,7 +4482,7 @@ animation-duration: 1s;
 	}
 }
 
-.mt-separator,.sep-line-one,.sep-line-two{	
+.mt-separator,.sep-line-one,.sep-line-two{
 	position:relative;
 }
 
@@ -4523,11 +4523,11 @@ animation-duration: 1s;
 @media only screen and (max-width: 768px){
 .mt-separator h1,
 .mt-separator h2,
-.mt-separator h3{	
+.mt-separator h3{
 	font-size:24px;
 	margin-bottom:0px;
 }
-.our-exp h3{	
+.our-exp h3{
 	font-size:24px;
 }
 h3{
@@ -4545,7 +4545,7 @@ h3 .font-weight-100{
 }
 
 /*-------------------------------------
-	Deviders 
+	Deviders
 -------------------------------------*/
 
 .mt-divider {
@@ -4605,7 +4605,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	TABS 
+	TABS
 -------------------------------------*/
 
 .mt-tabs:after {
@@ -4876,7 +4876,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	Accordians 
+	Accordians
 -------------------------------------*/
 
 .mt-accordion .mt-panel {
@@ -5150,7 +5150,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	7. Testimonials 
+	7. Testimonials
 -------------------------------------*/
 
 .testimonial-pic {
@@ -5281,10 +5281,10 @@ h3 .font-weight-100{
 }
 
 .testimonial-2 .testimonial-text .fa-quote-right {
-	position: absolute;	
-	right: 15px;	
-	top: -90px;	
-	font-size: 70px;	
+	position: absolute;
+	right: 15px;
+	top: -90px;
+	font-size: 70px;
 	color: rgba(245,190,25,0.3);
 }
 
@@ -5377,7 +5377,7 @@ h3 .font-weight-100{
 	Pricing table
  -------------------------------------*/
 
- 
+
 
 .pricingtable-inner {
 	text-align: center;
@@ -5385,7 +5385,7 @@ h3 .font-weight-100{
 
 .pricingtable-price {
 	padding: 10px;
-	background-color: #ffbc13;
+	background-color: #C83130;
 }
 
 .pricingtable-bx {
@@ -5509,7 +5509,7 @@ h3 .font-weight-100{
     display:none
 }
 .pricing-table-style-5 .pricingtable-title{
-	background-color:inherit;	
+	background-color:inherit;
 	padding: 40px 20px 0px 20px
 }
 
@@ -5543,7 +5543,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	Alert box 
+	Alert box
 -------------------------------------*/
 
 .alert.alert-sm {
@@ -5587,7 +5587,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	Image effects 
+	Image effects
 -------------------------------------*/
 
 .mt-img-effect {
@@ -5823,7 +5823,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	Modal pop 
+	Modal pop
 -------------------------------------*/
 
 .modal-xlg {
@@ -5849,7 +5849,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	Social icons 
+	Social icons
 -------------------------------------*/
 
 .social-icons {
@@ -6115,7 +6115,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	Breadcrumb 
+	Breadcrumb
 -------------------------------------*/
 
 
@@ -6170,7 +6170,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	Google map 
+	Google map
 -------------------------------------*/
 
 .google-map {
@@ -6180,7 +6180,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	Countdown clock 
+	Countdown clock
 -------------------------------------*/
 
 .count-row {
@@ -6226,7 +6226,7 @@ h3 .font-weight-100{
 
 
 /*-------------------------------------
-	Form elements 
+	Form elements
 -------------------------------------*/
 
 label {
@@ -6465,7 +6465,7 @@ input[type=radio]:checked+label:before {
 
 
 /*-------------------------------------
-	 Loading 
+	 Loading
 -------------------------------------*/
 
 
@@ -6532,7 +6532,7 @@ input[type=radio]:checked+label:before {
 
 
 /*-------------------------------------
-	Widgets 
+	Widgets
 -------------------------------------*/
 
 .widget {
@@ -6587,15 +6587,15 @@ input[type=radio]:checked+label:before {
 .widget_services ul li:hover {
 	border-left: 5px solid #C83130;
 	-webkit-box-shadow: 0px 4px 7px 0px #ededed;
-	
-	box-shadow: 0px 4px 7px 0px #ededed;	
+
+	box-shadow: 0px 4px 7px 0px #ededed;
 }
 
 .widget_services ul li a {
 	color: #000;
   font-family: "Alexandria", sans-serif;
 	font-size: 14px;
-	font-weight: 400;		
+	font-weight: 400;
 }
 
 .widget_services ul li a:hover {
@@ -6714,7 +6714,7 @@ input[type=radio]:checked+label:before {
 .searchform input[type="submit"] {
 	height: 40px;
 	padding: 10px 15px;
-	background-color: #ffbc13;
+	background-color: #C83130;
 	position: absolute;
 	right: 0;
 	bottom: 0;
@@ -7010,7 +7010,7 @@ input[type=radio]:checked+label:before {
 }
 
 /*-------------------------------------
-	Table 
+	Table
 -------------------------------------*/
 
 
@@ -7064,7 +7064,7 @@ input[type=radio]:checked+label:before {
 
 
 /*-------------------------------------
-	Video 
+	Video
 -------------------------------------*/
 
 .yt-thum-box img {
@@ -7073,7 +7073,7 @@ input[type=radio]:checked+label:before {
 
 
 /*======================================
-1WP DEFAULT  
+1WP DEFAULT
 ======================================*/
 
 .alignnone {
@@ -7222,7 +7222,7 @@ blockquote.author-quote {
 }
 
 
-/*____BLOG  
+/*____BLOG
 ======================================*/
 
 .blog-post {
@@ -7434,7 +7434,7 @@ ol.comment-list li.comment p {
 @media only screen and (max-width:420px){
 	ol.comment-list li.comment p {
 		margin: 0 0 15px;
-	}	
+	}
 }
 
 ol.comment-list li.comment .reply {
@@ -7466,11 +7466,11 @@ ol.comment-list li .children li {
 	ol.comment-list li .children {
 		list-style: none;
 		margin-left: 0px;
-	}	
+	}
 }
 
 @media only screen and (max-width: 500px) {
-	
+
 	ol.comment-list li.comment .comment-body {
 		padding: 20px 30px 20px 20px;
 		text-align: center;
@@ -7494,7 +7494,7 @@ ol.comment-list li.comment .reply {
 @media only screen and (max-width: 380px) {
 	ol.comment-list {
 		padding: 0px;
-	}	
+	}
 	ol.comment-list li.comment .comment-author .avatar {
 		position: inherit;
 		left: inherit;
@@ -7508,8 +7508,8 @@ ol.comment-list li.comment .reply {
 		position: relative;
 		padding: 0;
 		margin-bottom: 10px;
-	
-	}	
+
+	}
 }
 
 
@@ -7689,7 +7689,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	.portfolio-item iframe{
 		width: 100%;
 		background-color: #000;
-	}	
+	}
 }
 
 .blog-post .grid-post li img {
@@ -7805,7 +7805,7 @@ ol.comment-list li.comment .comment-respond .comment-form p {
 	line-height: 28px;
 	padding: 0px;
 	position: relative;
-	
+
 }
 
 .date-style-outline2 .post-date i {
@@ -8094,7 +8094,7 @@ HEADER (top part of page)
 
 
 /*-------------------------------------
-	logo for header 
+	logo for header
 -------------------------------------*/
 
 .logo-header {
@@ -8167,7 +8167,7 @@ HEADER (top part of page)
 
 
 /*-------------------------------------
-	when header is sticky 
+	when header is sticky
 -------------------------------------*/
 
 .is-fixed .logo-header {
@@ -8194,7 +8194,7 @@ HEADER (top part of page)
 }
 
 /*-------------------------------------
-	eamil-phone (left) 
+	eamil-phone (left)
 -------------------------------------*/
 .e-p-bx{
 padding:7px 0px;
@@ -8217,7 +8217,7 @@ padding:7px 0px;
 
 
 /*-------------------------------------
-	social-links (right) 
+	social-links (right)
 -------------------------------------*/
 
 .social-bx,
@@ -8526,8 +8526,8 @@ padding:7px 0px;
 	-webkit-border-radius:1px;
 	-moz-border-radius:1px;
 }
-	
-	
+
+
 .mt-topbar-left,
 .mt-topbar-right,
 .mt-topbar-center {
@@ -8543,7 +8543,7 @@ padding:7px 0px;
 .mt-topbar-center {
 	text-align:center;
 }
-	
+
 @media only screen and (max-width: 991px) {
 .header-style-1 .mt-topbar-left,
 .header-style-1 .mt-topbar-right {
@@ -8614,7 +8614,7 @@ padding:7px 0px;
 	color:inherit;
 }
 
-/*____ NAVIGATIONS 
+/*____ NAVIGATIONS
 ======================================*/
 
 
@@ -8749,18 +8749,18 @@ padding:7px 0px;
 	font-size: 14px;
 	padding: 14px 20px;
 	font-weight: 400;
-	border-left:0px solid transparent;	
+	border-left:0px solid transparent;
 	-webkit-transition: all 0.2s linear;
 	-moz-transition: all 0.2s linear;
 	-ms-transition: all 0.2s linear;
 	-o-transition: all 0.2s linear;
-	transition: all 0.2s linear;	
+	transition: all 0.2s linear;
 }
 
 .header-nav .nav>li .sub-menu li a:hover {
 	color: #000;
 	text-decoration: none;
-	border-left:10px solid  #C83130;	
+	border-left:10px solid  #C83130;
 }
 
 .header-nav .nav>li .sub-menu li a:hover:after {
@@ -9169,10 +9169,10 @@ padding:7px 0px;
 .header-dark-1 .main-bar .navbar-toggle .icon-bar{
    background-color: #fff;
 }
-	
+
 .header-style-1.header-dark-1 .is-fixed.color-fill .main-bar {
 	background: #1a1a1a !important;
-}	
+}
 
 /*-------------------------------------
 	nav dark version
@@ -9206,7 +9206,7 @@ padding:7px 0px;
 
 .nav-dark.header-nav .nav>li .mega-menu>li ul a:hover {
 	background-color: #23282f;
-	color: #FFBC13;
+	color: #C83130;
 }
 
 .nav-dark.header-nav .nav>li .mega-menu>li:after {
@@ -9230,14 +9230,14 @@ padding:7px 0px;
 	.nav-dark.header-nav .nav>li>a:active,
 	.nav-dark.header-nav .nav>li>a:focus {
 		background-color: #1a1a1a;
-		color: #FFBC13;
+		color: #C83130;
 	}
 	.nav-dark.header-nav .nav>li ul,
 	.nav-dark.header-nav .nav>li .sub-menu,
 	.nav-dark.header-nav .nav>li .mega-menu {
 		background-color: #1a1a1a;
 	}
-	
+
 	.nav-dark .has-child .submenu-toogle{
 		color:#fff;
 	}
@@ -9325,7 +9325,7 @@ padding:7px 0px;
 	.bg-primary .header-nav .nav>li:hover>a,
 	.bg-primary .header-nav .nav>li.active>a,
 	.bg-primary .header-nav .nav>li.current-menu-item>a {
-		color: #FFBC13;
+		color: #C83130;
 	}
 	.header-nav .nav>li {
 		margin: 0;
@@ -9349,8 +9349,8 @@ padding:7px 0px;
 
 
 /*-------------------------------------
-	 header style 2 
--------------------------------------*/ 
+	 header style 2
+-------------------------------------*/
 .header-style-2 .top-bar{
 	padding: 10px 0;
 }
@@ -9411,7 +9411,7 @@ padding:7px 0px;
 }
 
 
-@media only screen and (max-width:1200px) { 
+@media only screen and (max-width:1200px) {
 .header-style-2 .main-bar,
 .header-style-2 .is-fixed .main-bar {
 	max-width:100%;
@@ -9428,10 +9428,10 @@ padding:7px 0px;
 		width: 100%;
 		height:60px;
 	}
-	
+
 	.header-style-2 .logo-header a img {
 		max-width:160px;
-	}	
+	}
 	.header-style-2 .header-info {
 		float:none;
 	}
@@ -9441,7 +9441,7 @@ padding:7px 0px;
     display: table;
 	width:100%;
 }
-	
+
 }
 
 @media only screen and (max-width:991px) {
@@ -9460,13 +9460,13 @@ padding:7px 0px;
 		margin-top: 10px;
 		margin-bottom: 10px;
 	}
-	
+
 	.header-style-2 .header-info > ul li.btn-col-last {
 		text-align:right;
 	}
 	.header-style-2 .header-info > ul li.btn-col-last .site-button-secondry.btn-effect{
 		font-size: 12px;
-	}		
+	}
 }
 
 @media only screen and (max-width:767px) {
@@ -9615,7 +9615,7 @@ padding:7px 0px;
 
 
 /*-------------------------------------
-	inner page banner 
+	inner page banner
 -------------------------------------*/
 
 .mt-bnr-inr {
@@ -9729,7 +9729,7 @@ padding:7px 0px;
 
 
 /*-------------------------------------
-	owl slider 
+	owl slider
 -------------------------------------*/
 
 
@@ -9958,7 +9958,7 @@ padding:7px 0px;
 }
 
 
-/*____PAGINATION 
+/*____PAGINATION
 ======================================*/
 
 
@@ -10020,7 +10020,7 @@ padding:7px 0px;
 }
 
 
-/*____FOOTER 
+/*____FOOTER
 ======================================*/
 
 
@@ -10261,7 +10261,7 @@ padding:7px 0px;
 .footer-dark .footer-top a:active,
 .footer-dark .footer-top a:focus,
 .footer-dark .footer-top a:hover {
-	color: #ffbc13;
+	color: #C83130;
 }
 
 .footer-dark .footer-top p a {
@@ -10316,7 +10316,7 @@ padding:7px 0px;
 @media only screen and (max-width: 768px) {
 .footer-top {
     padding: 90px 0px 10px 0px;
-}	
+}
 }
 
 
@@ -10349,7 +10349,7 @@ padding:7px 0px;
 @media only screen and (max-width:1200px) {
 	.footer-col-3{
 		clear: both;
-	}	
+	}
 }
 @media only screen and (max-width:991px) {
 
@@ -10534,7 +10534,7 @@ button.scroltop span {
 
 
 /*-------------------------------------
-	Section Head Part 
+	Section Head Part
 -------------------------------------*/
 
 .section-head {
@@ -10597,7 +10597,7 @@ button.scroltop span {
 
 
 /*-------------------------------------
-	Section Content Part 
+	Section Content Part
 -------------------------------------*/
 
 @media only screen and (max-width:1024px) {
@@ -10625,7 +10625,7 @@ button.scroltop span {
 
 
 /*-------------------------------------
-	Contact us page 
+	Contact us page
 -------------------------------------*/
 
 ul.contact-info li {
@@ -10761,7 +10761,7 @@ ul.contact-info li .fa {
 
 
 /*-------------------------------------
-	Product Box 
+	Product Box
 -------------------------------------*/
 
 .mt-product-box .price {
@@ -10820,11 +10820,11 @@ ul.contact-info li .fa {
 }
 
 .star-Rating-input .fa-star {
-	color: #FFBC13;
+	color: #C83130;
 }
 
 .star-Rating-input i:hover {
-	color: #FFBC13;
+	color: #C83130;
 }
 
 .comment-form [class*="comment-form"] input,
@@ -10847,7 +10847,7 @@ ul.contact-info li .fa {
 }
 
 
-/*____content show on image box () 
+/*____content show on image box ()
 ======================================*/
 
 @media only screen and (max-width:768px) {
@@ -10858,12 +10858,12 @@ ul.contact-info li .fa {
 }
 
 
-/*____Customize  Grouping css 
+/*____Customize  Grouping css
 ======================================*/
 
 
 /*-------------------------------------
-	set-radius 
+	set-radius
 -------------------------------------*/
 
 .btn,
@@ -10898,8 +10898,8 @@ ol.comment-list li.comment .comment-body {
 }
 
 
-/*------------------------------------- 
-	transition 
+/*-------------------------------------
+	transition
 -------------------------------------*/
 
 a,
@@ -10958,8 +10958,8 @@ a,
 }
 
 
-/*------------------------------------- 
-	float-clearfix 
+/*-------------------------------------
+	float-clearfix
 -------------------------------------*/
 
 .clearfix::after,
@@ -10973,16 +10973,16 @@ ol.commentlist li::after {
 }
 
 
-/*____Inner pages 
+/*____Inner pages
 ======================================*/
 
 
-/*------------------------------------- 
+/*-------------------------------------
 	Out Team
 -------------------------------------*/
 
 
-/*------------------------------------- 
+/*-------------------------------------
 	Product block
 -------------------------------------*/
 
@@ -11512,8 +11512,8 @@ font-size:68px;
 	.m-about-containt h2,
 	.m-about-containt h3{
 		font-size: 22px;
-		line-height:inherit;	
-	}	
+		line-height:inherit;
+	}
 }
 /*____Contact Us
 ======================================*/
@@ -11610,7 +11610,7 @@ font-size:68px;
 	top: -50px;
 }
 @media only screen and (max-width:768px){
-	.similar-projects .mt-info{	
+	.similar-projects .mt-info{
 		margin-bottom: -50px;
 	}
 }
@@ -12711,7 +12711,7 @@ font-size:68px;
   height:60px;
   -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
-  transform-origin: center center;    
+  transform-origin: center center;
 }
 
 .play-now .icon{
@@ -12728,12 +12728,12 @@ font-size:68px;
     font-size: 20px;
     padding-left: 5px;
     display: block;
-	
+
   -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
   -webkit-transform-origin:center;
-  transform-origin: center center; 
- 
+  transform-origin: center center;
+
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
@@ -12759,20 +12759,20 @@ font-size:68px;
   -webkit-transform: translateX(-50%) translateY(-50%);
   transform: translateX(-50%) translateY(-50%);
   -webkit-transform-origin:center;
-  transform-origin: center center; 
-  
+  transform-origin: center center;
+
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
     border-radius: 50%;
-	
+
     -webkit-box-shadow: 0 0 0 0 rgba(255, 255, 255, .3);
     -moz-box-shadow: 0 0 0 0 rgba(255, 255, 255, .3);
     -ms-box-shadow: 0 0 0 0 rgba(255, 255, 255, .3);
     -o-box-shadow: 0 0 0 0 rgba(255, 255, 255, .3);
     box-shadow: 0 0 0 0 rgba(255, 255, 255, .3);
-	
+
     -webkit-animation: ripple 3s infinite;
     -moz-animation: ripple 3s infinite;
     -ms-animation: ripple 3s infinite;
@@ -12889,7 +12889,7 @@ font-size:68px;
 	.is-fixed .navbar-toggle {
 		margin-bottom: 0px;
 	}
-	
+
 }
 
 @media only screen and (max-width: 991px) {
@@ -12999,7 +12999,7 @@ font-size:68px;
 -moz-transition: all 0.5s linear;
 -ms-transition: all 0.5s linear;
 -o-transition: all 0.5s linear;
-transition: all 0.5s linear;  
+transition: all 0.5s linear;
 }
 .our-team-1:hover{margin-top:-10px;box-shadow:0px 0px 40px rgba(0, 0, 0, 0.15);}
 
@@ -13060,7 +13060,7 @@ transition: all 0.5s linear;
 -moz-transition: all 0.5s linear;
 -ms-transition: all 0.5s linear;
 -o-transition: all 0.5s linear;
-transition: all 0.5s linear;  
+transition: all 0.5s linear;
 }
 .our-team-2:hover{margin-top:-10px;box-shadow:0px 0px 40px rgba(0, 0, 0, 0.15);}
 
@@ -13132,7 +13132,7 @@ transition: all 0.5s linear;
     -moz-transition: all 0.5s linear;
     -ms-transition: all 0.5s linear;
     -o-transition: all 0.5s linear;
-    transition: all 0.5s linear;	
+    transition: all 0.5s linear;
 }
 .icon-font-block:hover {
     -webkit-box-shadow: 0 10px 30px 0 rgba(50,50,50,.16);
@@ -13312,7 +13312,7 @@ transition: all 0.5s linear;
 .half-blocks .mt-icon-box-wraper.m-b30{margin-bottom: 0px;}
 .half-blocks .half-block-content .mt-tilte{
 	word-spacing: normal;
-}	
+}
 .half-blocks-bg{
 	position:absolute;
 	left:0px;
@@ -13320,7 +13320,7 @@ transition: all 0.5s linear;
 	width:100%;
 	height:100%;
 	z-index:0;
-	
+
 }
 
 .half-blocks:hover .half-block-content{
@@ -13329,7 +13329,7 @@ transition: all 0.5s linear;
 }
 .half-blocks:hover .half-block-content .mt-tilte{color:#fff !important;}
 .half-blocks:hover .half-block-content .site-button-link{color:#fff !important;}
-		
+
 
 @media only screen and (max-width: 991px) {
 	.slider-half-part {
@@ -13407,7 +13407,7 @@ transition: all 0.5s linear;
 }
 
 
-/*____Progress Bar 
+/*____Progress Bar
 -------------------------------------*/
 
 .progress .tooltip {
@@ -13479,22 +13479,22 @@ transition: all 0.5s linear;
 	height: 100vh;
 }
 @media only screen and (max-width: 991px) {
-	
+
 .multi-line-animation{
 	display:none;
-}	
+}
 }
 .multi-line-one,
 .multi-line-two,
 .multi-line-three,
 .multi-line-four{
 	position:absolute;
-	bottom:0px;	
+	bottom:0px;
 	height:100vh;
 	width:4px;
-	z-index:20;	
-	border-left:1px solid rgba(255,255,255,0.1);	
-	
+	z-index:20;
+	border-left:1px solid rgba(255,255,255,0.1);
+
 }
 
 .multi-line-one{left:20%;}
@@ -13561,7 +13561,7 @@ transition: all 0.5s linear;
 	content:"";
 	border:40px solid rgba(191,191,191,0.1);
 	z-index:-1;
-/*====Wave Animation====*/	
+/*====Wave Animation====*/
 	-webkit-animation: shake 1.5s ease-in-out 1.5s infinite alternate;
 	animation: shake 1.5s ease-in-out 1.5s infinite alternate;
 }
@@ -13586,15 +13586,15 @@ transition: all 0.5s linear;
 	  -webkit-transform-origin:center center;
 	  -webkit-transform: rotate(35deg);
 	}
-   
+
    }
 
 /*shape1*/
 .square_shape1:after{
 	width:450px;
-	height:250px;		
-	left:-300px;	
-	bottom:-20px;	
+	height:250px;
+	left:-300px;
+	bottom:-20px;
 	-moz-transform: rotate(45deg);
 	-webkit-transform: rotate(45deg);
 	-o-transform: rotate(45deg);
@@ -13603,9 +13603,9 @@ transition: all 0.5s linear;
 /*shape2*/
 .square_shape2:before{
 	width:250px;
-	height:450px;		
-	right:-190px;	
-	bottom:-50px;	
+	height:450px;
+	right:-190px;
+	bottom:-50px;
 	-moz-transform: rotate(45deg);
 	-webkit-transform: rotate(45deg);
 	-o-transform: rotate(45deg);
@@ -13618,7 +13618,7 @@ transition: all 0.5s linear;
 .hilite-title strong{	display:block;	font-size:80px;	line-height:80px;color:#efefef;font-family: 'Poppins', sans-serif; font-weight:900;}
 
 @media only screen and (max-width: 768px) {
-	
+
 .hilite-title{display:none;}
 }
 
@@ -13663,7 +13663,7 @@ transition: all 0.5s linear;
 
 
 /*-------------------------------------
-	2. Count Section 
+	2. Count Section
 -------------------------------------*/
 
 .icon-count-2{
@@ -13697,12 +13697,12 @@ transition: all 0.5s linear;
 	top:-10px;
 	height:10px;
 	background-color:#C83130;
-	
+
 	-webkit-transition: all 0.5s linear;
 	-moz-transition: all 0.5s linear;
 	-ms-transition: all 0.5s linear;
 	-o-transition: all 0.5s linear;
-	transition: all 0.5s linear;	
+	transition: all 0.5s linear;
 
 }
 
@@ -13717,17 +13717,17 @@ transition: all 0.5s linear;
 	line-height: 120px;
   font-family: "Alexandria", sans-serif;
 
-	
+
 	-webkit-transition: all 0.5s linear;
 	-moz-transition: all 0.5s linear;
 	-ms-transition: all 0.5s linear;
 	-o-transition: all 0.5s linear;
-	transition: all 0.5s linear;		
+	transition: all 0.5s linear;
 }
 .icon-count-2:hover{
 	background-color:#fff;
 	-webkit-box-shadow: 0 10px 30px 0 rgba(50,50,50,.16);
-	box-shadow: 0 10px 30px 0 rgba(50,50,50,.16);	
+	box-shadow: 0 10px 30px 0 rgba(50,50,50,.16);
 }
 .icon-count-2:hover span.icon-count-number{
 	color:#C83130;
@@ -13746,7 +13746,7 @@ transition: all 0.5s linear;
 .services-half-bottom{margin-top: -200px;}
 @media only screen and (max-width:768px){
 	.Service-half-top{padding-top: 30px;}
-	.Service-half-top{padding-bottom: 210px;}	
+	.Service-half-top{padding-bottom: 210px;}
 }
 
 /*====site button effect====*/
@@ -14016,7 +14016,7 @@ background: #000;
 
 @media only screen and (max-width:991px){
 .mission-outer-section{
-	background-image:none !important;	
+	background-image:none !important;
 }
 }
 @media only screen and (max-width:768px){
@@ -14030,7 +14030,7 @@ background: #000;
 }
 @media only screen and (max-width:640px){
 .call-us-number{
-	font-size:28px;	
+	font-size:28px;
 }
 }
 
@@ -14038,7 +14038,7 @@ background: #000;
 
 .contact-home1-left {
 	position: relative;
-	
+
 }
 .contact-home1-left-v2{
 	padding-left: 0px;
@@ -14138,7 +14138,7 @@ background: #000;
 @media only screen and (max-width:768px) {
 .about-home{
 	margin-top:50px;
-}	
+}
 }
 
 
@@ -14153,14 +14153,14 @@ background: #000;
 @media only screen and (max-width:991px) {
 .about-home{
 	margin:0px;
-}	
+}
 .about-home-right{
 	margin-left: 0px;
 }
 .about-home-right h3{
 	font-size: 20px;
 	line-height: 26px;
-}		
+}
 .about-home:after{
 	top: 90px;
 	left: 0;
@@ -14237,7 +14237,7 @@ background: #000;
 @media only screen and (max-width:420px){
 	.video-section-full-v2 .video-section-full{
 		padding: 60px 40px;
-	}	
+	}
 }
 
 
@@ -14251,25 +14251,25 @@ background: #000;
 	content:"";
 	position:absolute;
 	background-color:#fff;
-	
+
 	-webkit-transition: all .5s ease-in-out;
 	-moz-transition: all .5s ease-in-out;
 	-ms-transition: all .5s ease-in-out;
 	-o-transition: all .5s ease-in-out;
 	transition: all .5s ease-in-out;
-	overflow:hidden;	
+	overflow:hidden;
 }
 .video-section-full:after{
 	width:30px;
 	height:2px;
 	left:20px;
-	top:20px;		
+	top:20px;
 }
 .video-section-full:before{
 	width:2px;
 	height:30px;
 	left:20px;
-	top:20px;		
+	top:20px;
 }
 .video-section-full:hover:after{
 	width:100%;
@@ -14283,13 +14283,13 @@ background: #000;
 	width:30px;
 	height:2px;
 	right:20px;
-	bottom:20px;		
+	bottom:20px;
 }
 .video-section-inner:before{
 	width:2px;
 	height:30px;
 	right:20px;
-	bottom:20px;		
+	bottom:20px;
 }
 .video-section-full:hover .video-section-inner:after{
 	width:100%;
@@ -14339,7 +14339,7 @@ background: #000;
 	height: 60px;
 	-webkit-transform: translateX(-50%) translateY(-50%);
 	transform: translateX(-50%) translateY(-50%);
-	transform-origin: center center;	
+	transform-origin: center center;
 }
 
 @media only screen and (max-width:991px) {
@@ -14348,19 +14348,19 @@ background: #000;
 	bottom: 0px;
 	margin-top: 0px;
 	margin-bottom:30px;
-}	
+}
 }
 @media only screen and (max-width: 480px) {
 	.video-section-full{
 		width:100%;
 		margin-bottom:15px;
 		margin-top:15px;
-		
+
 	}
 .video-section-full-v2 .video-section-full{
 	margin-left:0px;
-}	
-	
+}
+
 }
 
 /*------------------------
@@ -14473,7 +14473,7 @@ background: #000;
 	-moz-transition: all 1s linear;
 	-ms-transition: all 1s linear;
 	-o-transition: all 1s linear;
-	transition: all 1s linear;	
+	transition: all 1s linear;
 }
 .image-effect-one i.link-plus:after{
 	left:50%;
@@ -14481,7 +14481,7 @@ background: #000;
 	width:2px;
 	height:0%;
   -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);	
+  transform: translateX(-50%) translateY(-50%);
 }
 .image-effect-one i.link-plus:before{
 	left:50%;
@@ -14489,7 +14489,7 @@ background: #000;
 	width:0%;
 	height:2px;
   -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);	
+  transform: translateX(-50%) translateY(-50%);
 }
 .image-effect-one:hover i.link-plus:before{
 	width:30px;
@@ -14512,7 +14512,7 @@ background: #000;
 	-moz-transition: all 0.5s linear;
 	-ms-transition: all 0.5s linear;
 	-o-transition: all 0.5s linear;
-	transition: all 0.5s linear;  
+	transition: all 0.5s linear;
 }
 .image-effect-one:hover .mfp-link {
   right: 20px;
@@ -14596,7 +14596,7 @@ INPUT ANIMATION
 .login-animate.input .spin {  transition: 300ms cubic-bezier(.4, 0, .2, 1); -webkit-transition: 300ms cubic-bezier(.4, 0, .2, 1); -ms-transition: 300ms cubic-bezier(.4, 0, .2, 1);}
 
 .input-animate.input input,
-.input-animate.input textarea,  
+.input-animate.input textarea,
 .input-animate.input label { font-size: 12px;  color: rgba(0, 0, 0, 0.8); font-weight: 500; }
 
 .input-animate.input  { margin-bottom: 30px;  height: 43px; }
@@ -14606,14 +14606,14 @@ INPUT ANIMATION
 .input-animate.input textarea{ height: 40px; padding-top:15px; top: 10px; border: none; background: transparent; }
 
 .input-animate.input label { position: absolute; top: 10px; left: 0; z-index: 2; cursor: pointer; line-height: 40px; }
-.input-animate.input input, 
-.input-animate.input textarea, 
+.input-animate.input input,
+.input-animate.input textarea,
 .input-animate.input label { font-size: 12px; color:#fff; font-weight: 500; }
 
-.input-animate.input::before, 
+.input-animate.input::before,
 .input-animate.input .spin { width: 100%; height: 2px; position: absolute; bottom: 0; left: 0; }
 
-.input-animate.input, 
+.input-animate.input,
 .input-animate.input input,
 .input-animate.input textarea{ position: relative; width:100%;outline: none;}
 
@@ -14621,10 +14621,10 @@ INPUT ANIMATION
 
 .input-animate.input .spin { background: #C83130; z-index: 4; width: 0; }
 
-.input-animate.input, 
-.input-animate.input label, 
+.input-animate.input,
+.input-animate.input label,
 .input-animate.input input,
-.input-animate.input textarea,  
+.input-animate.input textarea,
 .input-animate.input .spin { transition: 300ms cubic-bezier(.4, 0, .2, 1); -webkit-transition: 300ms cubic-bezier(.4, 0, .2, 1); -ms-transition: 300ms cubic-bezier(.4, 0, .2, 1); box-shadow: none;}
 
 /*-------------------------
@@ -14639,7 +14639,7 @@ OUR SPECIALLIZATION
 		font-size: 20px;
 		line-height: 26px;
 	}
-	
+
 }
 
 /*-------------------------
@@ -14896,7 +14896,7 @@ color:#fff;
 ---------------------------*/
 .project-classic .mt-title{
   display:inline-block;
-  position:relative;	
+  position:relative;
   padding: 0px 0px 8px 0px;
   margin-bottom: 5px;
   color: #000;
@@ -14956,10 +14956,10 @@ color:#fff;
 .call-quote,
 .call-estimate{
 	display:block;
-}	
+}
 .call-quote h4{
 	margin-bottom: 0px;
-}	
+}
 }
 
 /*====rev-slider====*/
@@ -14987,7 +14987,7 @@ color:#fff;
 	}
 	#welcome .tp-thumbs{display: none !important;}
 	#welcome .tparrows {display: none !important;}
-	
+
 }
 
 
@@ -14996,7 +14996,7 @@ color:#fff;
 	#welcome .tp-shapewrapper {
 		display: block !important;
 	}
-	
+
 }
 
 
@@ -15022,7 +15022,7 @@ color:#fff;
 	}
 	#slider-boxed .tp-thumbs{display: none !important;}
 	#slider-boxed .tparrows {display: none !important;}
-	
+
 }
 
 
@@ -15031,7 +15031,7 @@ color:#fff;
 	#slider-boxed .tp-shapewrapper {
 		display: block !important;
 	}
-	
+
 }
 /*--------------------------------
 	link underline
@@ -15102,12 +15102,12 @@ color:#fff;
 @media only screen and (max-width:991px){
 .get-in-touch-form-section{
 	max-width:400px;
-}	
+}
 }
 
 
 @media only screen and (max-width:768px){
-	.mobile-page-padding{padding:30px 0px;}	
+	.mobile-page-padding{padding:30px 0px;}
 	.inner-page-padding{padding:30px 0px;}
 }
 
@@ -15247,7 +15247,7 @@ color:#fff;
 @media only screen and (max-width:768px){
 	.our-pricing-wrap{
 		padding-bottom: 0px;
-	} 
+	}
 	.our-team2-wrap{padding-bottom: 0px;}
 	.our-team-3-wrap{padding-bottom: 0px;}
 	.our-team-4-wrap{padding-bottom: 0px;}
