@@ -1,0 +1,15 @@
+<div class="section-full p-tb80 bg-gray inner-page-padding">
+    <div class="container-fluid">
+        <div class="section-content">            
+            <div class="work-carousal-outer">
+                <div class="owl-carousal work-carousal owl-btn-vertical-center">
+                    @for(object of data; track $index) {
+                        <div class="item mt-box">
+                            <app-project-box1 [data]="object" />
+                        </div>  
+                    }                                                                                                                            
+                 </div>
+            </div> 
+         </div>
+     </div>
+ </div> 

@@ -1,0 +1,59 @@
+<div class="section-full lets-help-wrap p-t80 p-b50 bg-gray bg-no-repeat bg-bottom-right mobile-page-padding"
+    style="background-image:url(assets/images/background/bg-4.png);">
+    <div class="container">
+        <div class="section-content ">
+            <div class="row">
+                <div class="col-md-7 col-sm-12  m-b30">
+                    <div class="brochur bg-dark p-a20">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="p-a30 bg-primary bg-bottom-right"
+                                    style="background-image:url(assets/images/background/bg-site.png);">
+                                    <div class="text-black">
+                                        <h4 class="mt-tilte m-t0">Brochure</h4>
+                                        <p>Typefaces and layouts, and in appearance of different general the
+                                            content of dorem ipsum dolor sit amet. </p>
+                                        <a routerLink="/page/about" class="site-button-secondry btn-half"><span>
+                                                Download brochure</span></a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="text-white p-r15">
+                                    <h4 class="mt-tilte">Let's help you!</h4>
+                                    <p>There are many variations of passages of lorem available, but the
+                                        majority, We have suffered alteration in some form, by inject humour, or
+                                        randomised words which don't look even slightly.</p>
+                                    <a routerLink="/page/contact" class="site-button btn-effect">Contact Us</a>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-5 col-sm-12 m-b30">
+                    <div class="our-exp">
+                        <div class="mt-box">
+                            <h3 class="m-t0"><span class="font-weight-100"> We have</span><span class="text-primary">
+                                    {{data.experience}} years</span> experience in construction</h3>
+                        </div>
+
+                        @for(object of data.exData; track $index) {
+                        <div>
+                            <span class="progressText text-black"><B>{{object.title}}</B></span>
+                            <div class="progress mt-probar-1  m-b30 m-t10">
+                                <div class="progress-bar bg-primary " role="progressbar"
+                                    attr.aria-valuenow="{{object.percent}}" aria-valuemin="0" aria-valuemax="100">
+                                    <span class="popOver" data-toggle="tooltips" data-placement="top"
+                                        title="{{object.percent}}%"></span>
+                                </div>
+                            </div>
+                        </div>
+                        }
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

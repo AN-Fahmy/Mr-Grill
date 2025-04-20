@@ -1,0 +1,30 @@
+<div class="section-full our-about-home-wrap mobile-page-padding bg-white  p-t80 p-b30 bg-repeat square_shape1"
+            style="background-image:url(assets/images/background/bg-5.png);">
+            <div class="container">
+                <!-- IMAGE Carousal START -->
+                <div class="section-content">
+                    <div class="row">
+                        @for(object of data; track $index) {
+                            <div class="col-lg-3 col-md-4 col-sm-6 m-b30">
+                                <app-grid-box1 [data]="object" zoom="0" />
+                            </div>
+                        }
+
+                        <div class="col-lg-3 col-md-12 col-sm-6 m-b30">
+
+                            <div class="mt-box our-speciallization-content">
+                                <h3 class="m-t0"><span class="font-weight-100">Building</span> <br>It better in
+                                    concrete.</h3>
+                                <p>When it comes to your house, don’t mess with the rest, trust the best. Making your
+                                    vision come true, that is what we do.</p>
+                                <a routerLink="/page/about" class="site-button btn-effect">View All</a>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="hilite-title text-right p-r50 text-uppercase text-pop-up-top">
+                <strong>Welcome</strong>
+            </div>
+        </div>

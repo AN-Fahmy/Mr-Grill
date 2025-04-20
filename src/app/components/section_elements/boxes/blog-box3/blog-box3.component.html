@@ -1,0 +1,43 @@
+<div class="blog-post blog-lg date-style-3 block-shadow">
+
+    <div class="mt-post-media mt-img-effect zoom-slow">
+        <a routerLink="/blog/image-blog"><img src="{{data.image}}" alt=""></a>
+    </div>
+    <div class="mt-post-info p-a30 p-m30 bg-white">
+
+        <div class="mt-post-title ">
+            <h4 class="post-title"><a routerLink="/blog/image-blog">{{data.title}}</a></h4>
+        </div>
+        <div class="mt-post-meta ">
+            <ul>
+                <li class="post-date"> <i class="fa fa-calendar text-primary"></i><strong>{{data.date}} {{data.month}}</strong>
+                    <span>{{data.year}}</span> </li>
+                <li class="post-author"><i class="fa fa-user text-primary"></i><a routerLink="/blog/image-blog">By
+                        <span>{{data.author}}</span></a> </li>
+                <li class="post-comment"><i class="fa fa-comments text-primary"></i> <a routerLink="/blog/image-blog">{{data.comments}}
+                        Comments</a> </li>
+            </ul>
+        </div>
+        <div class="mt-post-text">
+            <p>{{data.description}}</p>
+        </div>
+        <div class="clearfix">
+            <div class="mt-post-readmore pull-left">
+                <a routerLink="/blog/image-blog" title="READ MORE" rel="bookmark" class="site-button-link">Read More<i
+                        class="fa fa-angle-right arrow-animation"></i></a>
+            </div>
+            <div class="widget_social_inks pull-right">
+                <ul class="social-icons social-radius social-dark m-b0">
+                    <li><a href="https://www.facebook.com" class="fa fa-facebook"></a></li>
+                    <li><a href="https://x.com" class="bi bi-twitter-x"></a></li>
+                    <li><a href="https://rss.com" class="fa fa-rss"></a></li>
+                    <li><a href="https://www.youtube.com" class="fa fa-youtube"></a></li>
+                    <li><a href="https://www.instagram.com" class="fa fa-instagram"></a></li>
+                </ul>
+            </div>
+        </div>
+
+
+    </div>
+
+</div>

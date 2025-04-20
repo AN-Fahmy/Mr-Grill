@@ -1,0 +1,205 @@
+<div class="blog-single-wrap-width">
+    <!-- BLOG START -->
+    <div class="blog-post date-style-3 blog-detail text-black">
+        <div class="mt-post-media m-b10 clearfix">
+            <!-- image -->
+            @if(type == 0 || type == 3) {
+            <ul class="grid-post">
+                <li>
+                    <div class="portfolio-item">
+                        <img class="img-responsive" src="{{data.image}}" alt="">
+                    </div>
+                </li>
+            </ul>
+            }
+            <!-- image END -->
+
+            <!-- video -->
+            @else if(type == 1) {
+            <div class="grid-post row">
+                @for(object of data.videos; track $index) {
+                <div class="col-md-6">
+                    <div class="portfolio-item mt-img-effect zoom-slow m-b30">
+                        <iframe width="560" height="315" [src]="object.link | safe"></iframe>
+                    </div>
+                </div>
+                }
+            </div>
+            }
+            <!-- video END -->
+
+            <!--Fade slider-->
+            @else if(type == 2) {
+            <div class="owl-carousal owl-fade-slider-one owl-btn-vertical-center owl-dots-bottom-right">
+                @for(object of data.slides; track $index) {
+                <div class="item">
+                    <div class="aon-thum-bx">
+                        <img src="{{object.image}}" alt="">
+                    </div>
+                </div>
+                }
+            </div>
+            }
+            <!--fade slider END-->
+
+        </div>
+
+        <div class="mt-post-meta ">
+            <ul>
+                <li class="post-date"><strong>{{data.date}} </strong> <span>{{data.month}} {{data.year}}</span> </li>
+                <li class="post-author">By <span>{{data.author}}</span></li>
+                <li class="post-category"><span>{{data.type}}</span></li>
+            </ul>
+        </div>
+
+        <div class="mt-post-title ">
+            <h3 class="post-title">{{data.title}}</h3>
+        </div>
+
+        <div class="mt-post-text" [innerHTML]="data.description">
+        </div>
+
+        <div class="autor-post-tag-share bdr-t-1 bdr-solid bdr-gray p-t20">
+            <div class="row">
+                <div class="col-md-6 col-sm-6">
+                    <div class="widget widget_tag_cloud">
+                        <h4 class="tagcloud">Tags</h4>
+                        <div class="tagcloud">
+                            @for(object of data.tags.split(','); track $index) {
+                            <a routerLink="/blog/image-blog">{{object}}</a>
+                            }
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6">
+                    <div class="mt-box">
+
+                        <div class="clearfix">
+                            <h4>Share this Post:</h4>
+                            <div class="widget_social_inks">
+                                <ul class="social-icons social-md social-square social-dark m-b0">
+                                    <li><a href="https://www.facebook.com" class="fa fa-facebook"></a></li>
+                                    <li><a href="https://x.com" class="bi bi-twitter-x"></a></li>
+                                    <li><a href="https://rss.com" class="fa fa-rss"></a></li>
+                                    <li><a href="https://www.youtube.com" class="fa fa-youtube"></a></li>
+                                    <li><a href="https://www.instagram.com" class="fa fa-instagram"></a></li>
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- OUR BLOG START -->
+    <div>
+        <!-- TITLE START -->
+        <div class="section-head ">
+            <div class="mt-separator-outer separator-left">
+                <div class="mt-separator">
+                    <h2 class="text-uppercase sep-line-one "><span class="font-weight-300 text-primary">Latest</span>
+                        Blog
+                    </h2>
+                </div>
+            </div>
+        </div>
+        <!-- TITLE END -->
+
+        <!-- IMAGE Carousal START -->
+        <div class="section-content">
+            <div class="row">
+                @for(object of data.blogs; track $index) {
+                <div class="col-md-6 col-sm-6">
+                    <app-blog-box1 [data]="object" />
+                </div>
+                }
+            </div>
+        </div>
+
+    </div>
+    <!-- OUR BLOG END -->
+
+    <div class="clear" id="comment-list">
+        <div class="comments-area" id="comments">
+            <h2 class="comments-title">{{data.comments.count}} Comments</h2>
+            <div class="p-tb30">
+                <!-- COMMENT LIST START -->
+                <ol class="comment-list">
+                    @for(object of data.comments.content; track $index) {
+                    <li class="comment">
+                        <!-- COMMENT BLOCK -->
+                        <app-comment-box1 [data]="object" />
+                        <!-- SUB COMMENT BLOCK -->
+                        <ol class="children">
+                            @for(object1 of object.reply; track $index) {
+                            <li class="comment odd parent">
+
+                                <app-comment-box1 [data]="object1" />
+
+                                <ol class="children">
+                                    @for(object2 of object1.reply; track $index) {
+                                    <li class="comment odd parent">
+                                        <app-comment-box1 [data]="object2" />
+                                    </li>
+                                    }
+                                </ol>
+
+                            </li>
+                            }
+                        </ol>
+                    </li>
+                    }
+                </ol>
+                <!-- COMMENT LIST END -->
+
+                <!-- LEAVE A REPLY START -->
+                <div class="comment-respond m-t30" id="respond">
+
+                    <h2 class="comment-reply-title" id="reply-title">Leave a Comment
+                        <small>
+                            <a style="display:none;" href="javascript:void(0);" id="cancel-comment-reply-link"
+                                rel="nofollow">Cancel reply</a>
+                        </small>
+                    </h2>
+
+                    <form class="comment-form bdr-1 bdr-solid bdr-gray" id="commentform" method="post">
+
+                        <p class="comment-form-author">
+                            <label for="author">Name <span class="required">*</span></label>
+                            <input class="form-control" type="text" value="" name="user-comment" placeholder="Author"
+                                id="author">
+                        </p>
+
+                        <p class="comment-form-email">
+                            <label for="email">Email <span class="required">*</span></label>
+                            <input class="form-control" type="text" value="" name="email" placeholder="Email"
+                                id="email">
+                        </p>
+
+                        <p class="comment-form-url">
+                            <label for="url">Website</label>
+                            <input class="form-control" type="text" value="" name="url" placeholder="Website" id="url">
+                        </p>
+
+                        <p class="comment-form-comment">
+                            <label for="comment">Comment</label>
+                            <textarea class="form-control" rows="8" name="comment" placeholder="Comment"
+                                id="comment"></textarea>
+                        </p>
+
+                        <p class="form-submit">
+                            <button class="site-button button-sm radius-no text-uppercase font-weight-600"
+                                type="button">Submit</button>
+                        </p>
+
+                    </form>
+
+                </div>
+                <!-- LEAVE A REPLY END -->
+            </div>
+        </div>
+    </div>
+
+</div>

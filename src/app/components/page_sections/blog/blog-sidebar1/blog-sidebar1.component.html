@@ -1,0 +1,124 @@
+<aside class="side-bar">
+
+    <!-- SEARCH -->
+    <div class="widget bg-white ">
+        <h4 class="widget-title ">Search</h4>
+        <div class="search-bx">
+            <form role="search" method="post">
+                <div class="input-group">
+                    <input name="news-letter" type="text" class="form-control bg-gray" placeholder="Write your text">
+                    <span class="input-group-btn bg-gray">
+                        <button type="submit" class="btn"><i class="fa fa-search"></i></button>
+                    </span>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- ABOUT AUTHOR -->
+    <div class="widget bg-white">
+        <h4 class="widget-title ">About Author</h4>
+        <div class="widget-post m-b15">
+            <img src="assets/images/projects/square/pic4.jpg" alt="" class="img-responsive">
+        </div>
+        <p>Creating a sustainable future through building preservation, green architecture, and smart design. creating
+            quality urban lifestyles, building stronger communities.
+        </p>
+    </div>
+
+
+    <!-- RECENT POSTS -->
+    <div class="widget bg-white  recent-posts-entry">
+        <h4 class="widget-title  ">Recent Posts</h4>
+        <div class="section-content">
+            <div class="widget-post-bx">
+                @for(object of data.recent; track $index) {
+                <div class="widget-post clearfix">
+                    <div class="mt-post-media">
+                        <img src="{{object.image}}" alt="">
+                    </div>
+                    <div class="mt-post-info">
+                        <div class="mt-post-meta">
+                            <ul>
+                                <li class="post-author">{{object.date}} {{object.month}}</li>
+                                <li class="post-comment"> {{object.comments}} Comment</li>
+                            </ul>
+                        </div>
+                        <div class="mt-post-header">
+                            <h6 class="post-title">{{object.title}}</h6>
+                        </div>
+                    </div>
+                </div>
+                }
+            </div>
+        </div>
+    </div>
+
+    <!-- NEWSLETTER -->
+    <div class="widget widget_newsletter-2 bg-white  ">
+        <h4 class="widget-title  ">Newsletter</h4>
+        <div class="newsletter-bx p-a30">
+            <div class="newsletter-icon">
+                <i class="fa fa-envelope-o"></i>
+            </div>
+
+            <div class="newsletter-content">
+                <p>Subscribe to our mailing list to get the update to your email.</p>
+            </div>
+            <div class="m-t20">
+                <form role="search" method="post">
+                    <div class="input-group">
+                        <input name="news-letter" class="form-control" placeholder="ENTER YOUR EMAIL" type="text">
+                        <span class="input-group-btn">
+                            <button type="submit" class="site-button"><i class="fa fa-paper-plane-o"></i></button>
+                        </span>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <!-- OUR CLIENT -->
+    <div class="widget">
+        <h4 class="widget-title ">Our Client</h4>
+        <div class="owl-carousal widget-client p-t10">
+
+            @for(object of data.clients; track $index) {
+            <div class="item">
+                <div class="ow-client-logo">
+                    <div class="client-logo">
+                        <a routerLink="/page/about"><img src="{{object.image}}" alt=""></a>
+                    </div>
+                </div>
+            </div>
+            }
+
+        </div>
+    </div>
+
+    <!-- OUR GALLERY  -->
+    <div class="widget widget_gallery mfp-gallery">
+        <h4 class="widget-title  ">Our Gallery</h4>
+        <ul>
+            @for(object of data.gallery; track $index) {
+                <li>
+                    <div class="mt-post-thum">
+                        <a href="{{object.image}}" class="mfp-link"><img src="{{object.thumb}}" alt=""></a>
+                    </div>
+                </li>
+            }
+        </ul>
+    </div>
+
+
+    <!-- TAGS -->
+    <div class="widget bg-white  widget_tag_cloud">
+        <h4 class="widget-title">Tags</h4>
+        <div class="tagcloud">
+            @for(object of data.tags.split(','); track $index) {
+                <a routerLink="/blog/image-blog">{{object}}</a>
+            }
+        </div>
+    </div>
+
+</aside>

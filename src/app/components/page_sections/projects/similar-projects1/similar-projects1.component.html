@@ -1,0 +1,33 @@
+<div class="section-full p-t80 p-b50 bg-dark bg-repeat square_shape2 bg-moving mobile-page-padding"
+    style="background-image:url(assets/images/background/bg-6.png)">
+    <div class="container">
+        <!-- TITLE START -->
+        <div class="section-head">
+            <div class="mt-separator-outer separator-center">
+                <div class="mt-separator">
+                    <h2 class="text-white text-uppercase sep-line-one "><span
+                            class="font-weight-300 text-primary">Similar</span> projects</h2>
+                </div>
+            </div>
+        </div>
+        <!-- TITLE END -->
+    </div>
+    <div class="section-content container-fluid">
+
+        <div class="similar-carousal-outer">
+            <div class="owl-carousal similar-projects owl-btn-vertical-center">
+                <!-- COLUMNS 1 -->
+                @for(object of data; track $index){
+                <div class="item mt-box">
+                    <app-project-box1 [data]="object" />
+                </div>
+                }
+            </div>
+        </div>
+
+    </div>
+
+    <div class="hilite-title text-left p-l50 text-uppercase hilite-dark">
+        <strong>projects</strong>
+    </div>
+</div>

@@ -1,0 +1,18 @@
+.d-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+h4{
+    font-size: 14px;
+    color: #fff;
+}
+p{
+    margin: 0;
+    color: #fff;
+}
+.hover-shadow{
+    background-color: #000000a1;
+    padding: 10px;
+    border-radius: 30px;
+}

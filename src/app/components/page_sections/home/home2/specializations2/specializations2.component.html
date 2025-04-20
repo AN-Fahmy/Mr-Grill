@@ -1,0 +1,14 @@
+<div class="section-full bg-white slider-half-part about-info2-wrap">
+    <div class="container">
+        <!-- IMAGE Carousal START -->
+        <div class="section-content">
+            <div class="row">
+                @for(object of data; track $index) {
+                <div class="col-md-4 col-sm-4 m-b30">
+                    <app-grid-box3 [data]="object" />
+                </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

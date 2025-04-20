@@ -1,0 +1,36 @@
+<div class="section-full p-tb80 bg-gray inner-page-padding">
+
+    <!-- GALLERY CONTENT START -->
+    <div class="container-fluid">
+        <!-- PAGINATION START -->
+        <div class="filter-wrap p-b10">
+            <ul class="filter-navigation inline-navigation masonry-filter link-style  text-uppercase">
+                <li class="active"><a data-filter="*" href="javascript:void(0);" data-hover="All">All</a></li>
+                <li><a data-filter=".cat-1" href="javascript:void(0);" data-hover="Construction">Construction</a></li>
+                <li><a data-filter=".cat-2" href="javascript:void(0);" data-hover="Renovation">Renovation</a></li>
+                <li><a data-filter=".cat-3" href="javascript:void(0);" data-hover="Outdoor">Outdoor</a></li>
+                <li><a data-filter=".cat-4" href="javascript:void(0);" data-hover="Interiors">Interiors </a></li>
+                <li><a data-filter=".cat-5" href="javascript:void(0);" data-hover="Consulting">Consulting</a></li>
+            </ul>
+        </div>
+        <!-- PAGINATION END -->
+        <!-- GALLERY CONTENT START -->
+
+        <div class="portfolio-wrap mfp-gallery work-grid row clearfix">
+            @for(object of data; track $index) {
+                <div class="masonry-item {{object.category}} col-lg-3 col-md-4 col-sm-6 m-b30">
+                    <div class="project-classic">
+                        <app-project-box2 [data]="object" classic="1" />
+                    </div>
+                </div>
+            }
+        </div>
+        <!-- GALLERY CONTENT END -->
+
+        <div class="m-t20 text-center">
+            <a routerLink="/project/classic2" class="site-button btn-effect">Load More</a>
+        </div>
+    </div>
+    <!-- GALLERY CONTENT END -->
+
+</div>

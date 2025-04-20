@@ -1,0 +1,92 @@
+{
+    "about": {
+        "image": "assets/images/banner/1.jpg",
+        "title": "Creating quality urban lifestyles, building stronger communities.",
+        "page": "About 1"
+    },
+    "services": {
+        "image": "assets/images/banner/1.jpg",
+        "title": "Diversified services. Unvarying quality.",
+        "page": "Services"
+    },
+    "faq": {
+        "image": "assets/images/banner/4.jpg",
+        "title": "frequently asked questions",
+        "page": "FAQ"
+    },
+    "error404": {
+        "image": "assets/images/banner/4.jpg",
+        "title": "Page Not Found",
+        "page": "Error Page"
+    },
+    "contact": {
+        "image": "assets/images/banner/4.jpg",
+        "title": "Putting a plan to action, to assure your satisfaction!",
+        "page": "Contact Us"
+    },
+    "blogGrid": {
+        "image": "assets/images/banner/2.jpg",
+        "title": "In our work we have pride, quality is what we provide.",
+        "page": "Blog Grid"
+    },
+    "blogList": {
+        "image": "assets/images/banner/3.jpg",
+        "title": "Quality is what we pursue, We know what we do.",
+        "page": "Blog Listing"
+    },
+    "blogMasonry": {
+        "image": "assets/images/banner/2.jpg",
+        "title": "For your roofing and siding, quality we’ll be providing!",
+        "page": "Blog Masonry"
+    },
+    "blogDetailImage": {
+        "image": "assets/images/banner/2.jpg",
+        "title": "Putting a plan to action, to assure your satisfaction!",
+        "page": "Post Image"
+    },
+    "blogDetailGallery": {
+        "image": "assets/images/banner/1.jpg",
+        "title": "Making your vision come true, that is what we do.",
+        "page": "Post Gallery"
+    },
+    "blogDetailVideo": {
+        "image": "assets/images/banner/4.jpg",
+        "title": "Creating quality urban lifestyles, building stronger communities.",
+        "page": "Post Video"
+    },
+    "blogDetailSidebar": {
+        "image": "assets/images/banner/3.jpg",
+        "title": "Putting a plan to action, to assure your satisfaction!",
+        "page": "Post With Sidebar"
+    },
+    "projectGrid": {
+        "image": "assets/images/banner/2.jpg",
+        "title": "Always dedicated and devoted",
+        "page": "Project Grid"
+    },
+    "projectMasonry": {
+        "image": "assets/images/banner/1.jpg",
+        "title": "Creating quality urban lifestyles, building stronger communities.",
+        "page": "Project Masonry"
+    },
+    "projectCarousel": {
+        "image": "assets/images/banner/3.jpg",
+        "title": "Broad vision. Careful thought. Hand-crafted design.",
+        "page": "Project carousel"
+    },
+    "projectClassic1": {
+        "image": "assets/images/banner/1.jpg",
+        "title": "Creating quality urban lifestyles, building stronger communities.",
+        "page": "Project Classic View"
+    },
+    "projectClassic2": {
+        "image": "assets/images/banner/1.jpg",
+        "title": "Creating quality urban lifestyles, building stronger communities.",
+        "page": "Project Classic View"
+    },
+    "projectDetail": {
+        "image": "assets/images/banner/5.jpg",
+        "title": "Helping you and your house become better acquainted.",
+        "page": "Project Detail"
+    }
+}

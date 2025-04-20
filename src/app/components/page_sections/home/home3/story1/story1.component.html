@@ -1,0 +1,25 @@
+<div class="section-full about-summary-wrap p-t80 p-b50 bg-dark bg-repeat square_shape2 inner-page-padding"
+    style="background-image:url(assets/images/background/bg-6.png)">
+    <div class="container">
+        <!-- TITLE START -->
+        <div class="section-head">
+            <div class="mt-separator-outer separator-left">
+                <div class="mt-separator text-white">
+                    <h2 class="text-uppercase sep-line-one "><span class="font-weight-300 text-primary">About</span>
+                        Summary</h2>
+                </div>
+            </div>
+        </div>
+        <!-- TITLE END -->
+
+        <div class="section-content our-story">
+            @for(object of data; track $index) {
+            <div class="row">
+                <app-story-box1 [data]="object" />
+            </div>
+            }
+        </div>
+    </div>
+
+
+</div>

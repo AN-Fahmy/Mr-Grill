@@ -1,0 +1,2590 @@
+{
+  "home1": {
+    "specializations": [
+      {
+        "image": "assets/images/pic1.jpg",
+        "title": "Construction",
+        "subtitle": "Engineering your dreams."
+      },
+      {
+        "image": "assets/images/pic2.jpg",
+        "title": "Architecture",
+        "subtitle": "Life is Architecture."
+      },
+      {
+        "image": "assets/images/pic3.jpg",
+        "title": "Renovation",
+        "subtitle": "Dazzling Design"
+      }
+    ],
+    "aboutSlides": [
+      {
+        "image": "assets/images/gallery/pic1.jpg"
+      },
+      {
+        "image": "assets/images/gallery/pic8.jpg"
+      },
+      {
+        "image": "assets/images/gallery/pic9.jpg"
+      },
+      {
+        "image": "assets/images/gallery/pic6.jpg"
+      },
+      {
+        "image": "assets/images/gallery/pic2.jpg"
+      }
+    ],
+    "ourValue": {
+      "author": {
+        "name": "David Houkr",
+        "designation": "Architect & Founder",
+        "sign": "assets/images/Signature+Black.png"
+      },
+      "video": "https://player.vimeo.com/video/34741214?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0",
+      "facts": [
+        {
+          "figure": "450",
+          "title": "Active Experts"
+        },
+        {
+          "figure": "670",
+          "title": "Satisfied Clients"
+        },
+        {
+          "figure": "1500",
+          "title": "Project Complete"
+        }
+      ],
+      "experience": "15",
+      "exData": [
+        {
+          "title": "Architecher",
+          "percent": "85"
+        },
+        {
+          "title": "Construction",
+          "percent": "78"
+        },
+        {
+          "title": "Building",
+          "percent": "65"
+        },
+        {
+          "title": "Interior",
+          "percent": "40"
+        },
+        {
+          "title": "Commercial",
+          "percent": "55"
+        }
+      ]
+    },
+    "services": [
+      {
+        "title": "Building \nConstruction",
+        "serial": "1",
+        "icon": "assets/images/icon/crane-1.png",
+        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+      },
+      {
+        "title": "Building \nRenovation",
+        "serial": "2",
+        "icon": "assets/images/icon/renovation.png",
+        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+      },
+      {
+        "title": "Building \nMaintenance",
+        "serial": "3",
+        "icon": "assets/images/icon/toolbox.png",
+        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+      },
+      {
+        "title": "Architecture \nDesign",
+        "serial": "4",
+        "icon": "assets/images/icon/compass.png",
+        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+      }
+    ],
+    "projects": [
+      {
+        "category": "cat-2",
+        "image": "assets/images/projects/portrait/pic1.jpg",
+        "title": "Chair Furniture",
+        "place": "Muscat, Sultanate of Oman"
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/projects/portrait/pic2.jpg",
+        "title": "Furniture",
+        "place": "North House"
+      },
+      {
+        "category": "cat-6",
+        "image": "assets/images/projects/portrait/pic3.jpg",
+        "title": "Living room",
+        "place": "Aqaba, Jordan"
+      },
+      {
+        "category": "cat-6",
+        "image": "assets/images/projects/portrait/pic4.jpg",
+        "title": "Dream Workspace",
+        "place": "Perth, Australia"
+      },
+      {
+        "category": "cat-3",
+        "image": "assets/images/projects/portrait/pic5.jpg",
+        "title": "Decore",
+        "place": "Aqaba, Jordan"
+      },
+      {
+        "category": "cat-3",
+        "image": "assets/images/projects/portrait/pic6.jpg",
+        "title": "Modern Decoration",
+        "place": "Muscat, Sultanate of Oman"
+      },
+      {
+        "category": "cat-1",
+        "image": "assets/images/projects/portrait/pic7.jpg",
+        "title": "Bathroom",
+        "place": "North House"
+      },
+      {
+        "category": "cat-6",
+        "image": "assets/images/projects/pic-l-5.jpg",
+        "title": "Lamp decoration",
+        "place": "Aqaba, Jordan"
+      },
+      {
+        "category": "cat-5",
+        "image": "assets/images/projects/pic-1.jpg",
+        "title": "Building house",
+        "place": "Ultanate of Oman"
+      },
+      {
+        "category": "cat-4",
+        "image": "assets/images/projects/pic-2.jpg",
+        "title": "Spa residence",
+        "place": "Perth, Australia"
+      }
+    ],
+    "blogs": [
+      {
+        "background": "",
+        "image": "assets/images/blog/latest-blog/pic1.jpg",
+        "date": "14",
+        "month": "April",
+        "year": "2025",
+        "author": "admin",
+        "comments": "2",
+        "title": "Commercial design for project",
+        "subtitle": "Which is the same as saying through shrinking from toil and pain."
+      },
+      {
+        "background": "",
+        "image": "assets/images/blog/latest-blog/pic2.jpg",
+        "date": "16",
+        "month": "April",
+        "year": "2025",
+        "author": "admin",
+        "comments": "2",
+        "title": "Our interior design prediction",
+        "subtitle": "Today we can tell you, thanks to your passion, hard work creativity."
+      },
+      {
+        "background": "",
+        "image": "assets/images/blog/latest-blog/pic3.jpg",
+        "date": "18",
+        "month": "April",
+        "year": "2025",
+        "author": "admin",
+        "comments": "2",
+        "title": "Low cost interior designing ideas",
+        "subtitle": "Every pleasure is to be welcome every pain avoided. in certain."
+      }
+    ],
+    "testimonials": [
+      {
+        "image": "assets/images/testimonials/pic1.jpg",
+        "name": "Shelly Johnson",
+        "designation": "Business Person",
+        "quote": "Excellent Customer support!. The template itself is very ext ended. simply dummy text of the printing and industry. the printing and typesetting industry."
+      },
+      {
+        "image": "assets/images/testimonials/pic2.jpg",
+        "name": "Cuthbert Brain",
+        "designation": "Contractor",
+        "quote": "The template itself is very ext ended. excellent customer support! simply dummy text of the printing and industry. the printing and typesetting industry."
+      },
+      {
+        "image": "assets/images/testimonials/pic3.jpg",
+        "name": "Cathrine Wagner",
+        "designation": "Builder",
+        "quote": "The template itself is very ext ended. excellent customer support! simply dummy text of the printing and industry. the printing and typesetting industry."
+      },
+      {
+        "image": "assets/images/testimonials/pic4.jpg",
+        "name": "John Doe",
+        "designation": "Business Person",
+        "quote": "Excellent Customer support!. The template itself is very ext ended. simply dummy text of the printing and industry. the printing and typesetting industry."
+      },
+      {
+        "image": "assets/images/testimonials/pic5.jpg",
+        "name": "Cuthbert Brain",
+        "designation": "Business Person",
+        "quote": "The template itself is very ext ended. excellent customer support!.  simply dummy text of the printing and industry. the printing and typesetting industry."
+      }
+    ]
+  },
+  "home2": {
+    "specializations": [
+      {
+        "serial": "1",
+        "icon": "assets/images/icon/compass.png",
+        "title": "Architecture Design",
+        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident.",
+        "background": "assets/images/services/1.jpg"
+      },
+      {
+        "serial": "2",
+        "icon": "assets/images/icon/crane-1.png",
+        "title": "Building Construction",
+        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident.",
+        "background": "assets/images/services/3.jpg"
+      },
+      {
+        "serial": "3",
+        "icon": "assets/images/icon/renovation.png",
+        "title": "Building Renovation",
+        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident.",
+        "background": "assets/images/services/2.jpg"
+      }
+    ],
+    "about": {
+      "slides": [
+        {
+          "image": "assets/images/gallery/pic8.jpg"
+        },
+        {
+          "image": "assets/images/gallery/pic6.jpg"
+        },
+        {
+          "image": "assets/images/gallery/pic9.jpg"
+        },
+        {
+          "image": "assets/images/gallery/pic2.jpg"
+        },
+        {
+          "image": "assets/images/gallery/pic3.jpg"
+        }
+      ],
+      "facts": [
+        {
+          "icon": "flaticon-city",
+          "figure": "2500",
+          "title": "Projects Done"
+        },
+        {
+          "icon": "flaticon-worker",
+          "figure": "1500",
+          "title": "Happy Client"
+        },
+        {
+          "icon": "flaticon-crane",
+          "figure": "840",
+          "title": "Industries Served"
+        },
+        {
+          "icon": "flaticon-art-and-design",
+          "figure": "180",
+          "title": "Renovate"
+        }
+      ]
+    },
+    "ourValue": {
+      "video": "https://player.vimeo.com/video/34741214?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0",
+      "sign": "assets/images/Signature+Black.png",
+      "author": "David Houkr",
+      "designation": "Architect & Founder"
+    },
+    "services": [
+      {
+        "icon": "assets/images/icon/crane-1.png",
+        "title": "Building \nConstruction",
+        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+      },
+      {
+        "icon": "assets/images/icon/renovation.png",
+        "title": "Building \nRenovation",
+        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+      },
+      {
+        "icon": "assets/images/icon/toolbox.png",
+        "title": "Building \nMaintenance",
+        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+      },
+      {
+        "icon": "assets/images/icon/compass.png",
+        "title": "Architecture\nDesign",
+        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+      },
+      {
+        "icon": "assets/images/icon/idea.png",
+        "title": "Construction \nConsultant",
+        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+      },
+      {
+        "icon": "assets/images/icon/dump-truck.png",
+        "title": "Material \nSupply",
+        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+      },
+      {
+        "icon": "assets/images/icon/architecture.png",
+        "title": "House \nRenovation",
+        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+      },
+      {
+        "icon": "assets/images/icon/planning.png",
+        "title": "Interior \nDesign",
+        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+      }
+    ],
+    "projects": [
+      {
+        "main-title":"ساندوتشات على الفحم",
+        "category": "cat-1",
+        "image": "assets/images/projects/square/pic4.jpg",
+        "title": "ساندوتش كفتة كباب لحم مع بطاطس",
+        "title2": "Beef Kofta Kebab Sandwich with Fries",
+        "subtitle": "1,400"
+      },
+      {
+        "main-title":"ساندوتشات على الفحم",
+        "category": "cat-1",
+        "image": "assets/images/projects/square/pic2.jpg",
+        "title": "ساندوتش كباب لحم مع بطاطس",
+        "title2": "Beef Kebab Sandwich with Fries",
+        "subtitle": "1,400"
+      },
+      {
+        "main-title":"ساندوتشات على الفحم",
+        "category": "cat-1",
+        "image": "assets/images/projects/square/pic3.jpg",
+        "title": "ساندوتش شيش طاووق مع بطاطس",
+        "title2": "Shish Tawook Sandwich with Fries",
+        "subtitle": "1,300"
+      },
+      {
+        "main-title":"ساندوتشات على الفحم",
+        "category": "cat-1",
+        "image": "assets/images/projects/square/pic5.jpg",
+        "title": "ساندوتش كبدة اسكندراني",
+        "title2": "Alexandrian Liver Sandwich",
+        "subtitle": "0,500"
+      },
+      {
+        "main-title":"ساندوتشات على الفحم",
+        "category": "cat-1",
+        "image": "assets/images/projects/square/pic7.jpg",
+        "title": "حواوشي",
+        "title2": "Egyptian Hawawshi",
+        "subtitle": "1,000"
+      },
+      {
+        "main-title":"الإفطار",
+        "category": "cat-2",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "ساندوتش فلافل",
+        "title2": "Falafel Sandwich",
+        "subtitle": "0,400"
+      },
+      {
+        "main-title":"الإفطار",
+        "category": "cat-2",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "ساندوتش فلافل (مكس)",
+        "title2": "Falafel Sandwich (Mix)",
+        "subtitle": "0,500"
+      },
+      {
+        "main-title":"الإفطار",
+        "category": "cat-2",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "ساندوتش فول بالزبدة",
+        "title2": "Butter Fava Bean Sandwich",
+        "subtitle": "0,300"
+      },
+      {
+        "main-title":"الإفطار",
+        "category": "cat-2",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "ساندوتش فول بالبيض",
+        "title2": "Fava Bean and Egg Sandwich",
+        "subtitle": "0,500"
+      },
+      {
+        "main-title":"الإفطار",
+        "category": "cat-2",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "ساندوتش بيض",
+        "title2": "Egg Sandwich",
+        "subtitle": "0,400"
+      },
+      {
+        "main-title":"الإفطار",
+        "category": "cat-2",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "ساندوتش بطاطس",
+        "title2": "French Fries Sandwich",
+        "subtitle": "0,500"
+      },
+      {
+        "main-title":"المشويات",
+        "category": "cat-3",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "طبق رسين ضاني (مع ارز + بطاطس + خبز + طحينة)",
+        "title2": "Lamb Head Plate (Served with rice, potatoes, fresh bread, and tahini sauce)",
+        "subtitle": "4,000"
+      },
+      {
+        "main-title":"المشويات",
+        "category": "cat-3",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "طبق تكة كباب لحم ضاني (مع ارز + بطاطس + خبز + طحينة)",
+        "title2": "Lamb Tikka Kebab Plate (Served with rice, potatoes, fresh bread, and tahini sauce)",
+        "subtitle": "3,000"
+      },
+      {
+        "main-title":"المشويات",
+        "category": "cat-3",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "طبق كفتة مفرومة (كباب) (مع ارز + بطاطس + خبز + طحينة)",
+        "title2": "Minced Kefta (Kebab) Plate (Served with rice, potatoes, fresh bread, and tahini sauce)",
+        "subtitle": "2,000"
+      },
+      {
+        "main-title":"المشويات",
+        "category": "cat-3",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "طبق شيش طاووق (مع ارز + بطاطس + تومية)",
+        "title2": "Shish Tawook Plate (Served with rice, potatoes, and garlic sauce)",
+        "subtitle": "2,400"
+      },
+      {
+        "main-title":"المشويات",
+        "category": "cat-3",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "نصف دجاج بالعظم (مع ارز + سلطة بلدي)",
+        "title2": "Half Chicken with Bone (Served with rice and Egyptian salad)",
+        "subtitle": "1,800"
+      },
+      {
+        "main-title":"المشويات",
+        "category": "cat-3",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "نصف دجاج محسب (مع ارز + سلطة بلدي)",
+        "title2": "Spiced Half Chicken (Served with rice and Egyptian salad)",
+        "subtitle": "1,900"
+      },
+      {
+        "main-title":"المشويات",
+        "category": "cat-3",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "نصف وجبة دجاج (مع ارز + سلطة بلدي + مخلل)",
+        "title2": "Half Chicken Meal (Served with rice, Egyptian salad, and pickles)",
+        "subtitle": "1,500"
+      },
+      {
+        "main-title":"المشويات",
+        "category": "cat-3",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "وجبة صدور مشوية على الفحم (مع ارز + سلطة بلدي + مخلل)",
+        "title2": "Charcoal-Grilled Chicken Breast Meal (Served with rice, Egyptian salad, and pickles)",
+        "subtitle": "1,800"
+      },
+      {
+        "main-title":"الطواجن",
+        "category": "cat-4",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "طاجن ملوخية بالفراخ محمرة (مع أرز بشعرية + سلطة + مخلل)",
+        "title2": "Molokhia with Fried Chicken (Served with rice with vermicelli, salad, and pickles)",
+        "subtitle": "1,800"
+      },
+      {
+        "main-title":"الطواجن",
+        "category": "cat-4",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "طاجن بطاطس بالحمة (مع أرز بشعرية + سلطة + مخلل)",
+        "title2": "Potato & Beef Tagine",
+        "subtitle": "2,500"
+      },
+      {
+        "main-title":"الطواجن",
+        "category": "cat-4",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "طاجن فتة بالموزة ضاني (مع أرز بشعرية + سلطة + مخلل)",
+        "title2": "Lamb Shank Fattah Tagine (Served with rice with vermicelli, salad, and pickles)",
+        "subtitle": "3,500"
+      },
+      {
+        "main-title":"الطواجن",
+        "category": "cat-4",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "طاجن فتة بالحمة المحمرة (مع أرز بشعرية + سلطة + مخلل)",
+        "title2": "Fried Beef Fattah Tagine",
+        "subtitle": "2,500"
+      },
+      {
+        "main-title":"الطواجن",
+        "category": "cat-4",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "طاجن لحمة (مع أرز بسمتي + سلطة + مخلل)",
+        "title2": "Beef Tagine (Served with basmati rice, salad, and pickles.)",
+        "subtitle": "2,000"
+      },
+      {
+        "main-title":"الطواجن",
+        "category": "cat-4",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "طاجن بامية (مع أرز)",
+        "title2": "Okra Tagine (Served with rice)",
+        "subtitle": "1,400"
+      },
+      {
+        "main-title":"الطواجن",
+        "category": "cat-4",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "طاجن ملوخية (مع أرز)",
+        "title2": "Molokhia Tagine",
+        "subtitle": "1,400"
+      },
+      {
+        "main-title":"الطواجن",
+        "category": "cat-4",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "فتة سادة (مع أرز)",
+        "title2": "Plain Fattah (Served with rice)",
+        "subtitle": "1,000"
+      },
+      {
+        "main-title":"الطواجن",
+        "category": "cat-4",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "طاجن بطاطس (مع أرز)",
+        "title2": "Potato Tagine (Served with rice)",
+        "subtitle": "1,400"
+      },
+      {
+        "main-title":"الطواجن",
+        "category": "cat-4",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "طاجن بامية",
+        "title2": "Okra Tagine",
+        "subtitle": "0,900"
+      },
+      {
+        "main-title":"الطواجن",
+        "category": "cat-4",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "طاجن ملوخية",
+        "title2": "Molokhia Tagine",
+        "subtitle": "0,900"
+      },
+      {
+        "main-title":"الطواجن",
+        "category": "cat-4",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "طاجن بطاطس",
+        "title2": "Potato Tagine",
+        "subtitle": "0,900"
+      },
+      {
+        "main-title":"الإضافات",
+        "category": "cat-5",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "تومية",
+        "title2": "Toum",
+        "subtitle": "0,00"
+      },
+      {
+        "main-title":"الإضافات",
+        "category": "cat-5",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "طحينة",
+        "title2": "Tahini",
+        "subtitle": "0,00"
+      },
+      {
+        "main-title":"الإضافات",
+        "category": "cat-5",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "باب غنوج",
+        "title2": "Baba Ghanoush",
+        "subtitle": "0,00"
+      },
+      {
+        "main-title":"الإضافات",
+        "category": "cat-5",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "زبادي",
+        "title2": "Yogurt",
+        "subtitle": "0,00"
+      },
+      {
+        "main-title":"الإضافات",
+        "category": "cat-5",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "أرز بشعرية مصري",
+        "title2": "Egyptian Rice with Vermicelli",
+        "subtitle": "0,00"
+      },
+      {
+        "main-title":"الإضافات",
+        "category": "cat-5",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "أرز أبيض مصري",
+        "title2": "Egyptian White Rice",
+        "subtitle": "0,00"
+      },
+      {
+        "main-title":"الإضافات",
+        "category": "cat-5",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "أرز بسمتي خلطة مصري",
+        "title2": "Egyptian Basmati Rice Pilaf",
+        "subtitle": "0,00"
+      },
+      {
+        "main-title":"الإضافات",
+        "category": "cat-5",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "مياة",
+        "title2": "Water",
+        "subtitle": "0,00"
+      },
+      {
+        "main-title":"الإضافات",
+        "category": "cat-5",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "بيبسي",
+        "title2": "Pepsi",
+        "subtitle": "0,00"
+      },
+      {
+        "main-title":"الشاورما",
+        "category": "cat-6",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "شاورما دجاج",
+        "title2": "Chicken Shawarma",
+        "subtitle": "0,500"
+      },
+      {
+        "main-title":"الشاورما",
+        "category": "cat-6",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "سندوتش صاج دجاج",
+        "title2": "Chicken Saj Sandwich",
+        "subtitle": "1,100"
+      },
+      {
+        "main-title":"الشاورما",
+        "category": "cat-6",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "وجبة شاورما عربي دجاج",
+        "title2": "Arabic Chicken Shawarma Meal",
+        "subtitle": "1,500"
+      },
+      {
+        "main-title":"الشاورما",
+        "category": "cat-6",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "صحن شاورما دجاج",
+        "title2": "Chicken Shawarma Plate",
+        "subtitle": "1,800"
+      }
+    ],
+    "team": [
+      {
+        "image": "assets/images/our-team5/pic4.png",
+        "name": "Avie Beaton",
+        "designation": "Ceo & Architect"
+      },
+      {
+        "image": "assets/images/our-team5/pic3.png",
+        "name": "Ben Jonson",
+        "designation": "Architect"
+      },
+      {
+        "image": "assets/images/our-team5/pic2.png",
+        "name": "Ashley Fletcher",
+        "designation": "Finances"
+      },
+      {
+        "image": "assets/images/our-team5/pic5.png",
+        "name": "Ashley Fletcher",
+        "designation": "Finances"
+      }
+    ],
+    "pricing": [
+      {
+        "plan": "Basic Plan",
+        "price": "$29",
+        "includes": [
+          {
+            "name": "Phone & Email Support"
+          },
+          {
+            "name": "3 Social Account"
+          },
+          {
+            "name": "Branded Reports"
+          }
+        ]
+      },
+      {
+        "plan": "Pro Plan",
+        "price": "$49",
+        "includes": [
+          {
+            "name": "Phone & Email Support"
+          },
+          {
+            "name": "3 Social Account"
+          },
+          {
+            "name": "Branded Reports"
+          }
+        ]
+      },
+      {
+        "plan": "Premium Plan",
+        "price": "$99",
+        "includes": [
+          {
+            "name": "Phone & Email Support"
+          },
+          {
+            "name": "3 Social Account"
+          },
+          {
+            "name": "Branded Reports"
+          }
+        ]
+      }
+    ],
+    "clients": [
+      {
+        "image": "assets/images/client-logo/w1.png"
+      },
+      {
+        "image": "assets/images/client-logo/w2.png"
+      },
+      {
+        "image": "assets/images/client-logo/w3.png"
+      },
+      {
+        "image": "assets/images/client-logo/w4.png"
+      },
+      {
+        "image": "assets/images/client-logo/w5.png"
+      },
+      {
+        "image": "assets/images/client-logo/w6.png"
+      }
+    ],
+    "testimonials": [
+      {
+        "image": "assets/images/testimonials/pic1.jpg",
+        "quote": "Excellent Customer support!. The template itself is very ext ended. simply dummy text of the printing and industry. the printing and typesetting industry. Lorem Ipsum has been the industry's",
+        "name": "Shelly Johnson",
+        "designation": "Business Person"
+      },
+      {
+        "image": "assets/images/testimonials/pic1.jpg",
+        "quote": "Excellent Customer support!. The template itself is very ext ended. simply dummy text of the printing and industry. the printing and typesetting industry. Lorem Ipsum has been the industry's",
+        "name": "Shelly Johnson",
+        "designation": "Business Person"
+      },
+      {
+        "image": "assets/images/testimonials/pic1.jpg",
+        "quote": "Excellent Customer support!. The template itself is very ext ended. simply dummy text of the printing and industry. the printing and typesetting industry. Lorem Ipsum has been the industry's",
+        "name": "Shelly Johnson",
+        "designation": "Business Person"
+      }
+    ]
+  },
+  "home3": {
+    "about": {
+      "slides": [
+        {
+          "image": "assets/images/gallery/portrait/pic4.jpg"
+        },
+        {
+          "image": "assets/images/gallery/portrait/pic5.jpg"
+        },
+        {
+          "image": "assets/images/gallery/portrait/pic6.jpg"
+        },
+        {
+          "image": "assets/images/gallery/portrait/pic7.jpg"
+        }
+      ],
+      "experience": "25",
+      "author": "David Houkr",
+      "sign": "assets/images/Signature+Black.png",
+      "designation": "Architect & Founder"
+    },
+    "specializations": [
+      {
+        "image": "assets/images/services/1.jpg",
+        "title": "Concept and Design",
+        "subtitle": "Est notare quam littera gothica, quam nunc putamus parum claram."
+      },
+      {
+        "image": "assets/images/services/2.jpg",
+        "title": "Refurbishment",
+        "subtitle": "Est notare quam littera gothica, quam nunc putamus parum claram."
+      },
+      {
+        "image": "assets/images/services/3.jpg",
+        "title": "General Builder",
+        "subtitle": "Est notare quam littera gothica, quam nunc putamus parum claram."
+      }
+    ],
+    "services": [
+      {
+        "icon": "flaticon-city",
+        "title": "Rooms & Halls",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      },
+      {
+        "icon": "flaticon-paint",
+        "title": "Renovation",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      },
+      {
+        "icon": "flaticon-crane",
+        "title": "Construction",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      },
+      {
+        "icon": "flaticon-decorating",
+        "title": "Interior",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      },
+      {
+        "icon": "flaticon-chart",
+        "title": "Professional Opinion",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      },
+      {
+        "icon": "flaticon-sketch",
+        "title": "Accurate Engineering",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      },
+      {
+        "icon": "flaticon-builder",
+        "title": "General Builder",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      },
+      {
+        "icon": "flaticon-drill",
+        "title": "Electricity",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      },
+      {
+        "icon": "flaticon-art-and-design",
+        "title": "Refurbishment",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      }
+    ],
+    "projects": [
+      {
+        "main-title":"",
+        "category": "cat-1",
+        "image": "assets/images/services/service-projects/shooping-mall.jpg",
+        "title": "Shopping Mall",
+        "place": "Muscat, Sultanate of Oman"
+      },
+      {
+        "main-title":"",
+        "category": "cat-2",
+        "image": "assets/images/services/service-projects/hospital.jpg",
+        "title": "Hospital Building",
+        "place": "Muscat, Sultanate of Oman"
+      },
+      {
+        "main-title":"",
+        "category": "cat-3",
+        "image": "assets/images/services/service-projects/garden-house.jpg",
+        "title": "Garden House",
+        "place": "Muscat, Sultanate of Oman"
+      },
+      {
+        "main-title":"",
+        "category": "cat-4",
+        "image": "assets/images/services/service-projects/villa.jpg",
+        "title": "Villa",
+        "place": "Muscat, Sultanate of Oman"
+      },
+      {
+        "main-title":"",
+        "category": "cat-5",
+        "image": "assets/images/services/service-projects/road-construction.jpg",
+        "title": "Road Construction",
+        "place": "Muscat, Sultanate of Oman"
+      },
+      {
+        "main-title":"",
+        "category": "cat-4",
+        "image": "assets/images/services/service-projects/bridge.jpg",
+        "title": "Bridge Construction",
+        "place": "Muscat, Sultanate of Oman"
+      },
+      {
+        "main-title":"",
+        "category": "cat-3",
+        "image": "assets/images/services/service-projects/building-ren.jpg",
+        "title": "Building Renovation",
+        "place": "Muscat, Sultanate of Oman"
+      },
+      {
+        "main-title":"",
+        "category": "cat-2",
+        "image": "assets/images/services/service-projects/dam-construction.jpg",
+        "title": "Dam Construction",
+        "place": "Muscat, Sultanate of Oman"
+      }
+    ],
+    "about2": {
+      "experience": "15",
+      "exData": [
+        {
+          "title": "Architecher",
+          "percent": "85"
+        },
+        {
+          "title": "Construction",
+          "percent": "78"
+        },
+        {
+          "title": "Interior",
+          "percent": "40"
+        }
+      ]
+    },
+    "story": [
+      {
+        "image": "assets/images/gallery/portrait/pic4.jpg",
+        "year": "2011-12",
+        "title": "Eisenhower Memoria",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged."
+      },
+      {
+        "image": "assets/images/gallery/portrait/pic7.jpg",
+        "year": "2013-14",
+        "title": "Columbia Sport Center",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged."
+      },
+      {
+        "image": "assets/images/gallery/portrait/pic6.jpg",
+        "year": "2015-16",
+        "title": "Park Boathouse",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged."
+      },
+      {
+        "image": "assets/images/gallery/portrait/pic5.jpg",
+        "year": "2017-18",
+        "title": "Museum Expansion",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged."
+      }
+    ],
+    "faq": {
+      "faq": [
+        {
+          "serial": "1",
+          "title": "Choose between rates or instant payment",
+          "description": "Motivate others and change the way we feel about ourselves. This is why I find them so interesting and crucial on our paths to success mauris accumsan eros eget libero posuere vulputate. Etiam elit elit, elementum sed varius at, adipiscing vitae est. Sed nec felis pellentesque, lacinia dui sed, ultricies sapien. Pellentesque orci consectetur vel posuere posuere, rutrum eu ipsum. Cost is important."
+        },
+        {
+          "serial": "2",
+          "title": "Come to see a live preview",
+          "description": "Inspirational quotes have an amazing ability to motivate others and change the way we feel about ourselves. This is why I find them so interesting and crucial on our paths to success."
+        },
+        {
+          "serial": "3",
+          "title": "Choose the correct service",
+          "description": "The leap into electronic typesetting, remaining essentially unchanged. It was popularised sheets containing Lorem Ipsum passagese."
+        }
+      ],
+      "solutions": [
+        {
+          "icon": "flaticon-sketch",
+          "title": "Assistance",
+          "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning.",
+          "background": "bg-gray",
+          "text": "text-black",
+          "link": ""
+        },
+        {
+          "icon": "flaticon-ui",
+          "title": "Financing",
+          "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning.",
+          "background": "bg-dark",
+          "text": "text-white",
+          "link": "yellow"
+        }
+      ]
+    }
+  },
+  "home4": {
+    "about": {
+      "slides": [
+        {
+          "image": "assets/images/gallery/portrait/pic4.jpg"
+        },
+        {
+          "image": "assets/images/gallery/portrait/pic5.jpg"
+        },
+        {
+          "image": "assets/images/gallery/portrait/pic6.jpg"
+        },
+        {
+          "image": "assets/images/gallery/portrait/pic7.jpg"
+        }
+      ],
+      "experience": "25",
+      "author": "David Houkr",
+      "sign": "assets/images/Signature+Black.png",
+      "designation": "Architect & Founder"
+    },
+    "specializations": [
+      {
+        "image": "assets/images/services/1.jpg",
+        "title": "Concept and Design",
+        "subtitle": "Est notare quam littera gothica, quam nunc putamus parum claram."
+      },
+      {
+        "image": "assets/images/services/2.jpg",
+        "title": "Refurbishment",
+        "subtitle": "Est notare quam littera gothica, quam nunc putamus parum claram."
+      },
+      {
+        "image": "assets/images/services/3.jpg",
+        "title": "General Builder",
+        "subtitle": "Est notare quam littera gothica, quam nunc putamus parum claram."
+      }
+    ],
+    "ourValue": {
+      "video": "https://player.vimeo.com/video/34741214?color=ffffff&amp;title=0&amp;byline=0&amp;portrait=0",
+      "sign": "assets/images/Signature+Black.png",
+      "author": "David Houkr",
+      "designation": "Architect & Founder"
+    },
+    "projects": [
+      {
+        "main-title":"",
+        "category": "cat-1",
+        "image": "assets/images/projects/portrait/pic1.jpg",
+        "linkImage": "assets/images/projects/portrait/pic4.jpg",
+        "title": "Life style building",
+        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
+      },
+      {
+        "main-title":"",
+        "category": "cat-2",
+        "image": "assets/images/projects/portrait/pic2.jpg",
+        "linkImage": "assets/images/projects/portrait/pic9.jpg",
+        "title": "Central City Building",
+        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
+      },
+      {
+        "main-title":"",
+        "category": "cat-3",
+        "image": "assets/images/projects/portrait/pic3.jpg",
+        "linkImage": "assets/images/projects/portrait/pic6.jpg",
+        "title": "Nathan Brooke House",
+        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
+      },
+      {
+        "main-title":"",
+        "category": "cat-4",
+        "image": "assets/images/projects/portrait/pic4.jpg",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "Metropolitan Museum",
+        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
+      },
+      {
+        "main-title":"",
+        "category": "cat-5",
+        "image": "assets/images/projects/portrait/pic5.jpg",
+        "linkImage": "assets/images/projects/portrait/pic7.jpg",
+        "title": "Art Family Residence",
+        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
+      },
+      {
+        "main-title":"",
+        "category": "cat-4",
+        "image": "assets/images/projects/portrait/pic6.jpg",
+        "linkImage": "assets/images/projects/portrait/pic8.jpg",
+        "title": "Office Partition Walls",
+        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
+      }
+    ],
+    "services": [
+      {
+        "icon": "flaticon-city",
+        "title": "Rooms & Halls",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      },
+      {
+        "icon": "flaticon-paint",
+        "title": "Renovation",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      },
+      {
+        "icon": "flaticon-crane",
+        "title": "Construction",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      },
+      {
+        "icon": "flaticon-decorating",
+        "title": "Interior",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      },
+      {
+        "icon": "flaticon-chart",
+        "title": "Professional Opinion",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      },
+      {
+        "icon": "flaticon-sketch",
+        "title": "Accurate Engineering",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      }
+    ],
+    "about2": {
+      "experience": "15",
+      "exData": [
+        {
+          "title": "Architecher",
+          "percent": "85"
+        },
+        {
+          "title": "Construction",
+          "percent": "78"
+        },
+        {
+          "title": "Interior",
+          "percent": "40"
+        }
+      ]
+    },
+    "team": [
+      {
+        "image": "assets/images/our-team4/pic1.png",
+        "name": "Avie Beaton",
+        "designation": "Ceo & Architect",
+        "description": "Which is worse, that everyone has his price, or that the price is always so low."
+      },
+      {
+        "image": "assets/images/our-team4/pic2.png",
+        "name": "Ben Jonson",
+        "designation": "Architect",
+        "description": "Which is worse, that everyone has his price, or that the price is always so low."
+      },
+      {
+        "image": "assets/images/our-team4/pic3.png",
+        "name": "Ashley Fletcher",
+        "designation": "Finances",
+        "description": "Which is worse, that everyone has his price, or that the price is always so low."
+      }
+    ],
+    "blogs": [
+      {
+        "image": "assets/images/blog/blog-grid/pic4.jpg",
+        "date": "17",
+        "month": "April",
+        "author": "John",
+        "comments": "0",
+        "title": "We’ll nail your next project, because nobody wants!",
+        "description": "Same as saying through shrinking from toil and pain these cases perfectly simple."
+      },
+      {
+        "image": "assets/images/blog/blog-grid/pic1.jpg",
+        "date": "16",
+        "month": "April",
+        "author": "John",
+        "comments": "0",
+        "title": "Helping you and your house become better acquainted.",
+        "description": "Same as saying through shrinking from toil and pain these cases perfectly simple."
+      },
+      {
+        "image": "assets/images/blog/blog-grid/pic2.jpg",
+        "date": "14",
+        "month": "April",
+        "author": "John",
+        "comments": "0",
+        "title": "Creating quality urban lifestyles, building stronger communities.",
+        "description": "Same as saying through shrinking from toil and pain these cases perfectly simple."
+      }
+    ],
+    "faq": {
+      "faq": [
+        {
+          "serial": "1",
+          "title": "Choose between rates or instant payment",
+          "description": "Motivate others and change the way we feel about ourselves. This is why I find them so interesting and crucial on our paths to success mauris accumsan eros eget libero posuere vulputate. Etiam elit elit, elementum sed varius at, adipi scing vitae est. Sed nec felis pellentesque, lacinia dui sed"
+        },
+        {
+          "serial": "2",
+          "title": "Come to see a live preview",
+          "description": "Inspirational quotes have an amazing ability to motivate others and change the way we feel about ourselves. This is why I find them so interesting and crucial on our paths to success."
+        },
+        {
+          "serial": "3",
+          "title": "Choose the correct service",
+          "description": "The leap into electronic typesetting, remaining essentially unchanged. It was popularised sheets containing Lorem Ipsum passagese."
+        }
+      ],
+      "solutions": [
+        {
+          "icon": "flaticon-sketch",
+          "title": "Assistance",
+          "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning.",
+          "background": "bg-gray",
+          "text": "text-black",
+          "link": ""
+        },
+        {
+          "icon": "flaticon-ui",
+          "title": "Financing",
+          "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning.",
+          "background": "bg-dark",
+          "text": "text-white",
+          "link": "yellow"
+        }
+      ]
+    }
+  },
+  "about": {
+    "about": {
+      "slides": [
+        {
+          "image": "assets/images/gallery/portrait/pic4.jpg"
+        },
+        {
+          "image": "assets/images/gallery/portrait/pic5.jpg"
+        },
+        {
+          "image": "assets/images/gallery/portrait/pic6.jpg"
+        },
+        {
+          "image": "assets/images/gallery/portrait/pic7.jpg"
+        }
+      ],
+      "experience": "25",
+      "author": "David Houkr",
+      "sign": "assets/images/Signature+Black.png",
+      "designation": "Architect & Founder"
+    },
+    "specializations": [
+      {
+        "serial": "1",
+        "icon": "assets/images/icon/crane-1.png",
+        "title": "Building \nConstruction",
+        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+      },
+      {
+        "serial": "2",
+        "icon": "assets/images/icon/renovation.png",
+        "title": "Building \nRenovation",
+        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+      },
+      {
+        "serial": "3",
+        "icon": "assets/images/icon/toolbox.png",
+        "title": "Building \nMaintenance",
+        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+      },
+      {
+        "serial": "4",
+        "icon": "assets/images/icon/compass.png",
+        "title": "Architecture \nDesign",
+        "description": "lorem Ipsum available, but the majority have suffered alterati on in some form, by ious by accident."
+      }
+    ],
+    "team": [
+      {
+        "image": "assets/images/our-team4/pic1.png",
+        "name": "Avie Beaton",
+        "designation": "Ceo & Architect",
+        "description": "Which is worse, that everyone has his price, or that the price is always so low."
+      },
+      {
+        "image": "assets/images/our-team4/pic2.png",
+        "name": "Ben Jonson",
+        "designation": "Architect",
+        "description": "Which is worse, that everyone has his price, or that the price is always so low."
+      },
+      {
+        "image": "assets/images/our-team4/pic3.png",
+        "name": "Ashley Fletcher",
+        "designation": "Finances",
+        "description": "Which is worse, that everyone has his price, or that the price is always so low."
+      }
+    ],
+    "story": [
+      {
+        "image": "assets/images/gallery/portrait/pic4.jpg",
+        "year": "2011-12",
+        "title": "Eisenhower Memoria",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged."
+      },
+      {
+        "image": "assets/images/gallery/portrait/pic7.jpg",
+        "year": "2013-14",
+        "title": "Columbia Sport Center",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged."
+      },
+      {
+        "image": "assets/images/gallery/portrait/pic6.jpg",
+        "year": "2015-16",
+        "title": "Park Boathouse",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged."
+      },
+      {
+        "image": "assets/images/gallery/portrait/pic5.jpg",
+        "year": "2017-18",
+        "title": "Museum Expansion",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged."
+      }
+    ]
+  },
+  "services": {
+    "specializations": [
+      {
+        "image": "assets/images/services/1.jpg",
+        "title": "Concept and Design",
+        "subtitle": "Est notare quam littera gothica, quam nunc putamus parum claram."
+      },
+      {
+        "image": "assets/images/services/2.jpg",
+        "title": "Refurbishment",
+        "subtitle": "Est notare quam littera gothica, quam nunc putamus parum claram."
+      },
+      {
+        "image": "assets/images/services/3.jpg",
+        "title": "General Builder",
+        "subtitle": "Est notare quam littera gothica, quam nunc putamus parum claram."
+      }
+    ],
+    "services": [
+      {
+        "icon": "flaticon-city",
+        "title": "Rooms & Halls",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      },
+      {
+        "icon": "flaticon-paint",
+        "title": "Renovation",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      },
+      {
+        "icon": "flaticon-crane",
+        "title": "Construction",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      },
+      {
+        "icon": "flaticon-decorating",
+        "title": "Interior",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      },
+      {
+        "icon": "flaticon-chart",
+        "title": "Professional Opinion",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      },
+      {
+        "icon": "flaticon-sketch",
+        "title": "Accurate Engineering",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      },
+      {
+        "icon": "flaticon-builder",
+        "title": "General Builder",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      },
+      {
+        "icon": "flaticon-drill",
+        "title": "Electricity",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      },
+      {
+        "icon": "flaticon-art-and-design",
+        "title": "Refurbishment",
+        "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning your ambitions."
+      }
+    ],
+    "about": {
+      "experience": "15",
+      "exData": [
+        {
+          "title": "Architecher",
+          "percent": "85"
+        },
+        {
+          "title": "Construction",
+          "percent": "78"
+        },
+        {
+          "title": "Interior",
+          "percent": "40"
+        }
+      ]
+    },
+    "projects": [
+      {
+        "main-title":"ساندوتشات على الفحم",
+        "category": "cat-1",
+        "image": "assets/images/services/service-projects/shooping-mall.jpg",
+        "title": "Shopping Mall",
+        "place": "Muscat, Sultanate of Oman"
+      },
+      {
+        "main-title":"",
+        "category": "cat-1",
+        "image": "assets/images/services/service-projects/hospital.jpg",
+        "title": "Hospital Building",
+        "place": "Muscat, Sultanate of Oman"
+      },
+      {
+        "main-title":"",
+        "category": "cat-3",
+        "image": "assets/images/services/service-projects/garden-house.jpg",
+        "title": "Garden House",
+        "place": "Muscat, Sultanate of Oman"
+      },
+      {
+        "main-title":"",
+        "category": "cat-4",
+        "image": "assets/images/services/service-projects/villa.jpg",
+        "title": "Villa",
+        "place": "Muscat, Sultanate of Oman"
+      },
+      {
+        "main-title":"",
+        "category": "cat-5",
+        "image": "assets/images/services/service-projects/road-construction.jpg",
+        "title": "Road Construction",
+        "place": "Muscat, Sultanate of Oman"
+      },
+      {
+        "main-title":"",
+        "category": "cat-4",
+        "image": "assets/images/services/service-projects/bridge.jpg",
+        "title": "Bridge Construction",
+        "place": "Muscat, Sultanate of Oman"
+      },
+      {
+        "main-title":"",
+        "category": "cat-3",
+        "image": "assets/images/services/service-projects/building-ren.jpg",
+        "title": "Building Renovation",
+        "place": "Muscat, Sultanate of Oman"
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/services/service-projects/dam-construction.jpg",
+        "title": "Dam Construction",
+        "place": "Muscat, Sultanate of Oman"
+      }
+    ],
+    "faq": {
+      "faq": [
+        {
+          "serial": "1",
+          "title": "Choose between rates or instant payment",
+          "description": "Motivate others and change the way we feel about ourselves. This is why I find them so interesting and crucial on our paths to success mauris accumsan eros eget libero posuere vulputate. Etiam elit elit, elementum sed varius at, adipi scing vitae est. Sed nec felis pellentesque, lacinia dui sed"
+        },
+        {
+          "serial": "2",
+          "title": "Come to see a live preview",
+          "description": "Inspirational quotes have an amazing ability to motivate others and change the way we feel about ourselves. This is why I find them so interesting and crucial on our paths to success."
+        },
+        {
+          "serial": "3",
+          "title": "Choose the correct service",
+          "description": "The leap into electronic typesetting, remaining essentially unchanged. It was popularised sheets containing Lorem Ipsum passagese."
+        }
+      ],
+      "solutions": [
+        {
+          "icon": "flaticon-sketch",
+          "title": "Assistance",
+          "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning.",
+          "background": "bg-gray",
+          "text": "text-black",
+          "link": ""
+        },
+        {
+          "icon": "flaticon-ui",
+          "title": "Financing",
+          "description": "Lorem Ipsum is simply dummy text of the printing and setting as Planning.",
+          "background": "bg-dark",
+          "text": "text-white",
+          "link": "yellow"
+        }
+      ]
+    }
+  },
+  "faq": {
+    "faq": [
+      {
+        "serial": "1",
+        "title": "How do we work?",
+        "description": "Progressively generate synergistic total linkage through cross-media intellectual. Enthusiastically parallel task team building e-tailers without standards compliant have."
+      },
+      {
+        "serial": "2",
+        "title": "What services do we offer?",
+        "description": "when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised sheets containing Lorem Ipsum passagese."
+      },
+      {
+        "serial": "3",
+        "title": "Why do you have a design fee and purchasing fee on the product?",
+        "description": "Printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised sheets containing Lorem Ipsum passagese."
+      },
+      {
+        "serial": "4",
+        "title": "How long will it take to to design and build my project?",
+        "description": "The printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries."
+      },
+      {
+        "serial": "5",
+        "title": "What should I have at our first meeting for my project?",
+        "description": "Unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      }
+    ]
+  },
+  "blogGrid": {
+    "blogs": [
+      {
+        "image": "assets/images/blog/blog-grid/pic4.jpg",
+        "date": "17",
+        "month": "Apr",
+        "title": "We'll nail your next project, because nobody wants a screw up!",
+        "author": "John",
+        "comments": "0",
+        "description": "Same as saying through shrinking from toil and pain these cases perfectly simple."
+      },
+      {
+        "image": "assets/images/blog/blog-grid/pic1.jpg",
+        "date": "16",
+        "month": "Apr",
+        "title": "Helping you and your house become better acquainted.",
+        "author": "John",
+        "comments": "0",
+        "description": "Same as saying through shrinking from toil and pain these cases perfectly simple."
+      },
+      {
+        "image": "assets/images/blog/blog-grid/pic2.jpg",
+        "date": "14",
+        "month": "Apr",
+        "title": "Creating quality urban lifestyles, building stronger communities.",
+        "author": "John",
+        "comments": "0",
+        "description": "Same as saying through shrinking from toil and pain these cases perfectly simple."
+      },
+      {
+        "image": "assets/images/blog/blog-grid/pic3.jpg",
+        "date": "25",
+        "month": "Apr",
+        "title": "When it comes to your house, don’t mess with the rest, trust the best",
+        "author": "John",
+        "comments": "0",
+        "description": "Same as saying through shrinking from toil and pain these cases perfectly simple."
+      },
+      {
+        "image": "assets/images/blog/blog-grid/pic4.jpg",
+        "date": "18",
+        "month": "May",
+        "title": "Don’t get framed by the competition, trust our solid reputation.",
+        "author": "John",
+        "comments": "0",
+        "description": "Same as saying through shrinking from toil and pain these cases perfectly simple."
+      },
+      {
+        "image": "assets/images/blog/blog-grid/pic5.jpg",
+        "date": "15",
+        "month": "Jun",
+        "title": "We’re the construction kings, building up great things",
+        "author": "John",
+        "comments": "0",
+        "description": "Same as saying through shrinking from toil and pain these cases perfectly simple."
+      },
+      {
+        "image": "assets/images/blog/blog-grid/pic6.jpg",
+        "date": "18",
+        "month": "May",
+        "title": "For your roofing and siding, quality we’ll be providing!",
+        "author": "John",
+        "comments": "0",
+        "description": "Same as saying through shrinking from toil and pain these cases perfectly simple."
+      },
+      {
+        "image": "assets/images/blog/blog-grid/pic7.jpg",
+        "date": "22",
+        "month": "Apr",
+        "title": "When it comes to your house, don’t mess with the rest, trust the best.",
+        "author": "John",
+        "comments": "0",
+        "description": "Same as saying through shrinking from toil and pain these cases perfectly simple."
+      },
+      {
+        "image": "assets/images/blog/blog-grid/pic8.jpg",
+        "date": "30",
+        "month": "Aug",
+        "title": "Creating quality urban lifestyles, building stronger communities.",
+        "author": "John",
+        "comments": "0",
+        "description": "Same as saying through shrinking from toil and pain these cases perfectly simple."
+      }
+    ]
+  },
+  "blogList": {
+    "blogs": [
+      {
+        "image": "assets/images/blog/default/thum1.jpg",
+        "date": "20",
+        "month": "May",
+        "year": "2025",
+        "author": "John",
+        "comments": "0",
+        "title": "Creating quality urban lifestyles, building stronger communities.",
+        "description": "Asperiores, tenetur, blanditiis, quaerat odit ex exercitationem pariatur quibusdam veritatis lorem quisquam laboriosam esse beatae hic perferendis velit deserunt soluta iste repellendus officia in neque veniam debitis"
+      },
+      {
+        "image": "assets/images/blog/default/thum2.jpg",
+        "date": "20",
+        "month": "May",
+        "year": "2025",
+        "author": "John",
+        "comments": "0",
+        "title": "When it comes to your house, don’t mess with the rest, trust the best",
+        "description": "Asperiores, tenetur, blanditiis, quaerat odit ex exercitationem pariatur quibusdam veritatis lorem quisquam laboriosam esse beatae hic perferendis velit deserunt soluta."
+      },
+      {
+        "image": "assets/images/blog/default/thum3.jpg",
+        "date": "20",
+        "month": "May",
+        "year": "2025",
+        "author": "John",
+        "comments": "0",
+        "title": "Making your vision come true, that is what we do.",
+        "description": "Asperiores, tenetur, blanditiis, quaerat odit ex exercitationem pariatur quibusdam veritatis lorem quisquam laboriosam esse beatae hic perferendis velit deserunt soluta iste repellendus officia in neque veniam debitis"
+      },
+      {
+        "image": "assets/images/blog/default/thum4.jpg",
+        "date": "20",
+        "month": "May",
+        "year": "2025",
+        "author": "John",
+        "comments": "0",
+        "title": "Putting a plan to action, to assure your satisfaction!",
+        "description": "Asperiores, tenetur, blanditiis, quaerat odit ex exercitationem pariatur quibusdam veritatis lorem quisquam laboriosam esse beatae hic perferendis velit deserunt soluta iste repellendus officia in neque veniam debitis"
+      },
+      {
+        "image": "assets/images/blog/default/thum5.jpg",
+        "date": "20",
+        "month": "May",
+        "year": "2025",
+        "author": "John",
+        "comments": "0",
+        "title": "Don’t get framed by the competition, trust our solid reputation.",
+        "description": "Asperiores, tenetur, blanditiis, quaerat odit ex exercitationem pariatur quibusdam veritatis lorem quisquam laboriosam esse beatae hic perferendis velit deserunt soluta iste repellendus officia in neque veniam debitis"
+      }
+    ],
+    "asideData": {
+      "recent": [
+        {
+          "image": "assets/images/blog/recent-blog/pic1.jpg",
+          "date": "25",
+          "month": "Apr",
+          "comments": "20",
+          "title": "Don’t get framed by the competition, trust our solid reputation."
+        },
+        {
+          "image": "assets/images/blog/recent-blog/pic2.jpg",
+          "date": "28",
+          "month": "Apr",
+          "comments": "05",
+          "title": "building your dream house shouldn’t be a nightmare!"
+        },
+        {
+          "image": "assets/images/blog/recent-blog/pic3.jpg",
+          "date": "30",
+          "month": "Apr",
+          "comments": "09",
+          "title": "Helping you and your house become better acquainted."
+        }
+      ],
+      "clients": [
+        {
+          "image": "assets/images/client-logo/w1.png"
+        },
+        {
+          "image": "assets/images/client-logo/w2.png"
+        },
+        {
+          "image": "assets/images/client-logo/w3.png"
+        }
+      ],
+      "gallery": [
+        {
+          "thumb": "assets/images/gallery/thumb/pic1.jpg",
+          "image": "assets/images/gallery/pic1.jpg"
+        },
+        {
+          "thumb": "assets/images/gallery/thumb/pic2.jpg",
+          "image": "assets/images/gallery/pic2.jpg"
+        },
+        {
+          "thumb": "assets/images/gallery/thumb/pic3.jpg",
+          "image": "assets/images/gallery/pic3.jpg"
+        },
+        {
+          "thumb": "assets/images/gallery/thumb/pic4.jpg",
+          "image": "assets/images/gallery/pic4.jpg"
+        },
+        {
+          "thumb": "assets/images/gallery/thumb/pic5.jpg",
+          "image": "assets/images/gallery/pic5.jpg"
+        },
+        {
+          "thumb": "assets/images/gallery/thumb/pic6.jpg",
+          "image": "assets/images/gallery/pic6.jpg"
+        },
+        {
+          "thumb": "assets/images/gallery/thumb/pic7.jpg",
+          "image": "assets/images/gallery/pic7.jpg"
+        },
+        {
+          "thumb": "assets/images/gallery/thumb/pic8.jpg",
+          "image": "assets/images/gallery/pic8.jpg"
+        }
+      ],
+      "tags": "A new happy time,Hello!,Big deal,Food,Doing,Person,Inventors Tag,Between,Abilities,Fault,Gets,Macho"
+    }
+  },
+  "blogMasonry": {
+    "blogs": [
+      {
+        "image": "assets/images/blog/blog-grid/pic4.jpg",
+        "date": "16",
+        "month": "May",
+        "year": "2025",
+        "author": "Admin",
+        "comments": "2",
+        "title": "Building it better in concrete.",
+        "description": "Our goal then and now is to provide quality on time projects. we let our quality work and commitment to customer satisfaction be our slogan."
+      },
+      {
+        "image": "assets/images/blog/default/thum1.jpg",
+        "date": "25",
+        "month": "Apr",
+        "year": "2025",
+        "author": "Admin",
+        "comments": "2",
+        "title": "Design is where science and art break.",
+        "description": "Our goal then and now is to provide quality on time projects. we let our quality work and commitment to customer satisfaction be our slogan."
+      },
+      {
+        "image": "assets/images/blog/blog-grid/pic5.jpg",
+        "date": "18",
+        "month": "Jun",
+        "year": "2025",
+        "author": "Admin",
+        "comments": "2",
+        "title": "Architecture is the art of how to waste.",
+        "description": "Our goal then and now is to provide quality on time projects. we let our quality work and commitment to customer satisfaction be our slogan."
+      },
+      {
+        "image": "assets/images/blog/blog-grid/pic7.jpg",
+        "date": "22",
+        "month": "Jun",
+        "year": "2025",
+        "author": "Admin",
+        "comments": "2",
+        "title": "A designer is a planner with an aesthetic sense.",
+        "description": "Our goal then and now is to provide quality on time projects. we let our quality work and commitment to customer satisfaction be our slogan."
+      },
+      {
+        "image": "assets/images/blog/blog-grid/pic6.jpg",
+        "date": "05",
+        "month": "Jul",
+        "year": "2025",
+        "author": "Admin",
+        "comments": "2",
+        "title": "Being a famous designer is like being a famous dentist.",
+        "description": "Our goal then and now is to provide quality on time projects. we let our quality work and commitment to customer satisfaction be our slogan."
+      },
+      {
+        "image": "assets/images/blog/default/thum2.jpg",
+        "date": "14",
+        "month": "Jun",
+        "year": "2025",
+        "author": "Admin",
+        "comments": "2",
+        "title": "Being a famous designer is like being a famous dentist.",
+        "description": "Our goal then and now is to provide quality on time projects. we let our quality work and commitment to customer satisfaction be our slogan."
+      },
+      {
+        "image": "assets/images/blog/blog-grid/pic8.jpg",
+        "date": "25",
+        "month": "Jul",
+        "year": "2025",
+        "author": "Admin",
+        "comments": "2",
+        "title": "Being a famous designer is like being a famous dentist.",
+        "description": "Our goal then and now is to provide quality on time projects. we let our quality work and commitment to customer satisfaction be our slogan."
+      },
+      {
+        "image": "assets/images/blog/default/thum4.jpg",
+        "date": "19",
+        "month": "Aug",
+        "year": "2025",
+        "author": "Admin",
+        "comments": "2",
+        "title": "Architecture is the art of how to waste.",
+        "description": "Our goal then and now is to provide quality on time projects. we let our quality work and commitment to customer satisfaction be our slogan."
+      },
+      {
+        "image": "assets/images/blog/default/thum3.jpg",
+        "date": "30",
+        "month": "Aug",
+        "year": "2025",
+        "author": "Admin",
+        "comments": "2",
+        "title": "Architecture is the art of how to waste.",
+        "description": "Our goal then and now is to provide quality on time projects. we let our quality work and commitment to customer satisfaction be our slogan."
+      }
+    ]
+  },
+  "blogDetailImage": {
+    "postContent": {
+      "image": "assets/images/blog/default/thum1.jpg",
+      "date": "20",
+      "month": "June",
+      "year": "2025",
+      "author": "Admin",
+      "type": "Traditional",
+      "title": "From complete turn key to project manager.",
+      "description": "<p>Duis vestibulum quis quam vel accumsan. Nunc a vulputate lectus. Vestibulum eleifend nisl sed massage sagittis vestibulum. Vestibulum pretium blandit tellus, sodales volutpat sapien varius vel. Phasellus tristique cursus erat, a placerat tellus laoreet eget. Fusce vitae dui sit amet lacus rutrum convallis.</p> <h4> 'When it comes to your house, don’t mess with the rest, trust the best. '</h4> <p> Proin tincidunt tellus ac porta volutpat. Cras mattis congue lacus id bibendum. Mauris ut sodales libero. Maecenas feugiat sit amet enim in accumsan. Here, then, is what I wanted to tell you of my architecture. I created it with courage and idealism, but also with an awareness of the fact that what is important is life, friends, and attempting to make this unjust world a better place in which to live.</p> <blockquote class= 'bg-dark text-white author-quote '> <h4 class= 'm-b0 '>We let our quality work and commitment to customer satisfaction be our slogan. quality you     deserve and dependability you can count on.<i class= 'fa fa-quote-right '></i> </h4> <div class= 'p-t15  text-white '>     <strong class= 'text-primary '>Jessica Mcdade</strong>     <span>Contractor</span> </div> </blockquote> <p>Duis vestibulum quis quam vel accumsan. Nunc a vulputate lectus. Vestibulum eleifend nisl sed massage sagittis vestibulum. Vestibulum pretium blandit tellus, sodales volutpat sapien varius vel. Phasellus tristique cursus erat, a placerat tellus laoreet eget. Fusce vitae dui sit amet lacus rutrum convallis.</p> <div class= 'row '> <div class= 'col-md-4 col-sm-4 '>     <div class= 'mt-box m-b30 '>         <div class= 'mt-media '>             <img src= 'assets/images/blog/large-blog.jpg ' alt= ' '>         </div>     </div> </div> <div class= 'col-md-4 col-sm-4 '>     <div class= 'mt-box m-b30 '>         <div class= 'mt-media '>             <img src= 'assets/images/blog/large-blog2.jpg ' alt= ' '>         </div>     </div> </div> <div class= 'col-md-4 col-sm-4 '>     <div class= 'mt-box m-b30 '>         <div class= 'mt-media '>             <img src= 'assets/images/blog/large-blog3.jpg ' alt= ' '>         </div>     </div> </div> </div> <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged. It was popularised in the with the . Proin tincidunt tellus ac porta volutpat.</p>",
+      "tags": "First Tag,Second Tag,Three Tag,Four Tag,Five Tag",
+      "blogs": [
+        {
+          "background": "bg-gray",
+          "image": "assets/images/blog/latest-blog/pic1.jpg",
+          "date": "14",
+          "month": "April",
+          "year": "2025",
+          "author": "admin",
+          "comments": "2",
+          "title": "Commercial design for project",
+          "subtitle": "Which is the same as saying through shrinking from toil and pain."
+        },
+        {
+          "background": "bg-gray",
+          "image": "assets/images/blog/latest-blog/pic2.jpg",
+          "date": "16",
+          "month": "April",
+          "year": "2025",
+          "author": "admin",
+          "comments": "2",
+          "title": "Our interior design prediction",
+          "subtitle": "Today we can tell you, thanks to your passion, hard work creativity."
+        }
+      ],
+      "comments": {
+        "count": "4",
+        "content": [
+          {
+            "image": "assets/images/testimonials/pic1.jpg",
+            "date": "20 May 2025 at 8:15 am",
+            "name": "Federico",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised.",
+            "reply": []
+          },
+          {
+            "image": "assets/images/testimonials/pic4.jpg",
+            "date": "20 May 2025 at 8:15 am",
+            "name": "Schiocchet",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised.",
+            "reply": [
+              {
+                "image": "assets/images/testimonials/pic3.jpg",
+                "date": "20 May 2025 at 8:15 am",
+                "name": "Brayden",
+                "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
+                "reply": [
+                  {
+                    "image": "assets/images/testimonials/pic2.jpg",
+                    "date": "20 May 2025 at 8:15 am",
+                    "name": "Diego",
+                    "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.",
+                    "reply": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "blogDetailGallery": {
+    "postContent": {
+      "slides": [
+        {
+          "image": "assets/images/blog/default/thum1.jpg"
+        },
+        {
+          "image": "assets/images/blog/default/thum2.jpg"
+        },
+        {
+          "image": "assets/images/blog/default/thum3.jpg"
+        }
+      ],
+      "date": "20",
+      "month": "June",
+      "year": "2025",
+      "author": "Admin",
+      "type": "Traditional",
+      "title": "From complete turn key to project manager.",
+      "description": "<p>Duis vestibulum quis quam vel accumsan. Nunc a vulputate lectus. Vestibulum eleifend nisl sed massage sagittis vestibulum. Vestibulum pretium blandit tellus, sodales volutpat sapien varius vel. Phasellus tristique cursus erat, a placerat tellus laoreet eget. Fusce vitae dui sit amet lacus rutrum convallis.</p> <h4> 'When it comes to your house, don’t mess with the rest, trust the best. '</h4> <p> Proin tincidunt tellus ac porta volutpat. Cras mattis congue lacus id bibendum. Mauris ut sodales libero. Maecenas feugiat sit amet enim in accumsan. Here, then, is what I wanted to tell you of my architecture. I created it with courage and idealism, but also with an awareness of the fact that what is important is life, friends, and attempting to make this unjust world a better place in which to live.</p> <blockquote class= 'bg-dark text-white author-quote '> <h4 class= 'm-b0 '>We let our quality work and commitment to customer satisfaction be our slogan. quality you     deserve and dependability you can count on.<i class= 'fa fa-quote-right '></i> </h4> <div class= 'p-t15  text-white '>     <strong class= 'text-primary '>Jessica Mcdade</strong>     <span>Contractor</span> </div> </blockquote> <p>Duis vestibulum quis quam vel accumsan. Nunc a vulputate lectus. Vestibulum eleifend nisl sed massage sagittis vestibulum. Vestibulum pretium blandit tellus, sodales volutpat sapien varius vel. Phasellus tristique cursus erat, a placerat tellus laoreet eget. Fusce vitae dui sit amet lacus rutrum convallis.</p> <div class= 'row '> <div class= 'col-md-4 col-sm-4 '>     <div class= 'mt-box m-b30 '>         <div class= 'mt-media '>             <img src= 'assets/images/blog/large-blog.jpg ' alt= ' '>         </div>     </div> </div> <div class= 'col-md-4 col-sm-4 '>     <div class= 'mt-box m-b30 '>         <div class= 'mt-media '>             <img src= 'assets/images/blog/large-blog2.jpg ' alt= ' '>         </div>     </div> </div> <div class= 'col-md-4 col-sm-4 '>     <div class= 'mt-box m-b30 '>         <div class= 'mt-media '>             <img src= 'assets/images/blog/large-blog3.jpg ' alt= ' '>         </div>     </div> </div> </div> <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged. It was popularised in the with the . Proin tincidunt tellus ac porta volutpat.</p>",
+      "tags": "First Tag,Second Tag,Three Tag,Four Tag,Five Tag",
+      "blogs": [
+        {
+          "background": "bg-gray",
+          "image": "assets/images/blog/latest-blog/pic1.jpg",
+          "date": "14",
+          "month": "April",
+          "year": "2025",
+          "author": "admin",
+          "comments": "2",
+          "title": "Commercial design for project",
+          "subtitle": "Which is the same as saying through shrinking from toil and pain."
+        },
+        {
+          "background": "bg-gray",
+          "image": "assets/images/blog/latest-blog/pic2.jpg",
+          "date": "16",
+          "month": "April",
+          "year": "2025",
+          "author": "admin",
+          "comments": "2",
+          "title": "Our interior design prediction",
+          "subtitle": "Today we can tell you, thanks to your passion, hard work creativity."
+        }
+      ],
+      "comments": {
+        "count": "4",
+        "content": [
+          {
+            "image": "assets/images/testimonials/pic1.jpg",
+            "date": "20 May 2025 at 8:15 am",
+            "name": "Federico",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised.",
+            "reply": []
+          },
+          {
+            "image": "assets/images/testimonials/pic4.jpg",
+            "date": "20 May 2025 at 8:15 am",
+            "name": "Schiocchet",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised.",
+            "reply": [
+              {
+                "image": "assets/images/testimonials/pic3.jpg",
+                "date": "20 May 2025 at 8:15 am",
+                "name": "Brayden",
+                "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
+                "reply": [
+                  {
+                    "image": "assets/images/testimonials/pic2.jpg",
+                    "date": "20 May 2025 at 8:15 am",
+                    "name": "Diego",
+                    "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected.",
+                    "reply": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "blogDetailVideo": {
+    "postContent": {
+      "videos": [
+        {
+          "link": "https://www.youtube.com/embed/7n6cpvIFdfY"
+        },
+        {
+          "link": "https://player.vimeo.com/video/2215313"
+        }
+      ],
+      "date": "20",
+      "month": "June",
+      "year": "2025",
+      "author": "Admin",
+      "type": "Traditional",
+      "title": "From complete turn key to project manager.",
+      "description": "<p>Duis vestibulum quis quam vel accumsan. Nunc a vulputate lectus. Vestibulum eleifend nisl sed massage sagittis vestibulum. Vestibulum pretium blandit tellus, sodales volutpat sapien varius vel. Phasellus tristique cursus erat, a placerat tellus laoreet eget. Fusce vitae dui sit amet lacus rutrum convallis.</p> <h4> 'When it comes to your house, don’t mess with the rest, trust the best. '</h4> <p> Proin tincidunt tellus ac porta volutpat. Cras mattis congue lacus id bibendum. Mauris ut sodales libero. Maecenas feugiat sit amet enim in accumsan. Here, then, is what I wanted to tell you of my architecture. I created it with courage and idealism, but also with an awareness of the fact that what is important is life, friends, and attempting to make this unjust world a better place in which to live.</p> <blockquote class= 'bg-dark text-white author-quote '> <h4 class= 'm-b0 '>We let our quality work and commitment to customer satisfaction be our slogan. quality you     deserve and dependability you can count on.<i class= 'fa fa-quote-right '></i> </h4> <div class= 'p-t15  text-white '>     <strong class= 'text-primary '>Jessica Mcdade</strong>     <span>Contractor</span> </div> </blockquote> <p>Duis vestibulum quis quam vel accumsan. Nunc a vulputate lectus. Vestibulum eleifend nisl sed massage sagittis vestibulum. Vestibulum pretium blandit tellus, sodales volutpat sapien varius vel. Phasellus tristique cursus erat, a placerat tellus laoreet eget. Fusce vitae dui sit amet lacus rutrum convallis.</p> <div class= 'row '> <div class= 'col-md-4 col-sm-4 '>     <div class= 'mt-box m-b30 '>         <div class= 'mt-media '>             <img src= 'assets/images/blog/large-blog.jpg ' alt= ' '>         </div>     </div> </div> <div class= 'col-md-4 col-sm-4 '>     <div class= 'mt-box m-b30 '>         <div class= 'mt-media '>             <img src= 'assets/images/blog/large-blog2.jpg ' alt= ' '>         </div>     </div> </div> <div class= 'col-md-4 col-sm-4 '>     <div class= 'mt-box m-b30 '>         <div class= 'mt-media '>             <img src= 'assets/images/blog/large-blog3.jpg ' alt= ' '>         </div>     </div> </div> </div> <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged. It was popularised in the with the . Proin tincidunt tellus ac porta volutpat.</p>",
+      "tags": "First Tag,Second Tag,Three Tag,Four Tag,Five Tag",
+      "blogs": [
+        {
+          "background": "bg-gray",
+          "image": "assets/images/blog/latest-blog/pic1.jpg",
+          "date": "14",
+          "month": "April",
+          "year": "2025",
+          "author": "admin",
+          "comments": "2",
+          "title": "Commercial design for project",
+          "subtitle": "Which is the same as saying through shrinking from toil and pain."
+        },
+        {
+          "background": "bg-gray",
+          "image": "assets/images/blog/latest-blog/pic2.jpg",
+          "date": "16",
+          "month": "April",
+          "year": "2025",
+          "author": "admin",
+          "comments": "2",
+          "title": "Our interior design prediction",
+          "subtitle": "Today we can tell you, thanks to your passion, hard work creativity."
+        }
+      ],
+      "comments": {
+        "count": "4",
+        "content": [
+          {
+            "image": "assets/images/testimonials/pic1.jpg",
+            "date": "20 May 2025 at 8:15 am",
+            "name": "Federico",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised.",
+            "reply": []
+          },
+          {
+            "image": "assets/images/testimonials/pic4.jpg",
+            "date": "20 May 2025 at 8:15 am",
+            "name": "Schiocchet",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised.",
+            "reply": [
+              {
+                "image": "assets/images/testimonials/pic3.jpg",
+                "date": "20 May 2025 at 8:15 am",
+                "name": "Brayden",
+                "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
+                "reply": [
+                  {
+                    "image": "assets/images/testimonials/pic2.jpg",
+                    "date": "20 May 2025 at 8:15 am",
+                    "name": "Diego",
+                    "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form.",
+                    "reply": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "blogDetailSidebar": {
+    "postContent": {
+      "image": "assets/images/blog/default/thum1.jpg",
+      "date": "20",
+      "month": "June",
+      "year": "2025",
+      "author": "Admin",
+      "type": "Traditional",
+      "title": "From complete turn key to project manager.",
+      "description": "<p>Duis vestibulum quis quam vel accumsan. Nunc a vulputate lectus. Vestibulum eleifend nisl sed massage sagittis vestibulum. Vestibulum pretium blandit tellus, sodales volutpat sapien varius vel. Phasellus tristique cursus erat, a placerat tellus laoreet eget. Fusce vitae dui sit amet lacus rutrum convallis.</p> <h4> 'When it comes to your house, don’t mess with the rest, trust the best. '</h4> <p> Proin tincidunt tellus ac porta volutpat. Cras mattis congue lacus id bibendum. Mauris ut sodales libero. Maecenas feugiat sit amet enim in accumsan. Here, then, is what I wanted to tell you of my architecture. I created it with courage and idealism, but also with an awareness of the fact that what is important is life, friends, and attempting to make this unjust world a better place in which to live.</p> <blockquote class= 'bg-dark text-white author-quote '> <h4 class= 'm-b0 '>We let our quality work and commitment to customer satisfaction be our slogan. quality you     deserve and dependability you can count on.<i class= 'fa fa-quote-right '></i> </h4> <div class= 'p-t15  text-white '>     <strong class= 'text-primary '>Jessica Mcdade</strong>     <span>Contractor</span> </div> </blockquote> <p>Duis vestibulum quis quam vel accumsan. Nunc a vulputate lectus. Vestibulum eleifend nisl sed massage sagittis vestibulum. Vestibulum pretium blandit tellus, sodales volutpat sapien varius vel. Phasellus tristique cursus erat, a placerat tellus laoreet eget. Fusce vitae dui sit amet lacus rutrum convallis.</p> <div class= 'row '> <div class= 'col-md-4 col-sm-4 '>     <div class= 'mt-box m-b30 '>         <div class= 'mt-media '>             <img src= 'assets/images/blog/large-blog.jpg ' alt= ' '>         </div>     </div> </div> <div class= 'col-md-4 col-sm-4 '>     <div class= 'mt-box m-b30 '>         <div class= 'mt-media '>             <img src= 'assets/images/blog/large-blog2.jpg ' alt= ' '>         </div>     </div> </div> <div class= 'col-md-4 col-sm-4 '>     <div class= 'mt-box m-b30 '>         <div class= 'mt-media '>             <img src= 'assets/images/blog/large-blog3.jpg ' alt= ' '>         </div>     </div> </div> </div> <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. remaining essentially unchanged. It was popularised in the with the . Proin tincidunt tellus ac porta volutpat.</p>",
+      "tags": "First Tag,Second Tag,Three Tag,Four Tag,Five Tag",
+      "blogs": [
+        {
+          "background": "bg-gray",
+          "image": "assets/images/blog/latest-blog/pic1.jpg",
+          "date": "14",
+          "month": "April",
+          "year": "2025",
+          "author": "admin",
+          "comments": "2",
+          "title": "Commercial design for project",
+          "subtitle": "Which is the same as saying through shrinking from toil and pain."
+        },
+        {
+          "background": "bg-gray",
+          "image": "assets/images/blog/latest-blog/pic2.jpg",
+          "date": "16",
+          "month": "April",
+          "year": "2025",
+          "author": "admin",
+          "comments": "2",
+          "title": "Our interior design prediction",
+          "subtitle": "Today we can tell you, thanks to your passion, hard work creativity."
+        }
+      ],
+      "comments": {
+        "count": "4",
+        "content": [
+          {
+            "image": "assets/images/testimonials/pic1.jpg",
+            "date": "20 May 2025 at 8:15 am",
+            "name": "Federico",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised.",
+            "reply": []
+          },
+          {
+            "image": "assets/images/testimonials/pic4.jpg",
+            "date": "20 May 2025 at 8:15 am",
+            "name": "Schiocchet",
+            "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
+            "reply": [
+              {
+                "image": "assets/images/testimonials/pic3.jpg",
+                "date": "20 May 2025 at 8:15 am",
+                "name": "Brayden",
+                "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour.",
+                "reply": [
+                  {
+                    "image": "assets/images/testimonials/pic2.jpg",
+                    "date": "20 May 2025 at 8:15 am",
+                    "name": "Diego",
+                    "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.",
+                    "reply": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    "asideData": {
+      "recent": [
+        {
+          "image": "assets/images/blog/recent-blog/pic1.jpg",
+          "date": "25",
+          "month": "Apr",
+          "comments": "20",
+          "title": "Don’t get framed by the competition, trust our solid reputation."
+        },
+        {
+          "image": "assets/images/blog/recent-blog/pic2.jpg",
+          "date": "28",
+          "month": "Apr",
+          "comments": "05",
+          "title": "building your dream house shouldn’t be a nightmare!"
+        },
+        {
+          "image": "assets/images/blog/recent-blog/pic3.jpg",
+          "date": "30",
+          "month": "Apr",
+          "comments": "09",
+          "title": "Helping you and your house become better acquainted."
+        }
+      ],
+      "clients": [
+        {
+          "image": "assets/images/client-logo/w1.png"
+        },
+        {
+          "image": "assets/images/client-logo/w2.png"
+        },
+        {
+          "image": "assets/images/client-logo/w3.png"
+        }
+      ],
+      "gallery": [
+        {
+          "thumb": "assets/images/gallery/thumb/pic1.jpg",
+          "image": "assets/images/gallery/pic1.jpg"
+        },
+        {
+          "thumb": "assets/images/gallery/thumb/pic2.jpg",
+          "image": "assets/images/gallery/pic2.jpg"
+        },
+        {
+          "thumb": "assets/images/gallery/thumb/pic3.jpg",
+          "image": "assets/images/gallery/pic3.jpg"
+        },
+        {
+          "thumb": "assets/images/gallery/thumb/pic4.jpg",
+          "image": "assets/images/gallery/pic4.jpg"
+        },
+        {
+          "thumb": "assets/images/gallery/thumb/pic5.jpg",
+          "image": "assets/images/gallery/pic5.jpg"
+        },
+        {
+          "thumb": "assets/images/gallery/thumb/pic6.jpg",
+          "image": "assets/images/gallery/pic6.jpg"
+        },
+        {
+          "thumb": "assets/images/gallery/thumb/pic7.jpg",
+          "image": "assets/images/gallery/pic7.jpg"
+        },
+        {
+          "thumb": "assets/images/gallery/thumb/pic8.jpg",
+          "image": "assets/images/gallery/pic8.jpg"
+        }
+      ],
+      "tags": "A new happy time,Hello!,Big deal,Food,Doing,Person,Inventors Tag,Between,Abilities,Fault,Gets,Macho"
+    }
+  },
+  "projectGrid": {
+    "projects": [
+      {
+        "category": "cat-1",
+        "image": "assets/images/projects/portrait/pic1.jpg",
+        "linkImage": "assets/images/projects/portrait/pic4.jpg",
+        "title": "Life style building",
+        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/projects/portrait/pic2.jpg",
+        "linkImage": "assets/images/projects/portrait/pic9.jpg",
+        "title": "Central City Building",
+        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
+      },
+      {
+        "category": "cat-3",
+        "image": "assets/images/projects/portrait/pic3.jpg",
+        "linkImage": "assets/images/projects/portrait/pic6.jpg",
+        "title": "Nathan Brooke House",
+        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
+      },
+      {
+        "category": "cat-4",
+        "image": "assets/images/projects/portrait/pic4.jpg",
+        "linkImage": "assets/images/projects/portrait/pic5.jpg",
+        "title": "Metropolitan Museum",
+        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
+      },
+      {
+        "category": "cat-5",
+        "image": "assets/images/projects/portrait/pic5.jpg",
+        "linkImage": "assets/images/projects/portrait/pic7.jpg",
+        "title": "Art Family Residence",
+        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
+      },
+      {
+        "category": "cat-4",
+        "image": "assets/images/projects/portrait/pic6.jpg",
+        "linkImage": "assets/images/projects/portrait/pic8.jpg",
+        "title": "Office Partition Walls",
+        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
+      },
+      {
+        "category": "cat-3",
+        "image": "assets/images/projects/portrait/pic7.jpg",
+        "linkImage": "assets/images/projects/portrait/pic11.jpg",
+        "title": "Glass Office Screen",
+        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/projects/portrait/pic8.jpg",
+        "linkImage": "assets/images/projects/portrait/pic12.jpg",
+        "title": "State Hermitage Museum",
+        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
+      },
+      {
+        "category": "cat-1",
+        "image": "assets/images/projects/portrait/pic9.jpg",
+        "linkImage": "assets/images/projects/portrait/pic11.jpg",
+        "title": "Central Florida University",
+        "description": "We are so busy watching out for what's just ahead of us that we don't take the time to enjoy where we are."
+      }
+    ]
+  },
+  "projectMasonry": {
+    "projects": [
+      {
+        "category": "cat-1",
+        "image": "assets/images/projects/portrait/pic4.jpg",
+        "title": "Life style building",
+        "subtitle": "Engineering your dreams with us."
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/projects/pic-1.jpg",
+        "title": "Central City Building",
+        "subtitle": "Engineering your dreams with us."
+      },
+      {
+        "category": "cat-3",
+        "image": "assets/images/projects/portrait/pic7.jpg",
+        "title": "Nathan Brooke House",
+        "subtitle": "Engineering your dreams with us."
+      },
+      {
+        "category": "cat-4",
+        "image": "assets/images/projects/square/pic9.jpg",
+        "title": "Metropolitan Museum.",
+        "subtitle": "Engineering your dreams with us."
+      },
+      {
+        "category": "cat-5",
+        "image": "assets/images/projects/portrait/pic6.jpg",
+        "title": "Art Family Residence",
+        "subtitle": "Engineering your dreams with us."
+      },
+      {
+        "category": "cat-4",
+        "image": "assets/images/projects/square/pic3.jpg",
+        "title": "Office Partition Walls",
+        "subtitle": "Engineering your dreams with us."
+      },
+      {
+        "category": "cat-3",
+        "image": "assets/images/projects/portrait/pic5.jpg",
+        "title": "Glass Office Screen",
+        "subtitle": "Engineering your dreams with us."
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "State Hermitage Museum",
+        "subtitle": "Engineering your dreams with us."
+      },
+      {
+        "category": "cat-1",
+        "image": "assets/images/projects/portrait/pic9.jpg",
+        "title": "Central Florida University",
+        "subtitle": "Engineering your dreams with us."
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/projects/square/pic5.jpg",
+        "title": "Nathan Brooke House",
+        "subtitle": "Engineering your dreams with us."
+      },
+      {
+        "category": "cat-3",
+        "image": "assets/images/projects/square/pic8.jpg",
+        "title": "Life style building",
+        "subtitle": "Engineering your dreams with us."
+      }
+    ]
+  },
+  "projectCarousel": {
+    "projects": [
+      {
+        "image": "assets/images/projects/square/pic4.jpg",
+        "title": "Delivering architecture, planning.",
+        "description": "Morbi mattis ex non urna condim entum, eget eleifend diam molestie. Curabitur lorem enim"
+      },
+      {
+        "image": "assets/images/projects/square/pic7.jpg",
+        "title": "Capitalizing on the unique qualities.",
+        "description": "Morbi mattis ex non urna condim entum, eget eleifend diam molestie. Curabitur lorem enim"
+      },
+      {
+        "image": "assets/images/projects/square/pic5.jpg",
+        "title": "Delivering architecture, planning.",
+        "description": "Morbi mattis ex non urna condim entum, eget eleifend diam molestie. Curabitur lorem enim"
+      },
+      {
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "Improving quality of an integrated.",
+        "description": "Morbi mattis ex non urna condim entum, eget eleifend diam molestie. Curabitur lorem enim"
+      },
+      {
+        "image": "assets/images/projects/square/pic3.jpg",
+        "title": "Unique solutions for your home.",
+        "description": "Morbi mattis ex non urna condim entum, eget eleifend diam molestie. Curabitur lorem enim"
+      }
+    ]
+  },
+  "projectClassic1": {
+    "projects": [
+      {
+        "category": "cat-1",
+        "image": "assets/images/projects/square/pic4.jpg",
+        "title": "Stronger communities",
+        "description": "This is ipsum dolor sitamet, consectetur adipisi cing elito, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.."
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/projects/square/pic3.jpg",
+        "title": "Concept to creation",
+        "description": "This is ipsum dolor sitamet, consectetur adipisi cing elito, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.."
+      },
+      {
+        "category": "cat-3",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "Safety for life",
+        "description": "This is ipsum dolor sitamet, consectetur adipisi cing elito, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.."
+      },
+      {
+        "category": "cat-4",
+        "image": "assets/images/projects/square/pic5.jpg",
+        "title": "Whatever it takes",
+        "description": "This is ipsum dolor sitamet, consectetur adipisi cing elito, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.."
+      },
+      {
+        "category": "cat-5",
+        "image": "assets/images/projects/square/pic7.jpg",
+        "title": "We build tomorrow",
+        "description": "This is ipsum dolor sitamet, consectetur adipisi cing elito, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.."
+      },
+      {
+        "category": "cat-4",
+        "image": "assets/images/projects/square/pic8.jpg",
+        "title": "The key to our success",
+        "description": "This is ipsum dolor sitamet, consectetur adipisi cing elito, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.."
+      },
+      {
+        "category": "cat-3",
+        "image": "assets/images/projects/square/pic2.jpg",
+        "title": "Rising above",
+        "description": "This is ipsum dolor sitamet, consectetur adipisi cing elito, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.."
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/projects/square/pic9.jpg",
+        "title": "From concept to creation",
+        "description": "This is ipsum dolor sitamet, consectetur adipisi cing elito, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.."
+      }
+    ]
+  },
+  "projectClassic2": {
+    "projects": [
+      {
+        "category": "cat-1",
+        "image": "assets/images/gallery/portrait/pic1.jpg",
+        "title": "Stronger communities",
+        "description": "Lorem ipsum dolor sitamet, consectetur adipisicing elito, sed do eiusmod."
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/projects/square/pic4.jpg",
+        "title": "To-Do Dashboard",
+        "description": "Lorem ipsum dolor sitamet, consectetur adipisicing elito, sed do eiusmod."
+      },
+      {
+        "category": "cat-3",
+        "image": "assets/images/gallery/portrait/pic2.jpg",
+        "title": "WhereTO App",
+        "description": "Lorem ipsum dolor sitamet, consectetur adipisicing elito, sed do eiusmod."
+      },
+      {
+        "category": "cat-4",
+        "image": "assets/images/projects/square/pic5.jpg",
+        "title": "Rooms & Halls",
+        "description": "Lorem ipsum dolor sitamet, consectetur adipisicing elito, sed do eiusmod."
+      },
+      {
+        "category": "cat-5",
+        "image": "assets/images/gallery/portrait/pic3.jpg",
+        "title": "Events and More",
+        "description": "Lorem ipsum dolor sitamet, consectetur adipisicing elito, sed do eiusmod."
+      },
+      {
+        "category": "cat-4",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "Remind~Me More",
+        "description": "Lorem ipsum dolor sitamet, consectetur adipisicing elito, sed do eiusmod."
+      },
+      {
+        "category": "cat-3",
+        "image": "assets/images/gallery/portrait/pic4.jpg",
+        "title": "Workout Buddy",
+        "description": "Lorem ipsum dolor sitamet, consectetur adipisicing elito, sed do eiusmod."
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/projects/square/pic7.jpg",
+        "title": "Speed Detector",
+        "description": "Lorem ipsum dolor sitamet, consectetur adipisicing elito, sed do eiusmod."
+      },
+      {
+        "category": "cat-1",
+        "image": "assets/images/gallery/portrait/pic5.jpg",
+        "title": "Generic Apps",
+        "description": "Lorem ipsum dolor sitamet, consectetur adipisicing elito, sed do eiusmod."
+      },
+      {
+        "category": "cat-2",
+        "image": "assets/images/projects/square/pic8.jpg",
+        "title": "Generic Apps",
+        "description": "Lorem ipsum dolor sitamet, consectetur adipisicing elito, sed do eiusmod."
+      },
+      {
+        "category": "cat-3",
+        "image": "assets/images/projects/square/pic9.jpg",
+        "title": "Speed Detector",
+        "description": "Lorem ipsum dolor sitamet, consectetur adipisicing elito, sed do eiusmod."
+      }
+    ]
+  },
+  "projectDetail": {
+    "projectDetail": {
+      "images": [
+        {
+          "image": "assets/images/projects/portrait/pic7.jpg"
+        },
+        {
+          "image": "assets/images/projects/portrait/pic4.jpg"
+        },
+        {
+          "image": "assets/images/projects/portrait/pic5.jpg"
+        }
+      ],
+      "date": "July 10, 2025",
+      "client": "Studio Massimo, Italy",
+      "type": "Contruction, Brading",
+      "location": "Mountain View CA 94043",
+      "year": "2025",
+      "video": {
+        "thumb": "http://i3.ytimg.com/vi/s3A7AK1K2hc/maxresdefault.jpg",
+        "link": "https://www.youtube.com/watch?v=s3A7AK1K2hc"
+      },
+      "title": "Creating a sustainable future through building preservation.",
+      "description": "Designers think everything done by someone else is awful, and that they could do it better themselves, which explains why I designed my own living room carpet, I have suppose. the architect represents neither a Dionysian nor an Apollinian condition as here it is the mighty act of will, the will which moves mountains, the intoxication of the strong will, which demands artistic are expression."
+    },
+    "similarProjects": [
+      {
+        "image": "assets/images/projects/square/pic4.jpg",
+        "title": "Delivering architecture.",
+        "description": "Morbi mattis ex non urna condim entum, eget eleifend diam molestie. Curabitur lorem enim"
+      },
+      {
+        "image": "assets/images/projects/square/pic7.jpg",
+        "title": "Capitalizing on the unique qualities.",
+        "description": "Morbi mattis ex non urna condim entum, eget eleifend diam molestie. Curabitur lorem enim"
+      },
+      {
+        "image": "assets/images/projects/square/pic5.jpg",
+        "title": "Delivering architecture, planning.",
+        "description": "Morbi mattis ex non urna condim entum, eget eleifend diam molestie. Curabitur lorem enim"
+      },
+      {
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "Improving quality of life integrated.",
+        "description": "Morbi mattis ex non urna condim entum, eget eleifend diam molestie. Curabitur lorem enim"
+      },
+      {
+        "image": "assets/images/projects/square/pic3.jpg",
+        "title": "Unique solutions for your home.",
+        "description": "Morbi mattis ex non urna condim entum, eget eleifend diam molestie. Curabitur lorem enim"
+      }
+    ]
+  }
+}

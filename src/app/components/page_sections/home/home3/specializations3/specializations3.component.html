@@ -1,0 +1,18 @@
+<div class="section-full p-t80 p-b50 bg-dark mobile-page-padding our-product3-wrap" style="background-image:url(assets/images/background/bg-6.png);">
+    <div class="container">
+        <!-- IMAGE Carousal START -->
+        <div class="section-content">
+            <div class="section-head m-b50 text-white text-center">
+                <h3 class="m-t0">We are all constructed out of our self dialogue.</h3>
+                <p>Wisi enim ad minim veniam, quis nostrud exerci tation ullam corperadipiscing elit, sed diam nonummy.</p>
+            </div>
+            <div class="row">
+                @for(object of data; track $index) {
+                    <div class="col-md-4 col-sm-{{ $index == 2 ? 12 : 6}} m-b30">
+                        <app-grid-box1 [data]="object" />
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

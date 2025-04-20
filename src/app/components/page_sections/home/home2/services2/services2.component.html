@@ -1,0 +1,29 @@
+<div class="section-full p-t80 p-b80 bg-white mobile-page-padding"
+    style="background-image:url(assets/images/background/ptn-1.png)">
+    <div class="section-content">
+
+        <div class="container">
+            <!-- TITLE START -->
+            <div class="section-head left m-b50">
+                <div class="mt-separator-outer separator-left">
+                    <div class="mt-separator">
+                        <h2 class="text-uppercase sep-line-one "><span class="font-weight-300 text-primary">Our</span>
+                            Services</h2>
+                    </div>
+                </div>
+                <h3>There are many variations of passages of lorem Ipsum available, but the majority.</h3>
+            </div>
+            <!-- TITLE END -->
+
+            <div class="row services-v2">
+                @for(object of data; track $index) {
+                <div class="col-md-3 col-sm-6 col-xs-6 col-xs-100pc">
+                    <app-service-box2 [data]="object" />
+                </div>
+                }
+            </div>
+
+        </div>
+    </div>
+
+</div>

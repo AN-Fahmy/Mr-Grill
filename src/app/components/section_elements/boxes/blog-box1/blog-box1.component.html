@@ -1,0 +1,25 @@
+<div class="mt-box blog-post latest-blog-3 date-style-1 bg-white m-b30">
+    <div class="mt-post-media mt-img-overlay7">
+        <a href="javascript:void(0);"><img src="{{data.image}}" alt=""></a>
+    </div>
+    <div class="mt-post-info p-a30 {{data.background}}">
+        <div class="post-overlay-position">
+            <div class="mt-post-meta ">
+                <ul>
+                    <li class="post-date"><strong class="text-primary">{{data.date}}</strong> <span>{{data.month}} {{data.year}}</span></li>
+                    <li class="post-author">By <a routerLink="/blog/image-blog">{{data.author}}</a> </li>
+                    <li class="post-comment"><a routerLink="/blog/image-blog">{{data.comments}} comment</a> </li>
+                </ul>
+            </div>                                        
+            <div class="mt-post-title ">
+                <h4 class="post-title m-b0">{{data.title}}</h4>
+            </div>
+            <div class="mt-post-text">
+                <p>{{data.subtitle}}</p> 
+            </div>
+            <div class="readmore-line">
+                <span><a routerLink="/blog/grid" class="site-button-link" data-hover="Read More">Read More <i class="fa fa-angle-right arrow-animation"></i></a></span>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,27 @@
+<div class="section-full specialization-wrap1 p-t80 p-b50 bg-white bg-repeat square_shape2 inner-page-padding"  style="background-image:url(assets/images/background/ptn-1.png)">
+
+    <div class="container">
+
+        <!-- TITLE START -->
+        <div class="section-head">
+            <div class="mt-separator-outer separator-left">
+                <div class="mt-separator">
+                    <h2 class="text-uppercase sep-line-one "><span class="font-weight-300 text-primary">Our</span> Speciallization</h2>
+                </div>
+            </div>
+        </div>                   
+        <!-- TITLE END --> 
+
+        <!-- IMAGE Carousal START -->
+        <div class="section-content">
+                <div class="row">
+                    @for(object of data; track $index) {
+                        <div class="col-md-3 col-sm-6">
+                            <app-service-box1 [data]="object" />
+                        </div>
+                    }                                                   
+                </div>
+        </div>
+    </div>
+    
+ </div>

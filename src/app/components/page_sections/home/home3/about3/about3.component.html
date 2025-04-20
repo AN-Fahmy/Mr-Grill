@@ -1,0 +1,65 @@
+<div class="section-full p-t80 p-b80 bg-white inner-page-padding">
+    <div class="container">
+        <!-- TITLE START -->
+        @if(title =='1') {
+        <div class="section-head no-margin ">
+            <div class="mt-separator-outer separator-left">
+                <div class="mt-separator">
+                    <h2 class="text-uppercase sep-line-one "><span class="font-weight-300 text-primary">About</span>
+                        Company</h2>
+                </div>
+            </div>
+        </div>
+        }
+        <!-- TITLE END -->
+        <div class="section-content ">
+            <div class="row">
+                <div class="col-md-5 col-sm-12">
+                    <div class="m-about ">
+                        <div class="owl-carousal about-us-carousal">
+                            @for(object of data.slides; track $index) {
+                            <div class="item">
+                                <div class="ow-img">
+                                    <a routerLink="/page/about"><img src="{{object.image}}" alt=""></a>
+                                </div>
+                            </div>
+                            }
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-7 col-sm-12">
+                    <div class="m-about-containt text-black">
+                        <div class="m-about-years bg-moving"
+                            style="background-image:url(assets/images/background/line.png);">
+                            <span class="text-primary large-title">{{data.experience}}</span>
+                            <span class="large-title-info">Years of Experience</span>
+                        </div>
+                        <h3 class="font-weight-600">Improving quality of life with an integrated unified
+                            approach.</h3>
+                        <p>Dummy text is also used to demonstrate the appearance of different typefaces and
+                            layouts, and in general the content of dummy text is nonsensical. Due to its
+                            widespread use texts. Ut wisi enim ad minim veniam, quis nostrud exerci tation.</p>
+                        <div class="author-info p-t20">
+
+                            <div class="author-signature">
+                                <img src="{{data.sign}}" alt="Signature" width="150" />
+                            </div>
+
+                            <div class="author-name">
+                                <h4 class="m-t0">{{data.author}}</h4>
+                                <p>{{data.designation}}</p>
+                            </div>
+                            <a routerLink="/page/contact" class="site-button btn-effect m-b15"><span>Get in
+                                    touch</span></a>
+
+                        </div>
+
+
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

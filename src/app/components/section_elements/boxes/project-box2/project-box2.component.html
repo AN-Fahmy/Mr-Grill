@@ -1,0 +1,29 @@
+<div class="mt-box ">
+    <div class="mt-thum-bx  img-center-icon  mt-img-overlay2">
+        <img src="{{data.image}}" alt="">
+        <div class="overlay-bx">
+            <div class="overlay-icon">
+                <a routerLink="/project/detail">
+                    <i class="fa fa-external-link mt-icon-box-xs "></i>
+                </a>
+                <a class="mfp-link" href="{{data.image}}">
+                    <i class="fa fa-arrows-alt mt-icon-box-xs"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+@if(classic =='1') {
+<div class="mt-info p-t20">
+    <h4 class="mt-title m-b20 m-t0" attr.data-hover="{{data.title}}">{{data.title}}</h4>
+    <p>{{data.description}}</p>
+    <a routerLink="/project/detail" class="site-button-link" data-hover="Read More">Read More <i
+            class="fa fa-angle-right arrow-animation"></i></a>
+</div>
+}
+@else if (classic =='2') {
+<div class="mt-info bg-white p-a30">
+    <h4 class="mt-title  m-b10 m-t0" attr.data-hover="{{data.title}}">{{data.title}}</h4>
+    <p class="m-b0">{{data.description}}</p>
+</div>
+}

@@ -1,0 +1,82 @@
+<div class="section-full mobile-page-padding p-t80 p-b50 bg-white our-valu-wrap">
+    <div class="container">
+
+        <div class="section-content">
+            <div class="row">
+                <div class="col-md-4 col-sm-12">
+                    <!-- TITLE START -->
+                    <div class="section-head">
+                        <div class="mt-separator-outer separator-left">
+                            <div class="mt-separator">
+                                <h2 class="text-uppercase sep-line-one "><span
+                                        class="font-weight-300 text-primary">Our</span> Value</h2>
+                            </div>
+                            <p>It is a long established fact that a reader will be distracted by the readable content of
+                                a page when looking at its layout.</p>
+                        </div>
+                    </div>
+                    <!-- TITLE END -->
+                    <div class="author-info">
+
+                        <div class="author-signature">
+                            <img src="{{data.author.sign}}" alt="Signature" width="150">
+                        </div>
+                        <div class="author-name">
+                            <h4 class="m-t0">{{data.author.name}}</h4>
+                            <p>{{data.author.designation}}</p>
+                        </div>
+                    </div>
+                    <div class="video-section-full bg-no-repeat bg-cover overlay-wraper"
+                        style="background-image:url(assets/images/video-bg.jpg)">
+                        <div class="overlay-main bg-black opacity-07"></div>
+                        <div class="video-section-inner">
+                            <div class="video-section-content">
+                                <div class="video-section-left">
+                                    <a href="{{data.video}}" class="mfp-video play-now">
+                                        <i class="icon fa fa-play"></i>
+                                        <span class="ripple"></span>
+                                    </a>
+                                </div>
+                                <div class="video-section-right">
+                                    <a href="{{data.video}}" class="mfp-video font-weight-600 text-uppercase">Video
+                                        Presentation</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-md-3 col-sm-6">
+                    @for(object of data.facts; track $index) {
+                    <div class="mt-count m-b30 text-white mt-icon-box-wraper center bg-dark p-a20">
+                        <div class="counter font-30 font-weight-800 m-b15 text-primary">{{object.figure}}</div>
+                        <h4 class="m-tb0">{{object.title}}</h4>
+                    </div>
+                    }
+                </div>
+                <div class="col-md-5 col-sm-6">
+                    <div class="p-b0">
+                        <div class="mt-box">
+                            <h3 class="m-t0"><span class="font-weight-100"> We have</span><span class="text-primary">
+                                    {{data.experience}} years</span> experience in construction</h3>
+                        </div>
+                        @for(object of data.exData; track $index) {
+                        <div>
+                            <span class="progressText text-black"><B>{{object.title}}</B></span>
+                            <div class="progress mt-probar-1  m-b30 m-t10">
+                                <div class="progress-bar bg-primary " role="progressbar"
+                                    attr.aria-valuenow="{{object.percent}}" aria-valuemin="0" aria-valuemax="100">
+                                    <span class="popOver" data-toggle="tooltips" data-placement="top"
+                                        title="{{object.percent}}%"></span>
+                                </div>
+                            </div>
+                        </div>
+                        }
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>

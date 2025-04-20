@@ -1,0 +1,29 @@
+<div class="section-full our-team-3-wrap p-t80 p-b50 bg-white inner-page-padding">
+    <div class="container">
+
+        <!-- TITLE START -->
+        <div class="section-head">
+            <div class="mt-separator-outer separator-left">
+                <div class="mt-separator">
+                    <h2 class="text-uppercase sep-line-one "><span class="font-weight-300 text-primary">Our</span> Team
+                    </h2>
+                </div>
+            </div>
+        </div>
+        <!-- TITLE END -->
+
+        <!-- IMAGE Team START -->
+        <div class="section-content">
+            <div class="row">
+
+                @for(object of data; track $index) {
+                <div class="col-md-4 col-sm-6 col-xs-6 col-xs-100pc m-b30">
+                    <app-team-box2 [data]="object" />
+                </div>
+                }
+
+            </div>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,138 @@
+<header class="site-header header-style-2">
+    <!-- Search Form -->
+    <div class="header-middle bg-white">
+        <div class="container">
+            <div class="logo-header">
+                <a routerLink="/index">
+                    <img id="header_logo_img" src="assets/images/logo-light.png" width="216" height="37" alt="" />
+                </a>
+            </div>
+            <div class="header-info">
+                <ul>
+                    <li>
+                        <div class="icon-sm">
+                            <span class="icon-cell  text-primary"><i class="fa fa-map-marker"></i></span>
+                        </div>
+                        <div class="icon-content">
+                            <strong>Newyork, USA</strong>
+                            <span>Flat 544, Reynolds Neck Str</span>
+                        </div>
+                    </li>
+                    <li>
+
+                        <div class="icon-sm">
+                            <span class="icon-cell  text-primary"><i class="fa fa-phone"></i></span>
+                        </div>
+                        <div class="icon-content">
+                            <strong>+324 123 45 978</strong>
+                            <span>Mon - Friday: 9.00 to 18.00</span>
+                        </div>
+
+                    </li>
+                    <li class="btn-col-last">
+                        <a class="site-button-secondry btn-effect" routerLink="/page/contact">Requet a Quote</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <!-- Search Form -->
+    <div class="sticky-header main-bar-wraper">
+        <div class="main-bar header-botton nav-bg-secondry">
+            <div class="container">
+                <!-- NAV Toggle Button -->
+                <button data-target=".header-nav" data-toggle="collapse" type="button" class="navbar-toggle collapsed">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <!-- ETRA Nav -->
+                <div class="extra-nav">
+                    <div class="extra-cell">
+                        <a id="#search">
+                            <i class="fa fa-search"></i>
+                        </a>
+                    </div>
+                    <div class="extra-cell">
+                        <a href="javascript:void(0);" class="contact-slide-show"><i
+                                class="fa fa-angle-left arrow-animation"></i></a>
+                    </div>
+                </div>
+                <!-- ETRA Nav -->
+
+                <!-- Contact Nav -->
+                <div class="contact-slide-hide " style="background-image:url(assets/images/background/bg-5.png)">
+                    <div class="contact-nav">
+                        <a href="javascript:void(0)" class="contact_close">&times;</a>
+                        <div class="contact-nav-form p-a30">
+                            <div class="contact-info   m-b30">
+
+                                <div class="mt-icon-box-wraper center p-b30">
+                                    <div class="icon-xs m-b20 scale-in-center"><i class="fa fa-phone"></i></div>
+                                    <div class="icon-content">
+                                        <h5 class="m-t0 font-weight-500">Phone number</h5>
+                                        <p>(075) 123-7654</p>
+                                    </div>
+                                </div>
+
+                                <div class="mt-icon-box-wraper center p-b30">
+                                    <div class="icon-xs m-b20 scale-in-center"><i class="fa fa-envelope"></i></div>
+                                    <div class="icon-content">
+                                        <h5 class="m-t0 font-weight-500">Email address</h5>
+                                        <p>7xthemehelp&#64;gmail.com</p>
+                                    </div>
+                                </div>
+
+                                <div class="mt-icon-box-wraper center p-b30">
+                                    <div class="icon-xs m-b20 scale-in-center"><i class="fa fa-map-marker"></i></div>
+                                    <div class="icon-content">
+                                        <h5 class="m-t0 font-weight-500">Address info</h5>
+                                        <p>201 Liverpool Street, Suite 721, London</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="full-social-bg">
+                                <ul>
+                                    <li><a href="https://www.facebook.com" class="facebook"><i
+                                                class="fa fa-facebook"></i></a></li>
+                                    <li><a href="https://www.google.com" class="google"><i class="fa fa-google"></i></a>
+                                    </li>
+                                    <li><a href="https://www.instagram.com" class="instagram"><i
+                                                class="fa fa-instagram"></i></a></li>
+                                    <li><a href="https://www.tumblr.com" class="tumblr"><i class="fa fa-tumblr"></i></a>
+                                    </li>
+                                    <li><a href="https://x.com" class="twitter"><i class="bi bi-twitter-x"></i></a>
+                                    </li>
+                                    <li><a href="https://www.youtube.com" class="youtube"><i
+                                                class="fa fa-youtube"></i></a></li>
+                                </ul>
+                            </div>
+                            <div class="text-center">
+                                <h4 class="font-weight-600">&copy; 2025 7xtheme</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- SITE Search -->
+                <div id="search">
+                    <span class="close"></span>
+                    <form role="search" id="searchform" action="/search" method="get" class="radius-xl">
+                        <div class="input-group">
+                            <input value="" name="q" type="search" placeholder="Type to search" />
+                            <span class="input-group-btn"><button type="button" class="search-btn"><i
+                                        class="fa fa-search arrow-animation"></i></button></span>
+                        </div>
+                    </form>
+                </div>
+
+                <!-- MAIN Nav -->
+                <div class="header-nav navbar-collapse collapse">
+                    <app-header-nav />
+                </div>
+            </div>
+        </div>
+    </div>
+
+</header>

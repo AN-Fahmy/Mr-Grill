@@ -1,0 +1,29 @@
+<div class="section-full our-service3-wrap mobile-page-padding p-t80 p-b50 bg-dark"
+    style="background-image:url(assets/images/background/bg-5.png);">
+
+    <div class="container">
+
+        <!-- TITLE START -->
+        <div class="section-head">
+            <div class="mt-separator-outer separator-center">
+                <div class="mt-separator text-white">
+                    <h2 class="text-uppercase sep-line-one "><span class="font-weight-300 text-primary">All</span>
+                        Services</h2>
+                </div>
+            </div>
+        </div>
+        <!-- TITLE END -->
+
+        <!-- IMAGE Carousal START -->
+        <div class="section-content">
+            <div class="row">
+                @for(object of data; track $index){
+                <div class="col-md-4 col-sm-6">
+                    <app-service-box3 [data]="object" />
+                </div>
+                }
+            </div>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,29 @@
+<div class="section-full mobile-page-padding p-t80 p-b50 square_shape2 bg-cover" style="background-image:url(assets/images/background/bg6.jpg);">
+    <div class="container">
+        <div class="section-content">
+            
+            <!-- TITLE START -->
+            <div class="section-head">
+                <div class="mt-separator-outer separator-center">
+                    <div class="mt-separator">
+                        <h2 class="text-uppercase sep-line-one "><span class="font-weight-300 text-primary">Client</span> Testimonials</h2>
+                    </div>
+                </div>
+            </div>                   
+            <!-- TITLE END --> 
+            
+                <!-- TESTIMONIAL START -->   
+             <div class="owl-carousal testimonial-home">
+                @for(object of data; track $index) {
+                    <div class="item">
+                        <app-testimonial-box1 [data]="object" />
+                    </div> 
+                }                                                                                                      
+            </div>
+            
+        </div>
+    </div>  
+    <div class="hilite-title text-left p-l50 text-uppercase text-pop-up-top">
+        <strong>Clients</strong>
+    </div> 
+</div> 

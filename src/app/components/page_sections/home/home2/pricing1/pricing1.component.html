@@ -1,0 +1,30 @@
+<div class="section-full our-pricing-wrap text-center bg-gray bg-no-repeat p-t80 p-b50 bg-top-right mobile-page-padding"
+    style="background-image:url(assets/images/background/bg-4.png)">
+    <div class="container">
+
+        <!-- TITLE START -->
+        <div class="section-head">
+            <div class="mt-separator-outer separator-center">
+                <div class="mt-separator">
+                    <h2 class="text-uppercase sep-line-one "><span class="font-weight-300 text-primary">Our </span>
+                        Pricing</h2>
+                </div>
+            </div>
+
+        </div>
+        <!-- TITLE END -->
+
+        <div class="section-content">
+            <div class="pricingtable-row">
+                <div class="row">
+                    @for(object of data; track $index) {
+                    <div class="col-lg-4  col-md-4 col-sm-4 col-xs-6 col-xs-100pc m-b30">
+                        <app-price-box1 [data]="object" />
+                    </div>
+                    }
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>

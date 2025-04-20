@@ -1,0 +1,39 @@
+<div class="section-full our-product3-wrap p-t80 p-b50 bg-parallax bg-cover mobile-page-padding"
+    data-stellar-background-ratio="0.5" style="background-image:url(assets/images/background/bg5.jpg);">
+    <div class="container">
+        <!-- TITLE START -->
+        <div class="section-head">
+            <div class="mt-separator-outer separator-center">
+                <div class="mt-separator text-white">
+                    <h2 class="text-uppercase sep-line-one "><span class="font-weight-300 text-primary">Our</span>
+                        Project</h2>
+                </div>
+            </div>
+        </div>
+        <!-- TITLE END -->
+        <!-- PAGINATION START -->
+        <div class="filter-wrap p-b15 center">
+            <ul class="masonry-filter link-style  text-uppercase white">
+                <li class="active"><a data-filter="*" href="javascript:void(0);">All</a></li>
+                <li><a data-filter=".cat-1" href="javascript:void(0);">Construction</a></li>
+                <li><a data-filter=".cat-2" href="javascript:void(0);">Renovation</a></li>
+                <li><a data-filter=".cat-3" href="javascript:void(0);">Outdoor</a></li>
+                <li><a data-filter=".cat-4" href="javascript:void(0);">Interiors </a></li>
+                <li><a data-filter=".cat-5" href="javascript:void(0);">Consulting</a></li>
+            </ul>
+        </div>
+        <!-- PAGINATION END -->
+
+        <!-- GALLERY CONTENT START -->
+        <div class="portfolio-wrap mfp-gallery work-grid row clearfix">
+            @for(object of data; track $index) {
+            <div class="masonry-item {{object.category}} col-md-3 col-sm-6 m-b30">
+                <app-grid-box2 [data]="object" />
+            </div>
+            }
+        </div>
+        <!-- GALLERY CONTENT END -->
+    </div>
+
+
+</div>

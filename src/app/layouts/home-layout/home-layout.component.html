@@ -1,0 +1,30 @@
+<div class="page-wraper">
+
+    <!-- HEADER START -->
+    @if(header == '1') {
+    <app-header1 />
+    }
+    @else if(header == '2') {
+    <app-header2 />
+    }
+    @else {
+    <app-header3 />
+    }
+    <!-- HEADER END -->
+
+    <!-- CONTENT START -->
+    <div class="page-content">
+
+        <router-outlet />
+
+    </div>
+
+    <!-- FOOTER START -->
+    @if(footer == '1') {
+    <app-footer1 pageHeader="{{(header == '3') ? 'dark' : 'light'}}" />
+    } @else {
+    <app-footer2 />
+    }
+    <!-- FOOTER END -->
+
+</div>

@@ -1,0 +1,23 @@
+<div class="blog-post blog-grid date-style-1">
+    <div class="mt-post-media mt-img-effect zoom-slow">
+        <a routerLink="/blog/image-blog"><img src="{{data.image}}" alt=""></a>
+    </div>
+    <div class="p-tb20 bg-white">
+        <div class="mt-post-info">
+            <div class="mt-post-meta ">
+                <ul>
+                <li class="post-date"><strong class="text-primary">{{data.date}}</strong> <span>{{data.month}} {{data.year}}</span></li>
+                <li class="post-author">By <a routerLink="/blog/image-blog">{{data.author}}</a> </li>
+                <li class="post-comment"><a routerLink="/blog/image-blog">{{data.comments}} comment</a> </li>                                                
+            </ul>
+            </div>                                        
+            <div class="mt-post-title ">
+                <h4 class="post-title"><a routerLink="/blog/image-blog" class=" font-weight-600 m-t0">{{data.title}}</a></h4>
+            </div>
+            <div class="mt-post-text">
+                <p>{{data.description}}</p> 
+            </div>
+            <a routerLink="/blog/image-blog" class="site-button btn-effect ">Read More</a>
+        </div>
+    </div>
+</div>

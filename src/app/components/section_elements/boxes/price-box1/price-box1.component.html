@@ -1,0 +1,26 @@
+<div
+    class="pricingtable-wrapper pricing-table-style-5 bg-white overflow-hide hover-shadow bdr-t-4 bdr-solid bdr-primary">
+    <div class="pricingtable-inner">
+        <div class="pricingtable-title">
+            <h4>{{data.plan}}</h4>
+        </div>
+
+        <div class="pricingtable-price">
+            <span class="pricingtable-bx">{{data.price}}</span>
+            <span class="pricingtable-type">Month</span>
+        </div>
+
+        <ul class="pricingtable-features text-black">
+            @for(object of data.includes; track $index) {
+            <li>{{object.name}} </li>
+            }
+        </ul>
+
+        <div class="pricingtable-footer">
+            <a routerLink="/page/contact" class="site-button btn-effect">Purchase</a>
+        </div>
+
+        <div class="overlay-main bg-white opacity-07"></div>
+    </div>
+
+</div>

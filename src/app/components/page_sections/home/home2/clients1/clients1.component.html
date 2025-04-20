@@ -1,0 +1,23 @@
+<div class="section-full p-t10 bg-white ">
+    <div class="container">
+        <div class="section-content">
+
+            <!-- TESTIMONIAL 4 START ON BACKGROUND -->
+            <div class="section-content">
+                <div class="section-content p-tb10 owl-btn-vertical-center">
+                    <div class="owl-carousal home-client-carousal-2">
+                        @for(object of data; track $index) {
+                        <div class="item">
+                            <div class="ow-client-logo">
+                                <div class="client-logo client-logo-media">
+                                    <a routerLink="/page/about"><img src="{{object.image}}" alt=""></a>
+                                </div>
+                            </div>
+                        </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

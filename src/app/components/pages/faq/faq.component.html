@@ -1,0 +1,32 @@
+<!-- SECTION CONTENTG START -->
+<div class="section-full p-t80 p-b80 inner-page-padding">
+    <div class="container">
+        <div class="faq-1 bg-gray  p-a50">
+            <!-- TITLE START -->
+            <div class="section-head">
+                <div class="mt-separator-outer separator-center">
+                    <div class="mt-separator">
+                        <h2 class="text-uppercase sep-line-one ">FAQ</h2>
+                    </div>
+                </div>
+            </div>
+            <!-- TITLE END -->
+
+
+
+            <!-- Accordian -->
+            <div class="mt-accordion acc-bg-white" id="accordion5">
+
+                @for(object of _data.faq; track $index) {
+                <div class="panel mt-panel">
+                    <app-accordian-box1 [data]="object" />
+                </div>
+                }
+
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<!-- SECTION CONTENT END -->

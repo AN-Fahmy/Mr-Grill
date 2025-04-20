@@ -1,0 +1,27 @@
+<div class="section-full p-t80 p-b50 bg-dark square_shape2  square_shape1 bg-moving mobile-page-padding"
+    style="background-image:url(assets/images/background/bg-6.png)">
+    <div class="container">
+        <div class="section-content">
+
+            <!-- TITLE START -->
+            <div class="section-head">
+                <div class="mt-separator-outer separator-center">
+                    <div class="mt-separator">
+                        <h2 class="text-white text-uppercase sep-line-one "><span
+                                class="font-weight-300 text-primary">Client</span> Testimonials</h2>
+                    </div>
+                </div>
+            </div>
+            <!-- TITLE END -->
+
+            <!-- TESTIMONIAL START -->
+            <div class="owl-carousal testimonial-home-2 m-b30">
+                @for(object of data; track $index) {
+                <div class="item">
+                    <app-testimonial-box2 [data]="object" />
+                </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

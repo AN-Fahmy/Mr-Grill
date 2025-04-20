@@ -1,0 +1,15 @@
+#menu{
+    background-image: linear-gradient(to right, #000000ce, #000000ce), url('../../../../../../../public/assets/images/menu.jpg');
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+}
+*{
+    color: #fff !important;
+}
+.section-head{
+    margin-bottom: 20px;
+}
+.filter-wrap{
+    margin-bottom: 25px;
+}

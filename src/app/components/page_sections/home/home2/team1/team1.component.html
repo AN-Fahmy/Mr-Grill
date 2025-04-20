@@ -1,0 +1,29 @@
+<div class="section-full p-t80 p-b50 our-team2-wrap square_shape1 bg-parallax bg-cover mobile-page-padding"
+    data-stellar-background-ratio="0.5" style="background-image:url(assets/images/background/bg5.jpg);">
+    <div class="container">
+
+        <!-- TITLE START -->
+        <div class="section-head text-center text-white ">
+            <div class="mt-separator-outer separator-center">
+                <div class="mt-separator">
+                    <h2 class="text-white text-uppercase sep-line-one "><span class="font-weight-300 text-primary">Our
+                        </span> Team</h2>
+                </div>
+            </div>
+            <h2>Discover trust team and our experts</h2>
+        </div>
+        <!-- TITLE END -->
+
+        <!-- IMAGE Carousal START -->
+        <div class="section-content">
+            <div class="row">
+                @for(object of data; track $index) {
+                <div class="col-md-3 col-sm-6 col-xs-6 col-xs-100pc m-b30">
+                    <app-team-box1 [data]="object" />
+                </div>
+                }
+            </div>
+        </div>
+
+    </div>
+</div>

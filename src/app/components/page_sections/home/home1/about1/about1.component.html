@@ -1,0 +1,50 @@
+<div class="section-full mobile-page-padding p-t80 p-b30 bg-dark bg-repeat square_shape2 bg-moving"
+    style="background-image:url(assets/images/background/bg-6.png)">
+    <div class="container">
+        <!-- TITLE START -->
+        <div class="section-head">
+            <div class="mt-separator-outer separator-center">
+                <div class="mt-separator">
+                    <h2 class="text-white text-uppercase sep-line-one "><span
+                            class="font-weight-300 text-primary">About</span> Company</h2>
+                </div>
+            </div>
+        </div>
+        <!-- TITLE END -->
+
+        <div class="section-content">
+            <div class="row">
+                <div class="col-md-9 col-sm-12">
+                    <div class="owl-carousal about-home owl-btn-vertical-center">
+                        @for(object of data; track $index) {
+                        <div class="item">
+                            <div class="mt-img-effect zoom-slow">
+                                <a routerLink="/page/about"><img src="{{object.image}}" alt=""></a>
+                            </div>
+                        </div>
+                        }
+                    </div>
+                </div>
+
+                <div class="col-md-3 col-sm-12">
+                    <div class="about-home-right bg-white p-a30">
+                        <h3 class="m-t0"><span class="font-weight-100">Committed</span> to superior quality and results.
+                        </h3>
+                        <p><strong>Contrary to popular belief, lorem Ipsum is not
+                                simply text. It has roots in a piece of
+                                classical Latin literature from 45 BC.</strong></p>
+                        <p>There are many variations passages available, but the majority have suffered alteration in or
+                            some form, by inject humour, or randomised words which don't look slightly believable. </p>
+                        <div class="text-right">
+                            <a routerLink="/page/about" class="site-button-link" data-hover="Read More">Read More <i
+                                    class="fa fa-angle-right arrow-animation"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="hilite-title text-left p-l50 text-uppercase hilite-dark">
+        <strong>About</strong>
+    </div>
+</div>

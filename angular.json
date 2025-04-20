@@ -1,0 +1,172 @@
+{
+  "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
+  "version": 1,
+  "newProjectRoot": "projects",
+  "projects": {
+    "shapen": {
+      "projectType": "application",
+      "schematics": {},
+      "root": "",
+      "sourceRoot": "src",
+      "prefix": "app",
+      "architect": {
+        "build": {
+          "builder": "@angular-devkit/build-angular:application",
+          "options": {
+            "outputPath": "dist/shapen",
+            "index": "src/index.html",
+            "browser": "src/main.ts",
+            "polyfills": [
+              "zone.js"
+            ],
+            "tsConfig": "tsconfig.app.json",
+            "assets": [
+              {
+                "glob": "**/*",
+                "input": "public"
+              }
+            ],
+            "styles": [
+              "public/assets/css/bootstrap.min.css",
+              "public/assets/css/bootstrap-icons.css",
+              "node_modules/@fortawesome/fontawesome-free/css/all.min.css",
+              "public/assets/css/fontawesome/css/font-awesome.min.css",
+              "public/assets/css/owl.carousel.min.css",
+              "public/assets/css/magnific-popup.min.css",
+              "public/assets/css/loader.min.css",
+              "public/assets/css/flaticon.min.css",
+              "public/assets/css/style.css",
+              "public/assets/plugins/revolution/revolution/css/settings.css",
+              "public/assets/plugins/revolution/revolution/css/navigation.css",
+              "public/assets/plugins/revolution/revolution-addons/typewriter/css/typewriter.css",
+              "public/assets/plugins/revolution/revolution-addons/reveal/css/revolution.addon.revealer.css",
+              "public/assets/plugins/revolution/revolution-addons/reveal/css/revolution.addon.revealer.preloaders.css",
+              {
+                "input": "public/assets/css/skin/skin-1.css",
+                "bundleName": "skin-1",
+                "inject": false
+              },
+              {
+                "input": "public/assets/css/skin/skin-2.css",
+                "bundleName": "skin-2",
+                "inject": false
+              },
+              {
+                "input": "public/assets/css/skin/skin-3.css",
+                "bundleName": "skin-3",
+                "inject": false
+              },
+              {
+                "input": "public/assets/css/skin/skin-4.css",
+                "bundleName": "skin-4",
+                "inject": false
+              },
+              {
+                "input": "public/assets/css/skin/skin-5.css",
+                "bundleName": "skin-5",
+                "inject": false
+              },
+              {
+                "input": "public/assets/css/skin/skin-6.css",
+                "bundleName": "skin-6",
+                "inject": false
+              },
+              {
+                "input": "public/assets/css/skin/skin-7.css",
+                "bundleName": "skin-7",
+                "inject": false
+              },
+              {
+                "input": "public/assets/css/skin/skin-8.css",
+                "bundleName": "skin-8",
+                "inject": false
+              }
+            ],
+            "scripts": [
+              "public/assets/js/jquery-1.12.4.min.js",
+              "public/assets/js/bootstrap.min.js",
+              "public/assets/js/magnific-popup.min.js",
+              "public/assets/js/waypoints.min.js",
+              "public/assets/js/counterup.min.js",
+              "public/assets/js/waypoints-sticky.min.js",
+              "public/assets/js/isotope.pkgd.min.js",
+              "public/assets/js/imagesloaded.pkgd.min.js",
+              "public/assets/js/owl.carousel.min.js",
+              "public/assets/js/jquery.owl-filter.js",
+              "public/assets/js/stellar.min.js",
+              "public/assets/js/custom.js",
+              "public/assets/js/jquery.bgscroll.js",
+              "public/assets/plugins/revolution/revolution/js/jquery.themepunch.tools.min.js",
+              "public/assets/plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js",
+              "public/assets/plugins/revolution/revolution/js/extensions/revolution-plugin.js",
+              "public/assets/plugins/revolution/revolution-addons/typewriter/js/revolution.addon.typewriter.min.js",
+              "public/assets/plugins/revolution/revolution-addons/reveal/js/revolution.addon.revealer.min.js",
+              "public/assets/js/rev-script.js"
+            ]
+          },
+          "configurations": {
+            "production": {
+              "budgets": [
+                {
+                  "type": "initial",
+                  "maximumWarning": "2mb",
+                  "maximumError": "4MB"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "2mb",
+                  "maximumError": "8kB"
+                }
+              ],
+              "outputHashing": "all"
+            },
+            "development": {
+              "optimization": false,
+              "extractLicenses": false,
+              "sourceMap": true
+            }
+          },
+          "defaultConfiguration": "production"
+        },
+        "serve": {
+          "builder": "@angular-devkit/build-angular:dev-server",
+          "configurations": {
+            "production": {
+              "buildTarget": "shapen:build:production"
+            },
+            "development": {
+              "buildTarget": "shapen:build:development"
+            }
+          },
+          "defaultConfiguration": "development"
+        },
+        "extract-i18n": {
+          "builder": "@angular-devkit/build-angular:extract-i18n"
+        },
+        "test": {
+          "builder": "@angular-devkit/build-angular:karma",
+          "options": {
+            "polyfills": [
+              "zone.js",
+              "zone.js/testing"
+            ],
+            "tsConfig": "tsconfig.spec.json",
+            "assets": [
+              {
+                "glob": "**/*",
+                "input": "public"
+              }
+            ],
+            "styles": [
+              "src/styles.css"
+            ],
+            "scripts": []
+          }
+        }
+      }
+    }
+  },
+  "cli": {
+    "analytics": "eda59c3d-ae2c-41db-b539-bc8c1873699e"
+  }
+}
