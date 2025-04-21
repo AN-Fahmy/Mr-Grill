@@ -13,3 +13,20 @@
 .filter-wrap{
     margin-bottom: 25px;
 }
+.link-style li a {
+    position: relative;
+}
+.link-style li a::before{
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60%;
+    height: 2px;
+    background-color: rgba(255, 255, 255, 0.616);
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    -o-transform: translateX(-50%);
+}

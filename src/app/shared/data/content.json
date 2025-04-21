@@ -756,6 +756,26 @@
         "title": "صحن شاورما دجاج",
         "title2": "Chicken Shawarma Plate",
         "price": "1,800"
+      },
+      {
+        "main-title":"الوجبات",
+        "category": "cat-7",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "وجبة كبدة إسكندراني",
+        "subTitle":"مع أرز + بطاطس + طحينة",
+        "title2": "Chicken Shawarma Plate",
+        "subTitle2":"Served with rice, Potatoes, and tahini sauce",
+        "price": "1,500"
+      },
+      {
+        "main-title":"الوجبات",
+        "category": "cat-7",
+        "image": "assets/images/projects/square/pic6.jpg",
+        "title": "وجبة لحمة",
+        "subTitle":"مع أرز + بطاطس + طحينة",
+        "title2": "Chicken Shawarma Plate",
+        "subTitle2":"Served with rice, Potatoes, and tahini sauce",
+        "price": "2,000"
       }
     ],
     "team": [
