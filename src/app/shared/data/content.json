@@ -372,6 +372,16 @@
       {
         "main-title":"ساندوتشات على الفحم",
         "category": "cat-1",
+        "image": "assets/images/projects/square/pic5.jpg",
+        "title": "ساندوتش برجر على الفحم",
+        "subTitle":"مع بطاطس",
+        "title2": "Grilled Burger Sandwich",
+        "subTitle2":"with Fries",
+        "price": "1,000"
+      },
+      {
+        "main-title":"ساندوتشات على الفحم",
+        "category": "cat-1",
         "image": "assets/images/projects/square/pic3.jpg",
         "title": "ساندوتش شيش طاووق",
         "subTitle":"مع بطاطس",
@@ -485,6 +495,16 @@
         "main-title":"المشويات",
         "category": "cat-3",
         "image": "assets/images/projects/square/pic6.jpg",
+        "title": "طبق طرب",
+        "subTitle":"مع ارز + بطاطس + خبز + طحينة",
+        "title2": "Delight Platter",
+        "subTitle2":"Served with rice, potatoes, fresh bread, and tahini sauce",
+        "price": "2,500"
+      },
+      {
+        "main-title":"المشويات",
+        "category": "cat-3",
+        "image": "assets/images/projects/square/pic6.jpg",
         "title": "طبق شيش طاووق",
         "subTitle":"مع ارز + بطاطس + تومية",
         "title2": "Shish Tawook Plate",
@@ -575,10 +595,10 @@
         "main-title":"الطواجن",
         "category": "cat-4",
         "image": "assets/images/projects/square/pic6.jpg",
-        "title": "طاجن لحمة",
-        "subTitle":"مع أرز بسمتي + سلطة + مخلل",
-        "title2": "Beef Tagine",
-        "subTitle2":"Served with basmati rice, salad, and pickles",
+        "title": "طاجن كباب حلة لحم",
+        "subTitle":"مع أرز بشعرية + سلطة + مخلل",
+        "title2": "Beef Kebab Tagine",
+        "subTitle2":"Served with rice with vermicelli, salad, and pickles",
         "price": "2,000"
       },
       {
@@ -651,7 +671,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "تومية",
         "title2": "Toum",
-        "price": "0,00"
+        "price": "0,250"
       },
       {
         "main-title":"الإضافات",
@@ -659,7 +679,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "طحينة",
         "title2": "Tahini",
-        "price": "0,00"
+        "price": "0,250"
       },
       {
         "main-title":"الإضافات",
@@ -667,7 +687,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "باب غنوج",
         "title2": "Baba Ghanoush",
-        "price": "0,00"
+        "price": "0,250"
       },
       {
         "main-title":"الإضافات",
@@ -675,7 +695,7 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "زبادي",
         "title2": "Yogurt",
-        "price": "0,00"
+        "price": "0,250"
       },
       {
         "main-title":"الإضافات",
@@ -707,15 +727,15 @@
         "image": "assets/images/projects/square/pic6.jpg",
         "title": "مياة",
         "title2": "Water",
-        "price": "0,00"
+        "price": "0,100"
       },
       {
         "main-title":"الإضافات",
         "category": "cat-5",
         "image": "assets/images/projects/square/pic6.jpg",
-        "title": "بيبسي",
-        "title2": "Pepsi",
-        "price": "0,00"
+        "title": "كينزا",
+        "title2": "Kinza",
+        "price": "0,250"
       },
       {
         "main-title":"الشاورما",
